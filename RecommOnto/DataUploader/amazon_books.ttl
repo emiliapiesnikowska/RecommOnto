@@ -21,10 +21,10 @@
     :aboutBook :Book_its_only_art_if_its_well_hung_ ;
     :Value "4.0"^^xsd:float .
 
-:jim_of_oz__jim_of_oz_ a foaf:Person ;
-    rdfs:label "Jim of Oz "jim-of-oz"" .
+:jim_of_oz_jim_of_oz a foaf:Person ;
+    rdfs:label "Jim of Oz jim-of-oz" .
 
-:jim_of_oz__jim_of_oz_ schema:rating :Rating_avcgyzl8fqqtd_its_only_art_if_its_well_hung_ .
+:jim_of_oz_jim_of_oz schema:rating :Rating_avcgyzl8fqqtd_its_only_art_if_its_well_hung_ .
 
 :__biography___autobiography__ a :Genre ;
     rdfs:label "['Biography & Autobiography']" .
@@ -55,19 +55,19 @@
     :aboutBook :Book_dr__seuss__american_icon ;
     :Value "4.0"^^xsd:float .
 
-:roy_e__perry__amateur_philosopher_ a foaf:Person ;
-    rdfs:label "Roy E. Perry "amateur philosopher"" .
+:roy_e__perry_amateur_philosopher a foaf:Person ;
+    rdfs:label "Roy E. Perry amateur philosopher" .
 
-:roy_e__perry__amateur_philosopher_ schema:rating :Rating_a2mvuwt453qh61_dr__seuss__american_icon .
+:roy_e__perry_amateur_philosopher schema:rating :Rating_a2mvuwt453qh61_dr__seuss__american_icon .
 
 :Rating_a22x4xupkf66mr_dr__seuss__american_icon a schema:Rating ;
     :aboutBook :Book_dr__seuss__american_icon ;
     :Value "4.0"^^xsd:float .
 
-:d__h__richards__ninthwavestore_ a foaf:Person ;
-    rdfs:label "D. H. Richards "ninthwavestore"" .
+:d__h__richards_ninthwavestore a foaf:Person ;
+    rdfs:label "D. H. Richards ninthwavestore" .
 
-:d__h__richards__ninthwavestore_ schema:rating :Rating_a22x4xupkf66mr_dr__seuss__american_icon .
+:d__h__richards_ninthwavestore schema:rating :Rating_a22x4xupkf66mr_dr__seuss__american_icon .
 
 :Rating_a2f6nonfudb6uk_dr__seuss__american_icon a schema:Rating ;
     :aboutBook :Book_dr__seuss__american_icon ;
@@ -100,10 +100,10 @@
     :aboutBook :Book_dr__seuss__american_icon ;
     :Value "5.0"^^xsd:float .
 
-:j__p__higbed__big_fellow_ a foaf:Person ;
-    rdfs:label "J. P. HIGBED "big fellow"" .
+:j__p__higbed_big_fellow a foaf:Person ;
+    rdfs:label "J. P. HIGBED big fellow" .
 
-:j__p__higbed__big_fellow_ schema:rating :Rating_a25md5i2guiw6w_dr__seuss__american_icon .
+:j__p__higbed_big_fellow schema:rating :Rating_a25md5i2guiw6w_dr__seuss__american_icon .
 
 :Rating_a3va4xfs5wnjo3_dr__seuss__american_icon a schema:Rating ;
     :aboutBook :Book_dr__seuss__american_icon ;
@@ -143,10 +143,10 @@
     :aboutBook :Book_wonderful_worship_in_smaller_churches ;
     :Value "5.0"^^xsd:float .
 
-:cynthia_l__lajoy__cindy_la_joy_ a foaf:Person ;
-    rdfs:label "Cynthia L. Lajoy "Cindy La Joy"" .
+:cynthia_l__lajoy_cindy_la_joy a foaf:Person ;
+    rdfs:label "Cynthia L. Lajoy Cindy La Joy" .
 
-:cynthia_l__lajoy__cindy_la_joy_ schema:rating :Rating_agkgoh65vtrr4_wonderful_worship_in_smaller_churches .
+:cynthia_l__lajoy_cindy_la_joy schema:rating :Rating_agkgoh65vtrr4_wonderful_worship_in_smaller_churches .
 
 :Rating_a3oqwlu31bu1y_wonderful_worship_in_smaller_churches a schema:Rating ;
     :aboutBook :Book_wonderful_worship_in_smaller_churches ;
@@ -186,10 +186,10 @@
     :aboutBook :Book_whispers_of_the_wicked_saints ;
     :Value "1.0"^^xsd:float .
 
-:lovetoread__actually_read_books_ a foaf:Person ;
-    rdfs:label "LoveToRead "Actually Read Books"" .
+:lovetoread_actually_read_books a foaf:Person ;
+    rdfs:label "LoveToRead Actually Read Books" .
 
-:lovetoread__actually_read_books_ schema:rating :Rating_aur0va5h0c66c_whispers_of_the_wicked_saints .
+:lovetoread_actually_read_books schema:rating :Rating_aur0va5h0c66c_whispers_of_the_wicked_saints .
 
 :Rating_a1yldz3vhr6qpz_whispers_of_the_wicked_saints a schema:Rating ;
     :aboutBook :Book_whispers_of_the_wicked_saints ;
@@ -213,10 +213,10 @@
     :aboutBook :Book_whispers_of_the_wicked_saints ;
     :Value "5.0"^^xsd:float .
 
-:missylou__apple_ a foaf:Person ;
-    rdfs:label "missyLou "apple"" .
+:missylou_apple a foaf:Person ;
+    rdfs:label "missyLou apple" .
 
-:missylou__apple_ schema:rating :Rating_a1vk81crrc7mlm_whispers_of_the_wicked_saints .
+:missylou_apple schema:rating :Rating_a1vk81crrc7mlm_whispers_of_the_wicked_saints .
 
 :Rating_a2gkuh6obw7poh_whispers_of_the_wicked_saints a schema:Rating ;
     :aboutBook :Book_whispers_of_the_wicked_saints ;
@@ -267,19 +267,19 @@
     :aboutBook :Book_whispers_of_the_wicked_saints ;
     :Value "5.0"^^xsd:float .
 
-:barbara_steinbach__a_true_fan_ a foaf:Person ;
-    rdfs:label "Barbara Steinbach "A True Fan"" .
+:barbara_steinbach_a_true_fan a foaf:Person ;
+    rdfs:label "Barbara Steinbach A True Fan" .
 
-:barbara_steinbach__a_true_fan_ schema:rating :Rating_aseiu33yvkkww_whispers_of_the_wicked_saints .
+:barbara_steinbach_a_true_fan schema:rating :Rating_aseiu33yvkkww_whispers_of_the_wicked_saints .
 
 :Rating_ajv5hx8bbzkep_whispers_of_the_wicked_saints a schema:Rating ;
     :aboutBook :Book_whispers_of_the_wicked_saints ;
     :Value "4.0"^^xsd:float .
 
-:jaylynn_roberts__jaylynn_roberts_ a foaf:Person ;
-    rdfs:label "jaylynn Roberts "jaylynn roberts"" .
+:jaylynn_roberts_jaylynn_roberts a foaf:Person ;
+    rdfs:label "jaylynn Roberts jaylynn roberts" .
 
-:jaylynn_roberts__jaylynn_roberts_ schema:rating :Rating_ajv5hx8bbzkep_whispers_of_the_wicked_saints .
+:jaylynn_roberts_jaylynn_roberts schema:rating :Rating_ajv5hx8bbzkep_whispers_of_the_wicked_saints .
 
 :Rating_a1p2kge2z8rta_whispers_of_the_wicked_saints a schema:Rating ;
     :aboutBook :Book_whispers_of_the_wicked_saints ;
@@ -312,10 +312,10 @@
     :aboutBook :Book_whispers_of_the_wicked_saints ;
     :Value "5.0"^^xsd:float .
 
-:rebecca_lover__becky_ a foaf:Person ;
-    rdfs:label "Rebecca Lover "Becky"" .
+:rebecca_lover_becky a foaf:Person ;
+    rdfs:label "Rebecca Lover Becky" .
 
-:rebecca_lover__becky_ schema:rating :Rating_a16ftkp8bxkghg_whispers_of_the_wicked_saints .
+:rebecca_lover_becky schema:rating :Rating_a16ftkp8bxkghg_whispers_of_the_wicked_saints .
 
 :Rating_a1n38f1dj9h2km_whispers_of_the_wicked_saints a schema:Rating ;
     :aboutBook :Book_whispers_of_the_wicked_saints ;
@@ -393,19 +393,19 @@
     :aboutBook :Book_whispers_of_the_wicked_saints ;
     :Value "1.0"^^xsd:float .
 
-:denpq__a_reader_ a foaf:Person ;
-    rdfs:label "denpq "A READER"" .
+:denpq_a_reader a foaf:Person ;
+    rdfs:label "denpq A READER" .
 
-:denpq__a_reader_ schema:rating :Rating_a9l6ghjc42rrc_whispers_of_the_wicked_saints .
+:denpq_a_reader schema:rating :Rating_a9l6ghjc42rrc_whispers_of_the_wicked_saints .
 
 :Rating_a3t591dtkpycvw_whispers_of_the_wicked_saints a schema:Rating ;
     :aboutBook :Book_whispers_of_the_wicked_saints ;
     :Value "1.0"^^xsd:float .
 
-:fran__avid_reader_ a foaf:Person ;
-    rdfs:label "Fran "Avid reader"" .
+:fran_avid_reader a foaf:Person ;
+    rdfs:label "Fran Avid reader" .
 
-:fran__avid_reader_ schema:rating :Rating_a3t591dtkpycvw_whispers_of_the_wicked_saints .
+:fran_avid_reader schema:rating :Rating_a3t591dtkpycvw_whispers_of_the_wicked_saints .
 
 :Rating_a1xni3654i4me2_whispers_of_the_wicked_saints a schema:Rating ;
     :aboutBook :Book_whispers_of_the_wicked_saints ;
@@ -509,10 +509,10 @@
     :aboutBook :Book_saint_hyacinth_of_poland ;
     :Value "4.0"^^xsd:float .
 
-:nov_10__tom_ a foaf:Person ;
-    rdfs:label "Nov 10 "Tom"" .
+:nov_10_tom a foaf:Person ;
+    rdfs:label "Nov 10 Tom" .
 
-:nov_10__tom_ schema:rating :Rating_a1ivik8yjriqwu_saint_hyacinth_of_poland .
+:nov_10_tom schema:rating :Rating_a1ivik8yjriqwu_saint_hyacinth_of_poland .
 
 :__social_science__ a :Genre ;
     rdfs:label "['Social Science']" .
@@ -575,10 +575,10 @@
     :aboutBook :Book_dramatica_for_screenwriters ;
     :Value "5.0"^^xsd:float .
 
-:joy_higgins__wordweaver_ a foaf:Person ;
-    rdfs:label "Joy Higgins "Wordweaver"" .
+:joy_higgins_wordweaver a foaf:Person ;
+    rdfs:label "Joy Higgins Wordweaver" .
 
-:joy_higgins__wordweaver_ schema:rating :Rating_a252prc1xbmtqj_dramatica_for_screenwriters .
+:joy_higgins_wordweaver schema:rating :Rating_a252prc1xbmtqj_dramatica_for_screenwriters .
 
 :Rating_a38fach4r3bb6v_dramatica_for_screenwriters a schema:Rating ;
     :aboutBook :Book_dramatica_for_screenwriters ;
@@ -611,10 +611,10 @@
     :aboutBook :Book_dramatica_for_screenwriters ;
     :Value "5.0"^^xsd:float .
 
-:jeffery_cotton__jeffery_cotton_ a foaf:Person ;
-    rdfs:label "Jeffery Cotton "Jeffery Cotton"" .
+:jeffery_cotton_jeffery_cotton a foaf:Person ;
+    rdfs:label "Jeffery Cotton Jeffery Cotton" .
 
-:jeffery_cotton__jeffery_cotton_ schema:rating :Rating_a32zq5dexbl60z_dramatica_for_screenwriters .
+:jeffery_cotton_jeffery_cotton schema:rating :Rating_a32zq5dexbl60z_dramatica_for_screenwriters .
 
 :Rating_a2ksxsrtmd3zj4_dramatica_for_screenwriters a schema:Rating ;
     :aboutBook :Book_dramatica_for_screenwriters ;
@@ -647,19 +647,19 @@
     :aboutBook :Book_dramatica_for_screenwriters ;
     :Value "5.0"^^xsd:float .
 
-:jaidi__jaidi_ a foaf:Person ;
-    rdfs:label "jaidi "jaidi"" .
+:jaidi_jaidi a foaf:Person ;
+    rdfs:label "jaidi jaidi" .
 
-:jaidi__jaidi_ schema:rating :Rating_a1h4hmvbmqfugr_dramatica_for_screenwriters .
+:jaidi_jaidi schema:rating :Rating_a1h4hmvbmqfugr_dramatica_for_screenwriters .
 
 :Rating_a309dq3thgnxd_dramatica_for_screenwriters a schema:Rating ;
     :aboutBook :Book_dramatica_for_screenwriters ;
     :Value "5.0"^^xsd:float .
 
-:stefan_mueller__werbe_texter_ a foaf:Person ;
-    rdfs:label "Stefan Mueller "Werbe-Texter"" .
+:stefan_mueller_werbe_texter a foaf:Person ;
+    rdfs:label "Stefan Mueller Werbe-Texter" .
 
-:stefan_mueller__werbe_texter_ schema:rating :Rating_a309dq3thgnxd_dramatica_for_screenwriters .
+:stefan_mueller_werbe_texter schema:rating :Rating_a309dq3thgnxd_dramatica_for_screenwriters .
 
 :__juvenile_nonfiction__ a :Genre ;
     rdfs:label "['Juvenile Nonfiction']" .
@@ -672,10 +672,10 @@
     :aboutBook :Book_mensa_number_puzzles__mensa_word_games_for_kids_ ;
     :Value "3.0"^^xsd:float .
 
-:_dirtpile_ a foaf:Person ;
-    rdfs:label ""dirtpile"" .
+:dirtpile a foaf:Person ;
+    rdfs:label "dirtpile" .
 
-:_dirtpile_ schema:rating :Rating_a1ayn4j7t43m11_mensa_number_puzzles__mensa_word_games_for_kids_ .
+:dirtpile schema:rating :Rating_a1ayn4j7t43m11_mensa_number_puzzles__mensa_word_games_for_kids_ .
 
 :Rating_unknown_mensa_number_puzzles__mensa_word_games_for_kids_ a schema:Rating ;
     :aboutBook :Book_mensa_number_puzzles__mensa_word_games_for_kids_ ;
@@ -718,10 +718,10 @@
     :aboutBook :Book_vector_quantization_and_signal_compression__the_springer_international_series_in_engineering_and_computer_science_ ;
     :Value "5.0"^^xsd:float .
 
-:david_jimenez__dj_ a foaf:Person ;
-    rdfs:label "David Jimenez "DJ"" .
+:david_jimenez_dj a foaf:Person ;
+    rdfs:label "David Jimenez DJ" .
 
-:david_jimenez__dj_ schema:rating :Rating_a29z0b2l367zo_vector_quantization_and_signal_compression__the_springer_international_series_in_engineering_and_computer_science_ .
+:david_jimenez_dj schema:rating :Rating_a29z0b2l367zo_vector_quantization_and_signal_compression__the_springer_international_series_in_engineering_and_computer_science_ .
 
 :Rating_unknown_vector_quantization_and_signal_compression__the_springer_international_series_in_engineering_and_computer_science_ a schema:Rating ;
     :aboutBook :Book_vector_quantization_and_signal_compression__the_springer_international_series_in_engineering_and_computer_science_ ;
@@ -740,10 +740,10 @@
     :aboutBook :Book_a_husband_for_kutani ;
     :Value "5.0"^^xsd:float .
 
-:laurence_bush__horror_critic_ a foaf:Person ;
-    rdfs:label "Laurence Bush "horror critic"" .
+:laurence_bush_horror_critic a foaf:Person ;
+    rdfs:label "Laurence Bush horror critic" .
 
-:laurence_bush__horror_critic_ schema:rating :Rating_a2hdzhlmt3l5io_a_husband_for_kutani .
+:laurence_bush_horror_critic schema:rating :Rating_a2hdzhlmt3l5io_a_husband_for_kutani .
 
 :__new_zealand_fiction__ a :Genre ;
     rdfs:label "['New Zealand fiction']" .
@@ -764,69 +764,69 @@
 :__law__ a :Genre ;
     rdfs:label "['Law']" .
 
-:Book_the_ultimate_guide_to_law_school_admission__insider_secrets_for_getting_a__big_envelope__with_your_acceptance_to_law_school_ a schema:Book ;
+:Book_the_ultimate_guide_to_law_school_admission__insider_secrets_for_getting_a_big_envelope_with_your_acceptance_to_law_school_ a schema:Book ;
     rdfs:label "The Ultimate Guide to Law School Admission: Insider Secrets for Getting a Big Envelope with Your Acceptance to Law School!" ;
     :hasGenre :__law__ .
 
-:Rating_a1kz0rdjzqsy4o_the_ultimate_guide_to_law_school_admission__insider_secrets_for_getting_a__big_envelope__with_your_acceptance_to_law_school_ a schema:Rating ;
-    :aboutBook :Book_the_ultimate_guide_to_law_school_admission__insider_secrets_for_getting_a__big_envelope__with_your_acceptance_to_law_school_ ;
+:Rating_a1kz0rdjzqsy4o_the_ultimate_guide_to_law_school_admission__insider_secrets_for_getting_a_big_envelope_with_your_acceptance_to_law_school_ a schema:Rating ;
+    :aboutBook :Book_the_ultimate_guide_to_law_school_admission__insider_secrets_for_getting_a_big_envelope_with_your_acceptance_to_law_school_ ;
     :Value "3.0"^^xsd:float .
 
 :sayock a foaf:Person ;
     rdfs:label "sayock" .
 
-:sayock schema:rating :Rating_a1kz0rdjzqsy4o_the_ultimate_guide_to_law_school_admission__insider_secrets_for_getting_a__big_envelope__with_your_acceptance_to_law_school_ .
+:sayock schema:rating :Rating_a1kz0rdjzqsy4o_the_ultimate_guide_to_law_school_admission__insider_secrets_for_getting_a_big_envelope_with_your_acceptance_to_law_school_ .
 
-:Rating_a2y6kqpzuzp1mm_the_ultimate_guide_to_law_school_admission__insider_secrets_for_getting_a__big_envelope__with_your_acceptance_to_law_school_ a schema:Rating ;
-    :aboutBook :Book_the_ultimate_guide_to_law_school_admission__insider_secrets_for_getting_a__big_envelope__with_your_acceptance_to_law_school_ ;
+:Rating_a2y6kqpzuzp1mm_the_ultimate_guide_to_law_school_admission__insider_secrets_for_getting_a_big_envelope_with_your_acceptance_to_law_school_ a schema:Rating ;
+    :aboutBook :Book_the_ultimate_guide_to_law_school_admission__insider_secrets_for_getting_a_big_envelope_with_your_acceptance_to_law_school_ ;
     :Value "2.0"^^xsd:float .
 
 :t_bird a foaf:Person ;
     rdfs:label "T.Bird" .
 
-:t_bird schema:rating :Rating_a2y6kqpzuzp1mm_the_ultimate_guide_to_law_school_admission__insider_secrets_for_getting_a__big_envelope__with_your_acceptance_to_law_school_ .
+:t_bird schema:rating :Rating_a2y6kqpzuzp1mm_the_ultimate_guide_to_law_school_admission__insider_secrets_for_getting_a_big_envelope_with_your_acceptance_to_law_school_ .
 
-:Rating_a79qz7yqfixg6_the_ultimate_guide_to_law_school_admission__insider_secrets_for_getting_a__big_envelope__with_your_acceptance_to_law_school_ a schema:Rating ;
-    :aboutBook :Book_the_ultimate_guide_to_law_school_admission__insider_secrets_for_getting_a__big_envelope__with_your_acceptance_to_law_school_ ;
+:Rating_a79qz7yqfixg6_the_ultimate_guide_to_law_school_admission__insider_secrets_for_getting_a_big_envelope_with_your_acceptance_to_law_school_ a schema:Rating ;
+    :aboutBook :Book_the_ultimate_guide_to_law_school_admission__insider_secrets_for_getting_a_big_envelope_with_your_acceptance_to_law_school_ ;
     :Value "5.0"^^xsd:float .
 
 :adam_glickman a foaf:Person ;
     rdfs:label "Adam Glickman" .
 
-:adam_glickman schema:rating :Rating_a79qz7yqfixg6_the_ultimate_guide_to_law_school_admission__insider_secrets_for_getting_a__big_envelope__with_your_acceptance_to_law_school_ .
+:adam_glickman schema:rating :Rating_a79qz7yqfixg6_the_ultimate_guide_to_law_school_admission__insider_secrets_for_getting_a_big_envelope_with_your_acceptance_to_law_school_ .
 
-:Rating_unknown_the_ultimate_guide_to_law_school_admission__insider_secrets_for_getting_a__big_envelope__with_your_acceptance_to_law_school_ a schema:Rating ;
-    :aboutBook :Book_the_ultimate_guide_to_law_school_admission__insider_secrets_for_getting_a__big_envelope__with_your_acceptance_to_law_school_ ;
+:Rating_unknown_the_ultimate_guide_to_law_school_admission__insider_secrets_for_getting_a_big_envelope_with_your_acceptance_to_law_school_ a schema:Rating ;
+    :aboutBook :Book_the_ultimate_guide_to_law_school_admission__insider_secrets_for_getting_a_big_envelope_with_your_acceptance_to_law_school_ ;
     :Value "5.0"^^xsd:float .
 
-:unknown schema:rating :Rating_unknown_the_ultimate_guide_to_law_school_admission__insider_secrets_for_getting_a__big_envelope__with_your_acceptance_to_law_school_ .
+:unknown schema:rating :Rating_unknown_the_ultimate_guide_to_law_school_admission__insider_secrets_for_getting_a_big_envelope_with_your_acceptance_to_law_school_ .
 
-:Rating_a142frlmoaolc7_the_ultimate_guide_to_law_school_admission__insider_secrets_for_getting_a__big_envelope__with_your_acceptance_to_law_school_ a schema:Rating ;
-    :aboutBook :Book_the_ultimate_guide_to_law_school_admission__insider_secrets_for_getting_a__big_envelope__with_your_acceptance_to_law_school_ ;
+:Rating_a142frlmoaolc7_the_ultimate_guide_to_law_school_admission__insider_secrets_for_getting_a_big_envelope_with_your_acceptance_to_law_school_ a schema:Rating ;
+    :aboutBook :Book_the_ultimate_guide_to_law_school_admission__insider_secrets_for_getting_a_big_envelope_with_your_acceptance_to_law_school_ ;
     :Value "4.0"^^xsd:float .
 
 :judgejoe a foaf:Person ;
     rdfs:label "JudgeJoe" .
 
-:judgejoe schema:rating :Rating_a142frlmoaolc7_the_ultimate_guide_to_law_school_admission__insider_secrets_for_getting_a__big_envelope__with_your_acceptance_to_law_school_ .
+:judgejoe schema:rating :Rating_a142frlmoaolc7_the_ultimate_guide_to_law_school_admission__insider_secrets_for_getting_a_big_envelope_with_your_acceptance_to_law_school_ .
 
-:Rating_a3aja5adm3q8lm_the_ultimate_guide_to_law_school_admission__insider_secrets_for_getting_a__big_envelope__with_your_acceptance_to_law_school_ a schema:Rating ;
-    :aboutBook :Book_the_ultimate_guide_to_law_school_admission__insider_secrets_for_getting_a__big_envelope__with_your_acceptance_to_law_school_ ;
+:Rating_a3aja5adm3q8lm_the_ultimate_guide_to_law_school_admission__insider_secrets_for_getting_a_big_envelope_with_your_acceptance_to_law_school_ a schema:Rating ;
+    :aboutBook :Book_the_ultimate_guide_to_law_school_admission__insider_secrets_for_getting_a_big_envelope_with_your_acceptance_to_law_school_ ;
     :Value "5.0"^^xsd:float .
 
 :stargazer a foaf:Person ;
     rdfs:label "stargazer" .
 
-:stargazer schema:rating :Rating_a3aja5adm3q8lm_the_ultimate_guide_to_law_school_admission__insider_secrets_for_getting_a__big_envelope__with_your_acceptance_to_law_school_ .
+:stargazer schema:rating :Rating_a3aja5adm3q8lm_the_ultimate_guide_to_law_school_admission__insider_secrets_for_getting_a_big_envelope_with_your_acceptance_to_law_school_ .
 
-:Rating_a22whl8p1donek_the_ultimate_guide_to_law_school_admission__insider_secrets_for_getting_a__big_envelope__with_your_acceptance_to_law_school_ a schema:Rating ;
-    :aboutBook :Book_the_ultimate_guide_to_law_school_admission__insider_secrets_for_getting_a__big_envelope__with_your_acceptance_to_law_school_ ;
+:Rating_a22whl8p1donek_the_ultimate_guide_to_law_school_admission__insider_secrets_for_getting_a_big_envelope_with_your_acceptance_to_law_school_ a schema:Rating ;
+    :aboutBook :Book_the_ultimate_guide_to_law_school_admission__insider_secrets_for_getting_a_big_envelope_with_your_acceptance_to_law_school_ ;
     :Value "1.0"^^xsd:float .
 
 :carlo_a__taboada_jr_ a foaf:Person ;
     rdfs:label "Carlo A. Taboada Jr." .
 
-:carlo_a__taboada_jr_ schema:rating :Rating_a22whl8p1donek_the_ultimate_guide_to_law_school_admission__insider_secrets_for_getting_a__big_envelope__with_your_acceptance_to_law_school_ .
+:carlo_a__taboada_jr_ schema:rating :Rating_a22whl8p1donek_the_ultimate_guide_to_law_school_admission__insider_secrets_for_getting_a_big_envelope_with_your_acceptance_to_law_school_ .
 
 :__political_science__ a :Genre ;
     rdfs:label "['Political Science']" .
@@ -864,10 +864,10 @@
     :aboutBook :Book_overcoming_hypertension__dr__kenneth_h__cooper_s_preventive_medicine_program_ ;
     :Value "5.0"^^xsd:float .
 
-:woody__woody_ a foaf:Person ;
-    rdfs:label "Woody "Woody"" .
+:woody_woody a foaf:Person ;
+    rdfs:label "Woody Woody" .
 
-:woody__woody_ schema:rating :Rating_a3tqfpf0qgvsjv_overcoming_hypertension__dr__kenneth_h__cooper_s_preventive_medicine_program_ .
+:woody_woody schema:rating :Rating_a3tqfpf0qgvsjv_overcoming_hypertension__dr__kenneth_h__cooper_s_preventive_medicine_program_ .
 
 :__cooking__ a :Genre ;
     rdfs:label "['Cooking']" .
@@ -910,19 +910,19 @@
     :aboutBook :Book_alaska_sourdough ;
     :Value "1.0"^^xsd:float .
 
-:happygardeningmama__happygardeningmama_ a foaf:Person ;
-    rdfs:label "happygardeningmama "happygardeningmama"" .
+:happygardeningmama_happygardeningmama a foaf:Person ;
+    rdfs:label "happygardeningmama happygardeningmama" .
 
-:happygardeningmama__happygardeningmama_ schema:rating :Rating_a2ump9tjtj6a6b_alaska_sourdough .
+:happygardeningmama_happygardeningmama schema:rating :Rating_a2ump9tjtj6a6b_alaska_sourdough .
 
 :Rating_ac2tk7nhkb5c0_alaska_sourdough a schema:Rating ;
     :aboutBook :Book_alaska_sourdough ;
     :Value "5.0"^^xsd:float .
 
-:kiki_b___the_shepherdess_ a foaf:Person ;
-    rdfs:label "Kiki B. "The Shepherdess"" .
+:kiki_b__the_shepherdess a foaf:Person ;
+    rdfs:label "Kiki B. The Shepherdess" .
 
-:kiki_b___the_shepherdess_ schema:rating :Rating_ac2tk7nhkb5c0_alaska_sourdough .
+:kiki_b__the_shepherdess schema:rating :Rating_ac2tk7nhkb5c0_alaska_sourdough .
 
 :Rating_a22t74ynrm8ntk_alaska_sourdough a schema:Rating ;
     :aboutBook :Book_alaska_sourdough ;
@@ -937,10 +937,10 @@
     :aboutBook :Book_alaska_sourdough ;
     :Value "5.0"^^xsd:float .
 
-:linda_pool__cookbookaholic_ a foaf:Person ;
-    rdfs:label "Linda Pool "cookbookaholic"" .
+:linda_pool_cookbookaholic a foaf:Person ;
+    rdfs:label "Linda Pool cookbookaholic" .
 
-:linda_pool__cookbookaholic_ schema:rating :Rating_a2e0gb5qzrx2jz_alaska_sourdough .
+:linda_pool_cookbookaholic schema:rating :Rating_a2e0gb5qzrx2jz_alaska_sourdough .
 
 :Rating_a7vsvb6z0jhov_alaska_sourdough a schema:Rating ;
     :aboutBook :Book_alaska_sourdough ;
@@ -973,10 +973,10 @@
     :aboutBook :Book_alaska_sourdough ;
     :Value "5.0"^^xsd:float .
 
-:mavis_j_hintermeister__mavis_j__hint__ a foaf:Person ;
-    rdfs:label "mavis j.hintermeister "Mavis J. Hint'"" .
+:mavis_j_hintermeister_mavis_j__hint_ a foaf:Person ;
+    rdfs:label "mavis j.hintermeister Mavis J. Hint'" .
 
-:mavis_j_hintermeister__mavis_j__hint__ schema:rating :Rating_at050amicv57j_alaska_sourdough .
+:mavis_j_hintermeister_mavis_j__hint_ schema:rating :Rating_at050amicv57j_alaska_sourdough .
 
 :Rating_a33h49yv18xf5f_alaska_sourdough a schema:Rating ;
     :aboutBook :Book_alaska_sourdough ;
@@ -1000,19 +1000,19 @@
     :aboutBook :Book_alaska_sourdough ;
     :Value "3.0"^^xsd:float .
 
-:tessa_f__briggs__tessa_b_ a foaf:Person ;
-    rdfs:label "Tessa F. Briggs "Tessa B"" .
+:tessa_f__briggs_tessa_b a foaf:Person ;
+    rdfs:label "Tessa F. Briggs Tessa B" .
 
-:tessa_f__briggs__tessa_b_ schema:rating :Rating_a258ynwjw2264m_alaska_sourdough .
+:tessa_f__briggs_tessa_b schema:rating :Rating_a258ynwjw2264m_alaska_sourdough .
 
 :Rating_a34m31j29p6zn0_alaska_sourdough a schema:Rating ;
     :aboutBook :Book_alaska_sourdough ;
     :Value "5.0"^^xsd:float .
 
-:elizabeth__psychotherapist_and_author_of_more___ a foaf:Person ;
-    rdfs:label "Elizabeth "Psychotherapist and Author of more..." .
+:elizabeth_psychotherapist_and_author_of_more___ a foaf:Person ;
+    rdfs:label "Elizabeth Psychotherapist and Author of more..." .
 
-:elizabeth__psychotherapist_and_author_of_more___ schema:rating :Rating_a34m31j29p6zn0_alaska_sourdough .
+:elizabeth_psychotherapist_and_author_of_more___ schema:rating :Rating_a34m31j29p6zn0_alaska_sourdough .
 
 :Rating_a33ioayaz5a6f0_alaska_sourdough a schema:Rating ;
     :aboutBook :Book_alaska_sourdough ;
@@ -1072,10 +1072,10 @@
     :aboutBook :Book_alaska_sourdough ;
     :Value "5.0"^^xsd:float .
 
-:gary_d__lackey__gary_ a foaf:Person ;
-    rdfs:label "Gary D. Lackey "Gary"" .
+:gary_d__lackey_gary a foaf:Person ;
+    rdfs:label "Gary D. Lackey Gary" .
 
-:gary_d__lackey__gary_ schema:rating :Rating_a2fx00qq0hr1aw_alaska_sourdough .
+:gary_d__lackey_gary schema:rating :Rating_a2fx00qq0hr1aw_alaska_sourdough .
 
 :Rating_a9xnakyfs2obn_alaska_sourdough a schema:Rating ;
     :aboutBook :Book_alaska_sourdough ;
@@ -1158,10 +1158,10 @@
     :aboutBook :Book_eyewitness_travel_guide_to_europe ;
     :Value "5.0"^^xsd:float .
 
-:trisha_baird__trisha_baird_ a foaf:Person ;
-    rdfs:label "Trisha Baird "Trisha Baird"" .
+:trisha_baird_trisha_baird a foaf:Person ;
+    rdfs:label "Trisha Baird Trisha Baird" .
 
-:trisha_baird__trisha_baird_ schema:rating :Rating_a3gk6srwipr6j8_eyewitness_travel_guide_to_europe .
+:trisha_baird_trisha_baird schema:rating :Rating_a3gk6srwipr6j8_eyewitness_travel_guide_to_europe .
 
 :Rating_a2ga412hqhn8wv_eyewitness_travel_guide_to_europe a schema:Rating ;
     :aboutBook :Book_eyewitness_travel_guide_to_europe ;
@@ -1185,10 +1185,10 @@
     :aboutBook :Book_eyewitness_travel_guide_to_europe ;
     :Value "4.0"^^xsd:float .
 
-:p__manuhoro__poe_ a foaf:Person ;
-    rdfs:label "P. Manuhoro "poe"" .
+:p__manuhoro_poe a foaf:Person ;
+    rdfs:label "P. Manuhoro poe" .
 
-:p__manuhoro__poe_ schema:rating :Rating_a24wcyqrfcxs7c_eyewitness_travel_guide_to_europe .
+:p__manuhoro_poe schema:rating :Rating_a24wcyqrfcxs7c_eyewitness_travel_guide_to_europe .
 
 :Rating_a24ro2n23pzhdk_eyewitness_travel_guide_to_europe a schema:Rating ;
     :aboutBook :Book_eyewitness_travel_guide_to_europe ;
@@ -1218,10 +1218,10 @@
     :aboutBook :Book_eyewitness_travel_guide_to_europe ;
     :Value "5.0"^^xsd:float .
 
-:j__hauser__yellow_page_expert_ a foaf:Person ;
-    rdfs:label "J. Hauser "Yellow Page Expert"" .
+:j__hauser_yellow_page_expert a foaf:Person ;
+    rdfs:label "J. Hauser Yellow Page Expert" .
 
-:j__hauser__yellow_page_expert_ schema:rating :Rating_a1cejfxsjyqbtx_eyewitness_travel_guide_to_europe .
+:j__hauser_yellow_page_expert schema:rating :Rating_a1cejfxsjyqbtx_eyewitness_travel_guide_to_europe .
 
 :Rating_a12oxts9z6x88t_eyewitness_travel_guide_to_europe a schema:Rating ;
     :aboutBook :Book_eyewitness_travel_guide_to_europe ;
@@ -1245,10 +1245,10 @@
     :aboutBook :Book_eyewitness_travel_guide_to_europe ;
     :Value "5.0"^^xsd:float .
 
-:tim_naff__tim_ a foaf:Person ;
-    rdfs:label "Tim Naff "Tim"" .
+:tim_naff_tim a foaf:Person ;
+    rdfs:label "Tim Naff Tim" .
 
-:tim_naff__tim_ schema:rating :Rating_a3cp1wgntoskda_eyewitness_travel_guide_to_europe .
+:tim_naff_tim schema:rating :Rating_a3cp1wgntoskda_eyewitness_travel_guide_to_europe .
 
 :Rating_a2ki2gu89vbxkg_eyewitness_travel_guide_to_europe a schema:Rating ;
     :aboutBook :Book_eyewitness_travel_guide_to_europe ;
@@ -1263,19 +1263,19 @@
     :aboutBook :Book_eyewitness_travel_guide_to_europe ;
     :Value "5.0"^^xsd:float .
 
-:melissa_b__derecola__wasadz_ a foaf:Person ;
-    rdfs:label "Melissa B. Derecola "wasadz"" .
+:melissa_b__derecola_wasadz a foaf:Person ;
+    rdfs:label "Melissa B. Derecola wasadz" .
 
-:melissa_b__derecola__wasadz_ schema:rating :Rating_a17mdempspth3q_eyewitness_travel_guide_to_europe .
+:melissa_b__derecola_wasadz schema:rating :Rating_a17mdempspth3q_eyewitness_travel_guide_to_europe .
 
 :Rating_a3mup153i830yu_eyewitness_travel_guide_to_europe a schema:Rating ;
     :aboutBook :Book_eyewitness_travel_guide_to_europe ;
     :Value "4.0"^^xsd:float .
 
-:amazon_customer__7864845763574_ a foaf:Person ;
-    rdfs:label "Amazon Customer "7864845763574"" .
+:amazon_customer_7864845763574 a foaf:Person ;
+    rdfs:label "Amazon Customer 7864845763574" .
 
-:amazon_customer__7864845763574_ schema:rating :Rating_a3mup153i830yu_eyewitness_travel_guide_to_europe .
+:amazon_customer_7864845763574 schema:rating :Rating_a3mup153i830yu_eyewitness_travel_guide_to_europe .
 
 :Rating_ahjxyx11e860q_eyewitness_travel_guide_to_europe a schema:Rating ;
     :aboutBook :Book_eyewitness_travel_guide_to_europe ;
@@ -1326,10 +1326,10 @@
     :aboutBook :Book_eyewitness_travel_guide_to_europe ;
     :Value "5.0"^^xsd:float .
 
-:rebecca_of_amazon__the_rebecca_review_ a foaf:Person ;
-    rdfs:label "Rebecca of Amazon "The Rebecca Review"" .
+:rebecca_of_amazon_the_rebecca_review a foaf:Person ;
+    rdfs:label "Rebecca of Amazon The Rebecca Review" .
 
-:rebecca_of_amazon__the_rebecca_review_ schema:rating :Rating_a281npsimi1c2r_eyewitness_travel_guide_to_europe .
+:rebecca_of_amazon_the_rebecca_review schema:rating :Rating_a281npsimi1c2r_eyewitness_travel_guide_to_europe .
 
 :Rating_a2tapl67u2a5hm_eyewitness_travel_guide_to_europe a schema:Rating ;
     :aboutBook :Book_eyewitness_travel_guide_to_europe ;
@@ -1344,19 +1344,19 @@
     :aboutBook :Book_eyewitness_travel_guide_to_europe ;
     :Value "4.0"^^xsd:float .
 
-:m__a__zaidi__ali_zaidi_ a foaf:Person ;
-    rdfs:label "M. A. ZAIDI "Ali Zaidi"" .
+:m__a__zaidi_ali_zaidi a foaf:Person ;
+    rdfs:label "M. A. ZAIDI Ali Zaidi" .
 
-:m__a__zaidi__ali_zaidi_ schema:rating :Rating_at9ysy20rjudx_eyewitness_travel_guide_to_europe .
+:m__a__zaidi_ali_zaidi schema:rating :Rating_at9ysy20rjudx_eyewitness_travel_guide_to_europe .
 
 :Rating_a1es0c91drt7ut_eyewitness_travel_guide_to_europe a schema:Rating ;
     :aboutBook :Book_eyewitness_travel_guide_to_europe ;
     :Value "3.0"^^xsd:float .
 
-:gellio__gellio_ a foaf:Person ;
-    rdfs:label "gellio "gellio"" .
+:gellio_gellio a foaf:Person ;
+    rdfs:label "gellio gellio" .
 
-:gellio__gellio_ schema:rating :Rating_a1es0c91drt7ut_eyewitness_travel_guide_to_europe .
+:gellio_gellio schema:rating :Rating_a1es0c91drt7ut_eyewitness_travel_guide_to_europe .
 
 :Rating_a2nuttjr8yppjd_eyewitness_travel_guide_to_europe a schema:Rating ;
     :aboutBook :Book_eyewitness_travel_guide_to_europe ;
@@ -1447,10 +1447,10 @@
     :aboutBook :Book_hunting_the_hard_way ;
     :Value "5.0"^^xsd:float .
 
-:j__p__wilkens__the_pope_ a foaf:Person ;
-    rdfs:label "J. P. Wilkens "the pope"" .
+:j__p__wilkens_the_pope a foaf:Person ;
+    rdfs:label "J. P. Wilkens the pope" .
 
-:j__p__wilkens__the_pope_ schema:rating :Rating_ace5pu6mfdsva_hunting_the_hard_way .
+:j__p__wilkens_the_pope schema:rating :Rating_ace5pu6mfdsva_hunting_the_hard_way .
 
 :Rating_a1uhtwm53b5km1_hunting_the_hard_way a schema:Rating ;
     :aboutBook :Book_hunting_the_hard_way ;
@@ -1535,10 +1535,10 @@
     :aboutBook :Book_history_of_magic_and_the_occult ;
     :Value "4.0"^^xsd:float .
 
-:blackrose__rosendubh_ a foaf:Person ;
-    rdfs:label "blackrose "rosendubh"" .
+:blackrose_rosendubh a foaf:Person ;
+    rdfs:label "blackrose rosendubh" .
 
-:blackrose__rosendubh_ schema:rating :Rating_a37qrfqtgtjh7k_history_of_magic_and_the_occult .
+:blackrose_rosendubh schema:rating :Rating_a37qrfqtgtjh7k_history_of_magic_and_the_occult .
 
 :Rating_amkc1ejbuxds2_history_of_magic_and_the_occult a schema:Rating ;
     :aboutBook :Book_history_of_magic_and_the_occult ;
@@ -1550,10 +1550,10 @@
     :aboutBook :Book_history_of_magic_and_the_occult ;
     :Value "4.0"^^xsd:float .
 
-:david__mr__mixer_ a foaf:Person ;
-    rdfs:label "David "Mr. Mixer"" .
+:david_mr__mixer a foaf:Person ;
+    rdfs:label "David Mr. Mixer" .
 
-:david__mr__mixer_ schema:rating :Rating_amehdg78v4jhf_history_of_magic_and_the_occult .
+:david_mr__mixer schema:rating :Rating_amehdg78v4jhf_history_of_magic_and_the_occult .
 
 :Rating_a1jmvy61cojkwy_history_of_magic_and_the_occult a schema:Rating ;
     :aboutBook :Book_history_of_magic_and_the_occult ;
@@ -1606,10 +1606,10 @@
     :aboutBook :Book_homer_or_moses___early_christian_interpretations_of_the_history_of_culture__hermeneutische_untersuchungen_zur_theologie_ ;
     :Value "1.0"^^xsd:float .
 
-:_poetauthorscholar_ a foaf:Person ;
-    rdfs:label ""poetauthorscholar"" .
+:poetauthorscholar a foaf:Person ;
+    rdfs:label "poetauthorscholar" .
 
-:_poetauthorscholar_ schema:rating :Rating_a2vmaq4spk1drx_homer_or_moses___early_christian_interpretations_of_the_history_of_culture__hermeneutische_untersuchungen_zur_theologie_ .
+:poetauthorscholar schema:rating :Rating_a2vmaq4spk1drx_homer_or_moses___early_christian_interpretations_of_the_history_of_culture__hermeneutische_untersuchungen_zur_theologie_ .
 
 :__psychology__ a :Genre ;
     rdfs:label "['Psychology']" .
@@ -1622,10 +1622,10 @@
     :aboutBook :Book_paolo_di_canio_hb ;
     :Value "5.0"^^xsd:float .
 
-:gavin_o_brien__gobrien138_ a foaf:Person ;
-    rdfs:label "Gavin O'brien "gobrien138"" .
+:gavin_o_brien_gobrien138 a foaf:Person ;
+    rdfs:label "Gavin O'brien gobrien138" .
 
-:gavin_o_brien__gobrien138_ schema:rating :Rating_a1upbp7ed9dtty_paolo_di_canio_hb .
+:gavin_o_brien_gobrien138 schema:rating :Rating_a1upbp7ed9dtty_paolo_di_canio_hb .
 
 :Book_ricky_williams__dreadlocks_to_ditka a schema:Book ;
     rdfs:label "Ricky Williams: Dreadlocks to Ditka" ;
@@ -1635,10 +1635,10 @@
     :aboutBook :Book_ricky_williams__dreadlocks_to_ditka ;
     :Value "5.0"^^xsd:float .
 
-:_dallascaptain_ a foaf:Person ;
-    rdfs:label ""dallascaptain"" .
+:dallascaptain a foaf:Person ;
+    rdfs:label "dallascaptain" .
 
-:_dallascaptain_ schema:rating :Rating_af2vpo1d4zj0x_ricky_williams__dreadlocks_to_ditka .
+:dallascaptain schema:rating :Rating_af2vpo1d4zj0x_ricky_williams__dreadlocks_to_ditka .
 
 :Book_portraits_of_the_presidents__the_national_portrait_gallery a schema:Book ;
     rdfs:label "Portraits of the Presidents: The National Portrait Gallery" ;
@@ -1654,10 +1654,10 @@
     :aboutBook :Book_portraits_of_the_presidents__the_national_portrait_gallery ;
     :Value "3.0"^^xsd:float .
 
-:bart_mccoy__rev__bart_ a foaf:Person ;
-    rdfs:label "Bart Mccoy "rev. bart"" .
+:bart_mccoy_rev__bart a foaf:Person ;
+    rdfs:label "Bart Mccoy rev. bart" .
 
-:bart_mccoy__rev__bart_ schema:rating :Rating_a3uywq5ahhqhgc_portraits_of_the_presidents__the_national_portrait_gallery .
+:bart_mccoy_rev__bart schema:rating :Rating_a3uywq5ahhqhgc_portraits_of_the_presidents__the_national_portrait_gallery .
 
 :Book_voices_from_the_farm__adventures_in_community_living a schema:Book ;
     rdfs:label "Voices from the Farm: Adventures in Community Living" ;
@@ -1676,28 +1676,28 @@
     :aboutBook :Book_voices_from_the_farm__adventures_in_community_living ;
     :Value "5.0"^^xsd:float .
 
-:k__corn__reviewer_ a foaf:Person ;
-    rdfs:label "K. Corn "reviewer"" .
+:k__corn_reviewer a foaf:Person ;
+    rdfs:label "K. Corn reviewer" .
 
-:k__corn__reviewer_ schema:rating :Rating_a1er5ays3fq9o3_voices_from_the_farm__adventures_in_community_living .
+:k__corn_reviewer schema:rating :Rating_a1er5ays3fq9o3_voices_from_the_farm__adventures_in_community_living .
 
 :Rating_a1mkxb7ua801sp_voices_from_the_farm__adventures_in_community_living a schema:Rating ;
     :aboutBook :Book_voices_from_the_farm__adventures_in_community_living ;
     :Value "5.0"^^xsd:float .
 
-:jennifer_r__andry__songbird_ a foaf:Person ;
-    rdfs:label "Jennifer R. Andry "Songbird"" .
+:jennifer_r__andry_songbird a foaf:Person ;
+    rdfs:label "Jennifer R. Andry Songbird" .
 
-:jennifer_r__andry__songbird_ schema:rating :Rating_a1mkxb7ua801sp_voices_from_the_farm__adventures_in_community_living .
+:jennifer_r__andry_songbird schema:rating :Rating_a1mkxb7ua801sp_voices_from_the_farm__adventures_in_community_living .
 
 :Rating_aeo0lk7v97ltk_voices_from_the_farm__adventures_in_community_living a schema:Rating ;
     :aboutBook :Book_voices_from_the_farm__adventures_in_community_living ;
     :Value "4.0"^^xsd:float .
 
-:d__thaler__dan_ a foaf:Person ;
-    rdfs:label "D. Thaler "Dan"" .
+:d__thaler_dan a foaf:Person ;
+    rdfs:label "D. Thaler Dan" .
 
-:d__thaler__dan_ schema:rating :Rating_aeo0lk7v97ltk_voices_from_the_farm__adventures_in_community_living .
+:d__thaler_dan schema:rating :Rating_aeo0lk7v97ltk_voices_from_the_farm__adventures_in_community_living .
 
 :Rating_a1wbuhqiihua8o_voices_from_the_farm__adventures_in_community_living a schema:Rating ;
     :aboutBook :Book_voices_from_the_farm__adventures_in_community_living ;
@@ -1712,19 +1712,19 @@
     :aboutBook :Book_voices_from_the_farm__adventures_in_community_living ;
     :Value "5.0"^^xsd:float .
 
-:g__e__treaster_jr___creative_maverick_ a foaf:Person ;
-    rdfs:label "G. E. Treaster Jr. "creative maverick"" .
+:g__e__treaster_jr__creative_maverick a foaf:Person ;
+    rdfs:label "G. E. Treaster Jr. creative maverick" .
 
-:g__e__treaster_jr___creative_maverick_ schema:rating :Rating_a1he0omwf7zzph_voices_from_the_farm__adventures_in_community_living .
+:g__e__treaster_jr__creative_maverick schema:rating :Rating_a1he0omwf7zzph_voices_from_the_farm__adventures_in_community_living .
 
 :Rating_a16hxvnpu5tcge_voices_from_the_farm__adventures_in_community_living a schema:Rating ;
     :aboutBook :Book_voices_from_the_farm__adventures_in_community_living ;
     :Value "5.0"^^xsd:float .
 
-:donald_james__donjames150_ a foaf:Person ;
-    rdfs:label "Donald James "donjames150"" .
+:donald_james_donjames150 a foaf:Person ;
+    rdfs:label "Donald James donjames150" .
 
-:donald_james__donjames150_ schema:rating :Rating_a16hxvnpu5tcge_voices_from_the_farm__adventures_in_community_living .
+:donald_james_donjames150 schema:rating :Rating_a16hxvnpu5tcge_voices_from_the_farm__adventures_in_community_living .
 
 :Rating_a1v0fy25pvmrgm_voices_from_the_farm__adventures_in_community_living a schema:Rating ;
     :aboutBook :Book_voices_from_the_farm__adventures_in_community_living ;
@@ -1779,10 +1779,10 @@
     :aboutBook :Book_little_one__maid_of_israel ;
     :Value "5.0"^^xsd:float .
 
-:kaira__winterpromise_publishing_ a foaf:Person ;
-    rdfs:label "Kaira "WinterPromise Publishing"" .
+:kaira_winterpromise_publishing a foaf:Person ;
+    rdfs:label "Kaira WinterPromise Publishing" .
 
-:kaira__winterpromise_publishing_ schema:rating :Rating_a2b3x891ttt91m_little_one__maid_of_israel .
+:kaira_winterpromise_publishing schema:rating :Rating_a2b3x891ttt91m_little_one__maid_of_israel .
 
 :Rating_unknown_little_one__maid_of_israel a schema:Rating ;
     :aboutBook :Book_little_one__maid_of_israel ;
@@ -1829,34 +1829,34 @@
     :aboutBook :Book_treat_yourself_to_life ;
     :Value "5.0"^^xsd:float .
 
-:pieter_uys__toypom_ a foaf:Person ;
-    rdfs:label "Pieter Uys "Toypom"" .
+:pieter_uys_toypom a foaf:Person ;
+    rdfs:label "Pieter Uys Toypom" .
 
-:pieter_uys__toypom_ schema:rating :Rating_a1rjd10tti568l_treat_yourself_to_life .
+:pieter_uys_toypom schema:rating :Rating_a1rjd10tti568l_treat_yourself_to_life .
 
 :Rating_a1ljx75gt1kklt_treat_yourself_to_life a schema:Rating ;
     :aboutBook :Book_treat_yourself_to_life ;
     :Value "5.0"^^xsd:float .
 
-:_pageh_ a foaf:Person ;
-    rdfs:label ""pageh"" .
+:pageh a foaf:Person ;
+    rdfs:label "pageh" .
 
-:_pageh_ schema:rating :Rating_a1ljx75gt1kklt_treat_yourself_to_life .
+:pageh schema:rating :Rating_a1ljx75gt1kklt_treat_yourself_to_life .
 
 :Rating_a39d62tbao8dn2_treat_yourself_to_life a schema:Rating ;
     :aboutBook :Book_treat_yourself_to_life ;
     :Value "4.0"^^xsd:float .
 
-:b__thomas__bthomas_ a foaf:Person ;
-    rdfs:label "B. Thomas "bthomas"" .
+:b__thomas_bthomas a foaf:Person ;
+    rdfs:label "B. Thomas bthomas" .
 
-:b__thomas__bthomas_ schema:rating :Rating_a39d62tbao8dn2_treat_yourself_to_life .
+:b__thomas_bthomas schema:rating :Rating_a39d62tbao8dn2_treat_yourself_to_life .
 
 :Rating_a1rjd10tti568l_treat_yourself_to_life a schema:Rating ;
     :aboutBook :Book_treat_yourself_to_life ;
     :Value "5.0"^^xsd:float .
 
-:pieter_uys__toypom_ schema:rating :Rating_a1rjd10tti568l_treat_yourself_to_life .
+:pieter_uys_toypom schema:rating :Rating_a1rjd10tti568l_treat_yourself_to_life .
 
 :Rating_aotbk4arrjrdw_treat_yourself_to_life a schema:Rating ;
     :aboutBook :Book_treat_yourself_to_life ;
@@ -1896,10 +1896,10 @@
     :aboutBook :Book_the_complete_book_of_papercrafts__a_truly_comprehensivecollection_of_papercrafts_ideas__designs_and_techniques__with_over_300_projects ;
     :Value "5.0"^^xsd:float .
 
-:perrymasonary__perrymasonary_ a foaf:Person ;
-    rdfs:label "perrymasonary "perrymasonary"" .
+:perrymasonary_perrymasonary a foaf:Person ;
+    rdfs:label "perrymasonary perrymasonary" .
 
-:perrymasonary__perrymasonary_ schema:rating :Rating_a15fz94z52lnv0_the_complete_book_of_papercrafts__a_truly_comprehensivecollection_of_papercrafts_ideas__designs_and_techniques__with_over_300_projects .
+:perrymasonary_perrymasonary schema:rating :Rating_a15fz94z52lnv0_the_complete_book_of_papercrafts__a_truly_comprehensivecollection_of_papercrafts_ideas__designs_and_techniques__with_over_300_projects .
 
 :__language_arts___disciplines__ a :Genre ;
     rdfs:label "['Language Arts & Disciplines']" .
@@ -1912,10 +1912,10 @@
     :aboutBook :Book_by_honor_bound__the_lassiter_law___silhouette_intimate_moments_ ;
     :Value "4.0"^^xsd:float .
 
-:c__penn__wordweaving_ a foaf:Person ;
-    rdfs:label "C. Penn "WordWeaving"" .
+:c__penn_wordweaving a foaf:Person ;
+    rdfs:label "C. Penn WordWeaving" .
 
-:c__penn__wordweaving_ schema:rating :Rating_a1tcds9s2nivpb_by_honor_bound__the_lassiter_law___silhouette_intimate_moments_ .
+:c__penn_wordweaving schema:rating :Rating_a1tcds9s2nivpb_by_honor_bound__the_lassiter_law___silhouette_intimate_moments_ .
 
 :Book_usa_laminated_map a schema:Book ;
     rdfs:label "Usa Laminated Map" ;
@@ -2037,10 +2037,10 @@
     :aboutBook :Book_tess_and_the_highlander ;
     :Value "5.0"^^xsd:float .
 
-:jaina_solo__jaina_solo_ a foaf:Person ;
-    rdfs:label "jaina_solo "jaina_solo"" .
+:jaina_solo_jaina_solo a foaf:Person ;
+    rdfs:label "jaina_solo jaina_solo" .
 
-:jaina_solo__jaina_solo_ schema:rating :Rating_a37xym3kseidls_tess_and_the_highlander .
+:jaina_solo_jaina_solo schema:rating :Rating_a37xym3kseidls_tess_and_the_highlander .
 
 :Rating_a1iqk80sxvpaww_tess_and_the_highlander a schema:Rating ;
     :aboutBook :Book_tess_and_the_highlander ;
@@ -2073,10 +2073,10 @@
     :aboutBook :Book_tess_and_the_highlander ;
     :Value "5.0"^^xsd:float .
 
-:delilah__luv_is_my_virtue_ a foaf:Person ;
-    rdfs:label "Delilah "luv is my virtue"" .
+:delilah_luv_is_my_virtue a foaf:Person ;
+    rdfs:label "Delilah luv is my virtue" .
 
-:delilah__luv_is_my_virtue_ schema:rating :Rating_a1pqj6ipeqb3cd_tess_and_the_highlander .
+:delilah_luv_is_my_virtue schema:rating :Rating_a1pqj6ipeqb3cd_tess_and_the_highlander .
 
 :Rating_a3moful6bimk5a_tess_and_the_highlander a schema:Rating ;
     :aboutBook :Book_tess_and_the_highlander ;
@@ -2145,19 +2145,19 @@
     :aboutBook :Book_tess_and_the_highlander ;
     :Value "3.0"^^xsd:float .
 
-:anne_markeby__lady_witt_ a foaf:Person ;
-    rdfs:label "Anne Markeby "Lady Witt"" .
+:anne_markeby_lady_witt a foaf:Person ;
+    rdfs:label "Anne Markeby Lady Witt" .
 
-:anne_markeby__lady_witt_ schema:rating :Rating_a1qy2x792mf802_tess_and_the_highlander .
+:anne_markeby_lady_witt schema:rating :Rating_a1qy2x792mf802_tess_and_the_highlander .
 
 :Rating_a1djmmj4oq2712_tess_and_the_highlander a schema:Rating ;
     :aboutBook :Book_tess_and_the_highlander ;
     :Value "2.0"^^xsd:float .
 
-:_celes1_ a foaf:Person ;
-    rdfs:label ""celes1"" .
+:celes1 a foaf:Person ;
+    rdfs:label "celes1" .
 
-:_celes1_ schema:rating :Rating_a1djmmj4oq2712_tess_and_the_highlander .
+:celes1 schema:rating :Rating_a1djmmj4oq2712_tess_and_the_highlander .
 
 :__foreign_language_study__ a :Genre ;
     rdfs:label "['Foreign Language Study']" .
@@ -2170,28 +2170,28 @@
     :aboutBook :Book_beginner_s_yoruba__hippocrene_beginner_s_series_ ;
     :Value "4.0"^^xsd:float .
 
-:olena_y__rabinowitz__book_lover_ a foaf:Person ;
-    rdfs:label "Olena Y. Rabinowitz "Book lover"" .
+:olena_y__rabinowitz_book_lover a foaf:Person ;
+    rdfs:label "Olena Y. Rabinowitz Book lover" .
 
-:olena_y__rabinowitz__book_lover_ schema:rating :Rating_a1f0ev2mbf208i_beginner_s_yoruba__hippocrene_beginner_s_series_ .
+:olena_y__rabinowitz_book_lover schema:rating :Rating_a1f0ev2mbf208i_beginner_s_yoruba__hippocrene_beginner_s_series_ .
 
 :Rating_aukyge27ct59n_beginner_s_yoruba__hippocrene_beginner_s_series_ a schema:Rating ;
     :aboutBook :Book_beginner_s_yoruba__hippocrene_beginner_s_series_ ;
     :Value "4.0"^^xsd:float .
 
-:matanah__sistahspeak__ a foaf:Person ;
-    rdfs:label "Matanah "SistahSpeak!"" .
+:matanah_sistahspeak_ a foaf:Person ;
+    rdfs:label "Matanah SistahSpeak!" .
 
-:matanah__sistahspeak__ schema:rating :Rating_aukyge27ct59n_beginner_s_yoruba__hippocrene_beginner_s_series_ .
+:matanah_sistahspeak_ schema:rating :Rating_aukyge27ct59n_beginner_s_yoruba__hippocrene_beginner_s_series_ .
 
 :Rating_a1hhc466mco9qe_beginner_s_yoruba__hippocrene_beginner_s_series_ a schema:Rating ;
     :aboutBook :Book_beginner_s_yoruba__hippocrene_beginner_s_series_ ;
     :Value "5.0"^^xsd:float .
 
-:butterflysoulfire__eo_ a foaf:Person ;
-    rdfs:label "ButterflySoulfire "EO"" .
+:butterflysoulfire_eo a foaf:Person ;
+    rdfs:label "ButterflySoulfire EO" .
 
-:butterflysoulfire__eo_ schema:rating :Rating_a1hhc466mco9qe_beginner_s_yoruba__hippocrene_beginner_s_series_ .
+:butterflysoulfire_eo schema:rating :Rating_a1hhc466mco9qe_beginner_s_yoruba__hippocrene_beginner_s_series_ .
 
 :Rating_a2pdakpez49hbk_beginner_s_yoruba__hippocrene_beginner_s_series_ a schema:Rating ;
     :aboutBook :Book_beginner_s_yoruba__hippocrene_beginner_s_series_ ;
@@ -2271,10 +2271,10 @@
     :aboutBook :Book_king_james__believe_the_hype___the_lebron_james_story ;
     :Value "4.0"^^xsd:float .
 
-:nnn__nnnnn_ a foaf:Person ;
-    rdfs:label "nnn "nnnnn"" .
+:nnn_nnnnn a foaf:Person ;
+    rdfs:label "nnn nnnnn" .
 
-:nnn__nnnnn_ schema:rating :Rating_a23pu45t292id_king_james__believe_the_hype___the_lebron_james_story .
+:nnn_nnnnn schema:rating :Rating_a23pu45t292id_king_james__believe_the_hype___the_lebron_james_story .
 
 :Rating_a2kmjkalfvwyp_king_james__believe_the_hype___the_lebron_james_story a schema:Rating ;
     :aboutBook :Book_king_james__believe_the_hype___the_lebron_james_story ;
@@ -2316,10 +2316,10 @@
     :aboutBook :Book_king_james__believe_the_hype___the_lebron_james_story ;
     :Value "5.0"^^xsd:float .
 
-:pablo_rodriguez__pablo_ a foaf:Person ;
-    rdfs:label "Pablo rodriguez "Pablo"" .
+:pablo_rodriguez_pablo a foaf:Person ;
+    rdfs:label "Pablo rodriguez Pablo" .
 
-:pablo_rodriguez__pablo_ schema:rating :Rating_a1zk6wp2jcrti7_king_james__believe_the_hype___the_lebron_james_story .
+:pablo_rodriguez_pablo schema:rating :Rating_a1zk6wp2jcrti7_king_james__believe_the_hype___the_lebron_james_story .
 
 :Rating_unknown_king_james__believe_the_hype___the_lebron_james_story a schema:Rating ;
     :aboutBook :Book_king_james__believe_the_hype___the_lebron_james_story ;
@@ -2367,10 +2367,10 @@
     :aboutBook :Book_king_james__believe_the_hype___the_lebron_james_story ;
     :Value "5.0"^^xsd:float .
 
-:garren_hews__terrahawk_ a foaf:Person ;
-    rdfs:label "Garren Hews "Terrahawk"" .
+:garren_hews_terrahawk a foaf:Person ;
+    rdfs:label "Garren Hews Terrahawk" .
 
-:garren_hews__terrahawk_ schema:rating :Rating_a1c2in2hr2tbx4_king_james__believe_the_hype___the_lebron_james_story .
+:garren_hews_terrahawk schema:rating :Rating_a1c2in2hr2tbx4_king_james__believe_the_hype___the_lebron_james_story .
 
 :Rating_unknown_king_james__believe_the_hype___the_lebron_james_story a schema:Rating ;
     :aboutBook :Book_king_james__believe_the_hype___the_lebron_james_story ;
@@ -2389,10 +2389,10 @@
     :aboutBook :Book_building_the_timber_frame_house__the_revival_of_a_forgotten_craft ;
     :Value "4.0"^^xsd:float .
 
-:dan_f__hollingshead__dan_ a foaf:Person ;
-    rdfs:label "Dan F. Hollingshead "Dan"" .
+:dan_f__hollingshead_dan a foaf:Person ;
+    rdfs:label "Dan F. Hollingshead Dan" .
 
-:dan_f__hollingshead__dan_ schema:rating :Rating_a2dtchkn3a2qm4_building_the_timber_frame_house__the_revival_of_a_forgotten_craft .
+:dan_f__hollingshead_dan schema:rating :Rating_a2dtchkn3a2qm4_building_the_timber_frame_house__the_revival_of_a_forgotten_craft .
 
 :Rating_a3kgs3ekvh8pa8_building_the_timber_frame_house__the_revival_of_a_forgotten_craft a schema:Rating ;
     :aboutBook :Book_building_the_timber_frame_house__the_revival_of_a_forgotten_craft ;
@@ -2416,10 +2416,10 @@
     :aboutBook :Book_building_the_timber_frame_house__the_revival_of_a_forgotten_craft ;
     :Value "5.0"^^xsd:float .
 
-:m__b__cundall__amazon_junkie_ a foaf:Person ;
-    rdfs:label "M. B. Cundall "amazon junkie"" .
+:m__b__cundall_amazon_junkie a foaf:Person ;
+    rdfs:label "M. B. Cundall amazon junkie" .
 
-:m__b__cundall__amazon_junkie_ schema:rating :Rating_a3mm09p30tu8az_building_the_timber_frame_house__the_revival_of_a_forgotten_craft .
+:m__b__cundall_amazon_junkie schema:rating :Rating_a3mm09p30tu8az_building_the_timber_frame_house__the_revival_of_a_forgotten_craft .
 
 :Rating_avqvqko2paqvf_building_the_timber_frame_house__the_revival_of_a_forgotten_craft a schema:Rating ;
     :aboutBook :Book_building_the_timber_frame_house__the_revival_of_a_forgotten_craft ;
@@ -2434,10 +2434,10 @@
     :aboutBook :Book_building_the_timber_frame_house__the_revival_of_a_forgotten_craft ;
     :Value "4.0"^^xsd:float .
 
-:john__john_ a foaf:Person ;
-    rdfs:label "John "John"" .
+:john_john a foaf:Person ;
+    rdfs:label "John John" .
 
-:john__john_ schema:rating :Rating_a36klgf45d6fma_building_the_timber_frame_house__the_revival_of_a_forgotten_craft .
+:john_john schema:rating :Rating_a36klgf45d6fma_building_the_timber_frame_house__the_revival_of_a_forgotten_craft .
 
 :Rating_arr3zf45fagmk_building_the_timber_frame_house__the_revival_of_a_forgotten_craft a schema:Rating ;
     :aboutBook :Book_building_the_timber_frame_house__the_revival_of_a_forgotten_craft ;
@@ -2479,10 +2479,10 @@
     :aboutBook :Book_building_the_timber_frame_house__the_revival_of_a_forgotten_craft ;
     :Value "5.0"^^xsd:float .
 
-:daiku__cb_ a foaf:Person ;
-    rdfs:label "Daiku "CB"" .
+:daiku_cb a foaf:Person ;
+    rdfs:label "Daiku CB" .
 
-:daiku__cb_ schema:rating :Rating_a2a0so4dg6v4cg_building_the_timber_frame_house__the_revival_of_a_forgotten_craft .
+:daiku_cb schema:rating :Rating_a2a0so4dg6v4cg_building_the_timber_frame_house__the_revival_of_a_forgotten_craft .
 
 :Rating_a3db49yrjj2b4m_building_the_timber_frame_house__the_revival_of_a_forgotten_craft a schema:Rating ;
     :aboutBook :Book_building_the_timber_frame_house__the_revival_of_a_forgotten_craft ;
@@ -2497,10 +2497,10 @@
     :aboutBook :Book_building_the_timber_frame_house__the_revival_of_a_forgotten_craft ;
     :Value "5.0"^^xsd:float .
 
-:j__roy__jr_ a foaf:Person ;
-    rdfs:label "J. Roy "jr"" .
+:j__roy_jr a foaf:Person ;
+    rdfs:label "J. Roy jr" .
 
-:j__roy__jr_ schema:rating :Rating_a3mirpg9cjxlft_building_the_timber_frame_house__the_revival_of_a_forgotten_craft .
+:j__roy_jr schema:rating :Rating_a3mirpg9cjxlft_building_the_timber_frame_house__the_revival_of_a_forgotten_craft .
 
 :Rating_al777fmocb8oy_building_the_timber_frame_house__the_revival_of_a_forgotten_craft a schema:Rating ;
     :aboutBook :Book_building_the_timber_frame_house__the_revival_of_a_forgotten_craft ;
@@ -2564,10 +2564,10 @@
     :aboutBook :Book_eight_men_and_a_lady__elizabeth_sinclair__harlequin_american_romance__no__677_ ;
     :Value "5.0"^^xsd:float .
 
-:sandra_k__shirah__kaliannah_com_ a foaf:Person ;
-    rdfs:label "Sandra K. Shirah "kaliannah.com"" .
+:sandra_k__shirah_kaliannah_com a foaf:Person ;
+    rdfs:label "Sandra K. Shirah kaliannah.com" .
 
-:sandra_k__shirah__kaliannah_com_ schema:rating :Rating_a1bu2t3gnl7au6_eight_men_and_a_lady__elizabeth_sinclair__harlequin_american_romance__no__677_ .
+:sandra_k__shirah_kaliannah_com schema:rating :Rating_a1bu2t3gnl7au6_eight_men_and_a_lady__elizabeth_sinclair__harlequin_american_romance__no__677_ .
 
 :Rating_unknown_eight_men_and_a_lady__elizabeth_sinclair__harlequin_american_romance__no__677_ a schema:Rating ;
     :aboutBook :Book_eight_men_and_a_lady__elizabeth_sinclair__harlequin_american_romance__no__677_ ;
@@ -2640,10 +2640,10 @@
     :aboutBook :Book_pyrography_designs ;
     :Value "5.0"^^xsd:float .
 
-:cntrymouse__cntrymouse_ a foaf:Person ;
-    rdfs:label "Cntrymouse "Cntrymouse"" .
+:cntrymouse_cntrymouse a foaf:Person ;
+    rdfs:label "Cntrymouse Cntrymouse" .
 
-:cntrymouse__cntrymouse_ schema:rating :Rating_a7zdbw98uhtty_pyrography_designs .
+:cntrymouse_cntrymouse schema:rating :Rating_a7zdbw98uhtty_pyrography_designs .
 
 :Rating_a1b3zu683610g_pyrography_designs a schema:Rating ;
     :aboutBook :Book_pyrography_designs ;
@@ -2688,10 +2688,10 @@
     :aboutBook :Book_seance ;
     :Value "5.0"^^xsd:float .
 
-:robert_s__newman__bob_newman_ a foaf:Person ;
-    rdfs:label "Robert S. Newman "Bob Newman"" .
+:robert_s__newman_bob_newman a foaf:Person ;
+    rdfs:label "Robert S. Newman Bob Newman" .
 
-:robert_s__newman__bob_newman_ schema:rating :Rating_a1tizi060w4bd9_seance .
+:robert_s__newman_bob_newman schema:rating :Rating_a1tizi060w4bd9_seance .
 
 :Rating_ad033etv5996n_seance a schema:Rating ;
     :aboutBook :Book_seance ;
@@ -2740,19 +2740,19 @@
     :aboutBook :Book_open_marriage___a_new_life_style_for_couples_ ;
     :Value "5.0"^^xsd:float .
 
-:_redshoe_ a foaf:Person ;
-    rdfs:label ""redshoe"" .
+:redshoe a foaf:Person ;
+    rdfs:label "redshoe" .
 
-:_redshoe_ schema:rating :Rating_aqv67s2l8i1sw_open_marriage___a_new_life_style_for_couples_ .
+:redshoe schema:rating :Rating_aqv67s2l8i1sw_open_marriage___a_new_life_style_for_couples_ .
 
 :Rating_a1tpg8hahktm8i_open_marriage___a_new_life_style_for_couples_ a schema:Rating ;
     :aboutBook :Book_open_marriage___a_new_life_style_for_couples_ ;
     :Value "5.0"^^xsd:float .
 
-:_mcorraink_ a foaf:Person ;
-    rdfs:label ""mcorraink"" .
+:mcorraink a foaf:Person ;
+    rdfs:label "mcorraink" .
 
-:_mcorraink_ schema:rating :Rating_a1tpg8hahktm8i_open_marriage___a_new_life_style_for_couples_ .
+:mcorraink schema:rating :Rating_a1tpg8hahktm8i_open_marriage___a_new_life_style_for_couples_ .
 
 :Rating_a1imb8ftttjn12_open_marriage___a_new_life_style_for_couples_ a schema:Rating ;
     :aboutBook :Book_open_marriage___a_new_life_style_for_couples_ ;
@@ -2776,19 +2776,19 @@
     :aboutBook :Book_open_marriage___a_new_life_style_for_couples_ ;
     :Value "4.0"^^xsd:float .
 
-:t__thompson____34_passionate_learner__34__ a foaf:Person ;
-    rdfs:label "T. Thompson "&#34;Passionate Learner&#34;"" .
+:t__thompson___34_passionate_learner__34_ a foaf:Person ;
+    rdfs:label "T. Thompson &#34;Passionate Learner&#34;" .
 
-:t__thompson____34_passionate_learner__34__ schema:rating :Rating_a3kbf2s2mgn48o_open_marriage___a_new_life_style_for_couples_ .
+:t__thompson___34_passionate_learner__34_ schema:rating :Rating_a3kbf2s2mgn48o_open_marriage___a_new_life_style_for_couples_ .
 
 :Rating_a160zfe22z8ezv_open_marriage___a_new_life_style_for_couples_ a schema:Rating ;
     :aboutBook :Book_open_marriage___a_new_life_style_for_couples_ ;
     :Value "4.0"^^xsd:float .
 
-:serenablackcat__serena_ a foaf:Person ;
-    rdfs:label "SerenaBlackCat "Serena"" .
+:serenablackcat_serena a foaf:Person ;
+    rdfs:label "SerenaBlackCat Serena" .
 
-:serenablackcat__serena_ schema:rating :Rating_a160zfe22z8ezv_open_marriage___a_new_life_style_for_couples_ .
+:serenablackcat_serena schema:rating :Rating_a160zfe22z8ezv_open_marriage___a_new_life_style_for_couples_ .
 
 :Rating_a23i38k7agoadz_open_marriage___a_new_life_style_for_couples_ a schema:Rating ;
     :aboutBook :Book_open_marriage___a_new_life_style_for_couples_ ;
@@ -2873,10 +2873,10 @@
     :aboutBook :Book_no_place_to_cry__the_hurt_and_healing_of_sexual_abuse ;
     :Value "4.0"^^xsd:float .
 
-:unspoken__eza_ a foaf:Person ;
-    rdfs:label "Unspoken "EZA"" .
+:unspoken_eza a foaf:Person ;
+    rdfs:label "Unspoken EZA" .
 
-:unspoken__eza_ schema:rating :Rating_axmj7byybvceg_no_place_to_cry__the_hurt_and_healing_of_sexual_abuse .
+:unspoken_eza schema:rating :Rating_axmj7byybvceg_no_place_to_cry__the_hurt_and_healing_of_sexual_abuse .
 
 :Rating_a2c4llix0j9wqx_no_place_to_cry__the_hurt_and_healing_of_sexual_abuse a schema:Rating ;
     :aboutBook :Book_no_place_to_cry__the_hurt_and_healing_of_sexual_abuse ;
@@ -2943,10 +2943,10 @@
     :aboutBook :Book_trouble_on_titan ;
     :Value "5.0"^^xsd:float .
 
-:comatus__comatus_ a foaf:Person ;
-    rdfs:label "comatus "comatus"" .
+:comatus_comatus a foaf:Person ;
+    rdfs:label "comatus comatus" .
 
-:comatus__comatus_ schema:rating :Rating_aky819078cjn1_trouble_on_titan .
+:comatus_comatus schema:rating :Rating_aky819078cjn1_trouble_on_titan .
 
 :__spiritualism__ a :Genre ;
     rdfs:label "['Spiritualism']" .
@@ -2959,10 +2959,10 @@
     :aboutBook :Book_voices_from_the_tapes__recordings_from_the_other_world ;
     :Value "3.0"^^xsd:float .
 
-:p__spires__p__spires_ a foaf:Person ;
-    rdfs:label "P. Spires "P. Spires"" .
+:p__spires_p__spires a foaf:Person ;
+    rdfs:label "P. Spires P. Spires" .
 
-:p__spires__p__spires_ schema:rating :Rating_a2nz3deczwc7zi_voices_from_the_tapes__recordings_from_the_other_world .
+:p__spires_p__spires schema:rating :Rating_a2nz3deczwc7zi_voices_from_the_tapes__recordings_from_the_other_world .
 
 :__america__ a :Genre ;
     rdfs:label "['America']" .
@@ -2987,10 +2987,10 @@
     :aboutBook :Book_grants_and_awards_available_to_american_writers__grants_and_awards_available_to_american_writers__21st_ed_ ;
     :Value "5.0"^^xsd:float .
 
-:ktb__ktb_ a foaf:Person ;
-    rdfs:label "KTB "KTB"" .
+:ktb_ktb a foaf:Person ;
+    rdfs:label "KTB KTB" .
 
-:ktb__ktb_ schema:rating :Rating_at71p5p4pt232_grants_and_awards_available_to_american_writers__grants_and_awards_available_to_american_writers__21st_ed_ .
+:ktb_ktb schema:rating :Rating_at71p5p4pt232_grants_and_awards_available_to_american_writers__grants_and_awards_available_to_american_writers__21st_ed_ .
 
 :Rating_unknown_grants_and_awards_available_to_american_writers__grants_and_awards_available_to_american_writers__21st_ed_ a schema:Rating ;
     :aboutBook :Book_grants_and_awards_available_to_american_writers__grants_and_awards_available_to_american_writers__21st_ed_ ;
@@ -3002,10 +3002,10 @@
     :aboutBook :Book_grants_and_awards_available_to_american_writers__grants_and_awards_available_to_american_writers__21st_ed_ ;
     :Value "4.0"^^xsd:float .
 
-:mister_sjem__sonofhotpie_ a foaf:Person ;
-    rdfs:label "MISTER SJEM "sonofhotpie"" .
+:mister_sjem_sonofhotpie a foaf:Person ;
+    rdfs:label "MISTER SJEM sonofhotpie" .
 
-:mister_sjem__sonofhotpie_ schema:rating :Rating_a1afxj8u72md6l_grants_and_awards_available_to_american_writers__grants_and_awards_available_to_american_writers__21st_ed_ .
+:mister_sjem_sonofhotpie schema:rating :Rating_a1afxj8u72md6l_grants_and_awards_available_to_american_writers__grants_and_awards_available_to_american_writers__21st_ed_ .
 
 :Rating_a1s3modbllop40_grants_and_awards_available_to_american_writers__grants_and_awards_available_to_american_writers__21st_ed_ a schema:Rating ;
     :aboutBook :Book_grants_and_awards_available_to_american_writers__grants_and_awards_available_to_american_writers__21st_ed_ ;
@@ -3036,10 +3036,10 @@
     :aboutBook :Book_communicating_with_orcas___the_whales__perspective ;
     :Value "5.0"^^xsd:float .
 
-:k__jones__kjay12_ a foaf:Person ;
-    rdfs:label "K. Jones "kjay12"" .
+:k__jones_kjay12 a foaf:Person ;
+    rdfs:label "K. Jones kjay12" .
 
-:k__jones__kjay12_ schema:rating :Rating_a2li0zey24nv0h_communicating_with_orcas___the_whales__perspective .
+:k__jones_kjay12 schema:rating :Rating_a2li0zey24nv0h_communicating_with_orcas___the_whales__perspective .
 
 :Rating_at3v0xsyzcpak_communicating_with_orcas___the_whales__perspective a schema:Rating ;
     :aboutBook :Book_communicating_with_orcas___the_whales__perspective ;
@@ -3069,10 +3069,10 @@
     :aboutBook :Book_communicating_with_orcas___the_whales__perspective ;
     :Value "5.0"^^xsd:float .
 
-:jane_f__griffith__jane_griffith_ a foaf:Person ;
-    rdfs:label "Jane F. Griffith "Jane Griffith"" .
+:jane_f__griffith_jane_griffith a foaf:Person ;
+    rdfs:label "Jane F. Griffith Jane Griffith" .
 
-:jane_f__griffith__jane_griffith_ schema:rating :Rating_at1amndm77yl0_communicating_with_orcas___the_whales__perspective .
+:jane_f__griffith_jane_griffith schema:rating :Rating_at1amndm77yl0_communicating_with_orcas___the_whales__perspective .
 
 :Rating_a2a7vchp549ute_communicating_with_orcas___the_whales__perspective a schema:Rating ;
     :aboutBook :Book_communicating_with_orcas___the_whales__perspective ;
@@ -3087,10 +3087,10 @@
     :aboutBook :Book_communicating_with_orcas___the_whales__perspective ;
     :Value "5.0"^^xsd:float .
 
-:l__swope__nature_lover_ a foaf:Person ;
-    rdfs:label "L. Swope "nature lover"" .
+:l__swope_nature_lover a foaf:Person ;
+    rdfs:label "L. Swope nature lover" .
 
-:l__swope__nature_lover_ schema:rating :Rating_a1c70m5l6dujcc_communicating_with_orcas___the_whales__perspective .
+:l__swope_nature_lover schema:rating :Rating_a1c70m5l6dujcc_communicating_with_orcas___the_whales__perspective .
 
 :Rating_a2raol3opajdxw_communicating_with_orcas___the_whales__perspective a schema:Rating ;
     :aboutBook :Book_communicating_with_orcas___the_whales__perspective ;
@@ -3114,19 +3114,19 @@
     :aboutBook :Book_communicating_with_orcas___the_whales__perspective ;
     :Value "2.0"^^xsd:float .
 
-:chelsea_lynn__c_l_s_ a foaf:Person ;
-    rdfs:label "Chelsea Lynn "C.L.S"" .
+:chelsea_lynn_c_l_s a foaf:Person ;
+    rdfs:label "Chelsea Lynn C.L.S" .
 
-:chelsea_lynn__c_l_s_ schema:rating :Rating_a26vgiyr3mbpbx_communicating_with_orcas___the_whales__perspective .
+:chelsea_lynn_c_l_s schema:rating :Rating_a26vgiyr3mbpbx_communicating_with_orcas___the_whales__perspective .
 
 :Rating_a39upoqa58nn84_communicating_with_orcas___the_whales__perspective a schema:Rating ;
     :aboutBook :Book_communicating_with_orcas___the_whales__perspective ;
     :Value "5.0"^^xsd:float .
 
-:george_c__denniston__md_ a foaf:Person ;
-    rdfs:label "George C. Denniston "MD"" .
+:george_c__denniston_md a foaf:Person ;
+    rdfs:label "George C. Denniston MD" .
 
-:george_c__denniston__md_ schema:rating :Rating_a39upoqa58nn84_communicating_with_orcas___the_whales__perspective .
+:george_c__denniston_md schema:rating :Rating_a39upoqa58nn84_communicating_with_orcas___the_whales__perspective .
 
 :Book_academic_freedom_after_september_11 a schema:Book ;
     rdfs:label "Academic Freedom after September 11" ;
@@ -3163,10 +3163,10 @@
     :aboutBook :Book_academic_freedom_after_september_11 ;
     :Value "1.0"^^xsd:float .
 
-:reginleif_ii__reginleif2_ a foaf:Person ;
-    rdfs:label "Reginleif II "reginleif2"" .
+:reginleif_ii_reginleif2 a foaf:Person ;
+    rdfs:label "Reginleif II reginleif2" .
 
-:reginleif_ii__reginleif2_ schema:rating :Rating_a3r79xttvmc7yq_academic_freedom_after_september_11 .
+:reginleif_ii_reginleif2 schema:rating :Rating_a3r79xttvmc7yq_academic_freedom_after_september_11 .
 
 :Rating_au7nd6nocx9ia_academic_freedom_after_september_11 a schema:Rating ;
     :aboutBook :Book_academic_freedom_after_september_11 ;
@@ -3197,10 +3197,10 @@
     :aboutBook :Book_the_impatient_gardener_s_lawn_book ;
     :Value "5.0"^^xsd:float .
 
-:emmanuel_gutierrez__meloinc_ a foaf:Person ;
-    rdfs:label "Emmanuel Gutierrez "Meloinc"" .
+:emmanuel_gutierrez_meloinc a foaf:Person ;
+    rdfs:label "Emmanuel Gutierrez Meloinc" .
 
-:emmanuel_gutierrez__meloinc_ schema:rating :Rating_a2isqpwvw0uygw_the_impatient_gardener_s_lawn_book .
+:emmanuel_gutierrez_meloinc schema:rating :Rating_a2isqpwvw0uygw_the_impatient_gardener_s_lawn_book .
 
 :Rating_a26g133fldva62_the_impatient_gardener_s_lawn_book a schema:Rating ;
     :aboutBook :Book_the_impatient_gardener_s_lawn_book ;
@@ -3325,10 +3325,10 @@
     :aboutBook :Book_hidden_history_of_the_kovno_ghetto ;
     :Value "4.0"^^xsd:float .
 
-:meaghan_good__meggilyweggily_ a foaf:Person ;
-    rdfs:label "Meaghan Good "meggilyweggily"" .
+:meaghan_good_meggilyweggily a foaf:Person ;
+    rdfs:label "Meaghan Good meggilyweggily" .
 
-:meaghan_good__meggilyweggily_ schema:rating :Rating_a10voebl5s337w_hidden_history_of_the_kovno_ghetto .
+:meaghan_good_meggilyweggily schema:rating :Rating_a10voebl5s337w_hidden_history_of_the_kovno_ghetto .
 
 :Book_the_complete_illustrated_guide_to_chinese_medicine__a_comprehensive_system_for_health_and_fitness a schema:Book ;
     rdfs:label "The Complete Illustrated Guide to Chinese Medicine: A Comprehensive System for Health and Fitness" ;
@@ -3338,7 +3338,7 @@
     :aboutBook :Book_the_complete_illustrated_guide_to_chinese_medicine__a_comprehensive_system_for_health_and_fitness ;
     :Value "4.0"^^xsd:float .
 
-:pieter_uys__toypom_ schema:rating :Rating_a1rjd10tti568l_the_complete_illustrated_guide_to_chinese_medicine__a_comprehensive_system_for_health_and_fitness .
+:pieter_uys_toypom schema:rating :Rating_a1rjd10tti568l_the_complete_illustrated_guide_to_chinese_medicine__a_comprehensive_system_for_health_and_fitness .
 
 :Rating_unknown_the_complete_illustrated_guide_to_chinese_medicine__a_comprehensive_system_for_health_and_fitness a schema:Rating ;
     :aboutBook :Book_the_complete_illustrated_guide_to_chinese_medicine__a_comprehensive_system_for_health_and_fitness ;
@@ -3377,19 +3377,19 @@
     :aboutBook :Book_the_complete_illustrated_guide_to_chinese_medicine__a_comprehensive_system_for_health_and_fitness ;
     :Value "5.0"^^xsd:float .
 
-:theseus__theseus_ a foaf:Person ;
-    rdfs:label "Theseus "theseus"" .
+:theseus_theseus a foaf:Person ;
+    rdfs:label "Theseus theseus" .
 
-:theseus__theseus_ schema:rating :Rating_a2l7n2u5z316ze_the_complete_illustrated_guide_to_chinese_medicine__a_comprehensive_system_for_health_and_fitness .
+:theseus_theseus schema:rating :Rating_a2l7n2u5z316ze_the_complete_illustrated_guide_to_chinese_medicine__a_comprehensive_system_for_health_and_fitness .
 
 :Rating_a6l0ltcyaeksb_the_complete_illustrated_guide_to_chinese_medicine__a_comprehensive_system_for_health_and_fitness a schema:Rating ;
     :aboutBook :Book_the_complete_illustrated_guide_to_chinese_medicine__a_comprehensive_system_for_health_and_fitness ;
     :Value "5.0"^^xsd:float .
 
-:achdukleidustein__none_ a foaf:Person ;
-    rdfs:label "achdukleidustein "none"" .
+:achdukleidustein_none a foaf:Person ;
+    rdfs:label "achdukleidustein none" .
 
-:achdukleidustein__none_ schema:rating :Rating_a6l0ltcyaeksb_the_complete_illustrated_guide_to_chinese_medicine__a_comprehensive_system_for_health_and_fitness .
+:achdukleidustein_none schema:rating :Rating_a6l0ltcyaeksb_the_complete_illustrated_guide_to_chinese_medicine__a_comprehensive_system_for_health_and_fitness .
 
 :Rating_a26shv3wb7gbz8_the_complete_illustrated_guide_to_chinese_medicine__a_comprehensive_system_for_health_and_fitness a schema:Rating ;
     :aboutBook :Book_the_complete_illustrated_guide_to_chinese_medicine__a_comprehensive_system_for_health_and_fitness ;
@@ -3435,10 +3435,10 @@
     :aboutBook :Book_the_secular_city__secularization_and_urbanization_in_theological_perspective ;
     :Value "5.0"^^xsd:float .
 
-:shalom_freedman__shalom_freedman_ a foaf:Person ;
-    rdfs:label "Shalom Freedman "Shalom Freedman"" .
+:shalom_freedman_shalom_freedman a foaf:Person ;
+    rdfs:label "Shalom Freedman Shalom Freedman" .
 
-:shalom_freedman__shalom_freedman_ schema:rating :Rating_ahd101501wcn1_the_secular_city__secularization_and_urbanization_in_theological_perspective .
+:shalom_freedman_shalom_freedman schema:rating :Rating_ahd101501wcn1_the_secular_city__secularization_and_urbanization_in_theological_perspective .
 
 :Book_audi_quattro__the_complete_story a schema:Book ;
     rdfs:label "Audi Quattro: The Complete Story" ;
@@ -3467,10 +3467,10 @@
     :aboutBook :Book_natural_wonders_of_the_world__converting_measurements_to_metric_units__powermath_ ;
     :Value "5.0"^^xsd:float .
 
-:michael_tsanis__artdirector_amuck__ a foaf:Person ;
-    rdfs:label "Michael Tsanis "ArtDirector-amuck!"" .
+:michael_tsanis_artdirector_amuck_ a foaf:Person ;
+    rdfs:label "Michael Tsanis ArtDirector-amuck!" .
 
-:michael_tsanis__artdirector_amuck__ schema:rating :Rating_a1npjb6islpprl_natural_wonders_of_the_world__converting_measurements_to_metric_units__powermath_ .
+:michael_tsanis_artdirector_amuck_ schema:rating :Rating_a1npjb6islpprl_natural_wonders_of_the_world__converting_measurements_to_metric_units__powermath_ .
 
 :__meditations__ a :Genre ;
     rdfs:label "['Meditations']" .
@@ -3492,10 +3492,10 @@
     :aboutBook :Book_the_book_of_the_lover_and_the_beloved_ ;
     :Value "4.0"^^xsd:float .
 
-:duane__xphilosopherking_ a foaf:Person ;
-    rdfs:label "Duane "xphilosopherking"" .
+:duane_xphilosopherking a foaf:Person ;
+    rdfs:label "Duane xphilosopherking" .
 
-:duane__xphilosopherking_ schema:rating :Rating_a2svfgrqb3dhz_the_book_of_the_lover_and_the_beloved_ .
+:duane_xphilosopherking schema:rating :Rating_a2svfgrqb3dhz_the_book_of_the_lover_and_the_beloved_ .
 
 :Book_night_world__daughters_of_darkness a schema:Book ;
     rdfs:label "Night World: Daughters Of Darkness" ;
@@ -3526,10 +3526,10 @@
     :aboutBook :Book_night_world__daughters_of_darkness ;
     :Value "1.0"^^xsd:float .
 
-:k__davis__the_rose_bride_ a foaf:Person ;
-    rdfs:label "K. Davis "The Rose Bride"" .
+:k__davis_the_rose_bride a foaf:Person ;
+    rdfs:label "K. Davis The Rose Bride" .
 
-:k__davis__the_rose_bride_ schema:rating :Rating_a1v0sfb3axm8jk_night_world__daughters_of_darkness .
+:k__davis_the_rose_bride schema:rating :Rating_a1v0sfb3axm8jk_night_world__daughters_of_darkness .
 
 :Rating_unknown_night_world__daughters_of_darkness a schema:Rating ;
     :aboutBook :Book_night_world__daughters_of_darkness ;
@@ -3622,10 +3622,10 @@
     :aboutBook :Book_night_world__daughters_of_darkness ;
     :Value "5.0"^^xsd:float .
 
-:_islandmunky_ a foaf:Person ;
-    rdfs:label ""islandmunky"" .
+:islandmunky a foaf:Person ;
+    rdfs:label "islandmunky" .
 
-:_islandmunky_ schema:rating :Rating_a107f528sn3xju_night_world__daughters_of_darkness .
+:islandmunky schema:rating :Rating_a107f528sn3xju_night_world__daughters_of_darkness .
 
 :Rating_unknown_night_world__daughters_of_darkness a schema:Rating ;
     :aboutBook :Book_night_world__daughters_of_darkness ;
@@ -3880,19 +3880,19 @@
     :aboutBook :Book_night_world__daughters_of_darkness ;
     :Value "5.0"^^xsd:float .
 
-:ash_tanya__t_ a foaf:Person ;
-    rdfs:label "Ash Tanya "T"" .
+:ash_tanya_t a foaf:Person ;
+    rdfs:label "Ash Tanya T" .
 
-:ash_tanya__t_ schema:rating :Rating_a1w2nmfr4doi8g_night_world__daughters_of_darkness .
+:ash_tanya_t schema:rating :Rating_a1w2nmfr4doi8g_night_world__daughters_of_darkness .
 
 :Rating_avrac349u5qoo_night_world__daughters_of_darkness a schema:Rating ;
     :aboutBook :Book_night_world__daughters_of_darkness ;
     :Value "5.0"^^xsd:float .
 
-:anneliese__anneliese_ a foaf:Person ;
-    rdfs:label "Anneliese "Anneliese"" .
+:anneliese_anneliese a foaf:Person ;
+    rdfs:label "Anneliese Anneliese" .
 
-:anneliese__anneliese_ schema:rating :Rating_avrac349u5qoo_night_world__daughters_of_darkness .
+:anneliese_anneliese schema:rating :Rating_avrac349u5qoo_night_world__daughters_of_darkness .
 
 :Rating_a21c1rb2dfvvxw_night_world__daughters_of_darkness a schema:Rating ;
     :aboutBook :Book_night_world__daughters_of_darkness ;
@@ -3907,10 +3907,10 @@
     :aboutBook :Book_night_world__daughters_of_darkness ;
     :Value "5.0"^^xsd:float .
 
-:nancy_e___nancy_ a foaf:Person ;
-    rdfs:label "Nancy E. "Nancy"" .
+:nancy_e__nancy a foaf:Person ;
+    rdfs:label "Nancy E. Nancy" .
 
-:nancy_e___nancy_ schema:rating :Rating_a2wzon0qpx7c9x_night_world__daughters_of_darkness .
+:nancy_e__nancy schema:rating :Rating_a2wzon0qpx7c9x_night_world__daughters_of_darkness .
 
 :Rating_a2gnqaxgwquo_night_world__daughters_of_darkness a schema:Rating ;
     :aboutBook :Book_night_world__daughters_of_darkness ;
@@ -3976,19 +3976,19 @@
     :aboutBook :Book_night_world__daughters_of_darkness ;
     :Value "3.0"^^xsd:float .
 
-:r__m__fisher__raye_ a foaf:Person ;
-    rdfs:label "R. M. Fisher "Raye"" .
+:r__m__fisher_raye a foaf:Person ;
+    rdfs:label "R. M. Fisher Raye" .
 
-:r__m__fisher__raye_ schema:rating :Rating_a4fx5ycja630v_night_world__daughters_of_darkness .
+:r__m__fisher_raye schema:rating :Rating_a4fx5ycja630v_night_world__daughters_of_darkness .
 
 :Rating_ab5e23zv79cvz_night_world__daughters_of_darkness a schema:Rating ;
     :aboutBook :Book_night_world__daughters_of_darkness ;
     :Value "4.0"^^xsd:float .
 
-:vampirenovelfan__vampirenovelfan_ a foaf:Person ;
-    rdfs:label "VampireNovelFan "VampireNovelFan"" .
+:vampirenovelfan_vampirenovelfan a foaf:Person ;
+    rdfs:label "VampireNovelFan VampireNovelFan" .
 
-:vampirenovelfan__vampirenovelfan_ schema:rating :Rating_ab5e23zv79cvz_night_world__daughters_of_darkness .
+:vampirenovelfan_vampirenovelfan schema:rating :Rating_ab5e23zv79cvz_night_world__daughters_of_darkness .
 
 :Rating_a2z72g2ejzfgc9_night_world__daughters_of_darkness a schema:Rating ;
     :aboutBook :Book_night_world__daughters_of_darkness ;
@@ -4021,10 +4021,10 @@
     :aboutBook :Book_night_world__daughters_of_darkness ;
     :Value "5.0"^^xsd:float .
 
-:_wujasmine_ a foaf:Person ;
-    rdfs:label ""wujasmine"" .
+:wujasmine a foaf:Person ;
+    rdfs:label "wujasmine" .
 
-:_wujasmine_ schema:rating :Rating_a380a20kgbhx8h_night_world__daughters_of_darkness .
+:wujasmine schema:rating :Rating_a380a20kgbhx8h_night_world__daughters_of_darkness .
 
 :Rating_unknown_night_world__daughters_of_darkness a schema:Rating ;
     :aboutBook :Book_night_world__daughters_of_darkness ;
@@ -4090,10 +4090,10 @@
     :aboutBook :Book_night_world__daughters_of_darkness ;
     :Value "3.0"^^xsd:float .
 
-:_seugiya_ a foaf:Person ;
-    rdfs:label ""seugiya"" .
+:seugiya a foaf:Person ;
+    rdfs:label "seugiya" .
 
-:_seugiya_ schema:rating :Rating_a3dt8bg5wgb74c_night_world__daughters_of_darkness .
+:seugiya schema:rating :Rating_a3dt8bg5wgb74c_night_world__daughters_of_darkness .
 
 :Rating_unknown_night_world__daughters_of_darkness a schema:Rating ;
     :aboutBook :Book_night_world__daughters_of_darkness ;
@@ -4369,10 +4369,10 @@
     :aboutBook :Book_night_world__daughters_of_darkness ;
     :Value "5.0"^^xsd:float .
 
-:_alley_kat_ a foaf:Person ;
-    rdfs:label ""alley_kat"" .
+:alley_kat a foaf:Person ;
+    rdfs:label "alley_kat" .
 
-:_alley_kat_ schema:rating :Rating_a38cp33u9psqnx_night_world__daughters_of_darkness .
+:alley_kat schema:rating :Rating_a38cp33u9psqnx_night_world__daughters_of_darkness .
 
 :Rating_unknown_night_world__daughters_of_darkness a schema:Rating ;
     :aboutBook :Book_night_world__daughters_of_darkness ;
@@ -4467,10 +4467,10 @@
     :aboutBook :Book_america_at_1750__a_social_portrait ;
     :Value "5.0"^^xsd:float .
 
-:asphlex__asphlex_ a foaf:Person ;
-    rdfs:label "asphlex "asphlex"" .
+:asphlex_asphlex a foaf:Person ;
+    rdfs:label "asphlex asphlex" .
 
-:asphlex__asphlex_ schema:rating :Rating_a3dkp67dk28rub_america_at_1750__a_social_portrait .
+:asphlex_asphlex schema:rating :Rating_a3dkp67dk28rub_america_at_1750__a_social_portrait .
 
 :Rating_a3nvws7san5xug_america_at_1750__a_social_portrait a schema:Rating ;
     :aboutBook :Book_america_at_1750__a_social_portrait ;
@@ -4543,10 +4543,10 @@
     :aboutBook :Book_death_dream ;
     :Value "3.0"^^xsd:float .
 
-:blue_tyson____research_finished_ a foaf:Person ;
-    rdfs:label "Blue Tyson "- Research Finished"" .
+:blue_tyson___research_finished a foaf:Person ;
+    rdfs:label "Blue Tyson - Research Finished" .
 
-:blue_tyson____research_finished_ schema:rating :Rating_a1x8vzwtog8is6_death_dream .
+:blue_tyson___research_finished schema:rating :Rating_a1x8vzwtog8is6_death_dream .
 
 :Rating_a1iyrn753x4h4t_death_dream a schema:Rating ;
     :aboutBook :Book_death_dream ;
@@ -4561,10 +4561,10 @@
     :aboutBook :Book_death_dream ;
     :Value "4.0"^^xsd:float .
 
-:chadwick_h__saxelid__bookworm_ a foaf:Person ;
-    rdfs:label "Chadwick H. Saxelid "Bookworm"" .
+:chadwick_h__saxelid_bookworm a foaf:Person ;
+    rdfs:label "Chadwick H. Saxelid Bookworm" .
 
-:chadwick_h__saxelid__bookworm_ schema:rating :Rating_a3ay3ev2mfrfgg_death_dream .
+:chadwick_h__saxelid_bookworm schema:rating :Rating_a3ay3ev2mfrfgg_death_dream .
 
 :Rating_unknown_death_dream a schema:Rating ;
     :aboutBook :Book_death_dream ;
@@ -4650,10 +4650,10 @@
     :aboutBook :Book_the_food_of_love ;
     :Value "5.0"^^xsd:float .
 
-:a__cooper__book_buying_grandmother_ a foaf:Person ;
-    rdfs:label "A. Cooper "Book Buying Grandmother"" .
+:a__cooper_book_buying_grandmother a foaf:Person ;
+    rdfs:label "A. Cooper Book Buying Grandmother" .
 
-:a__cooper__book_buying_grandmother_ schema:rating :Rating_a1fgfbc0dz7g00_the_food_of_love .
+:a__cooper_book_buying_grandmother schema:rating :Rating_a1fgfbc0dz7g00_the_food_of_love .
 
 :Rating_a2v6fc7gvz6t7m_the_food_of_love a schema:Rating ;
     :aboutBook :Book_the_food_of_love ;
@@ -4677,28 +4677,28 @@
     :aboutBook :Book_the_food_of_love ;
     :Value "5.0"^^xsd:float .
 
-:oku__ecomom_ a foaf:Person ;
-    rdfs:label "Oku "EcoMom"" .
+:oku_ecomom a foaf:Person ;
+    rdfs:label "Oku EcoMom" .
 
-:oku__ecomom_ schema:rating :Rating_a2g8bvyi0429jn_the_food_of_love .
+:oku_ecomom schema:rating :Rating_a2g8bvyi0429jn_the_food_of_love .
 
 :Rating_a1233pvjqkhml1_the_food_of_love a schema:Rating ;
     :aboutBook :Book_the_food_of_love ;
     :Value "4.0"^^xsd:float .
 
-:vincent_crowder__food_and_wine_nut_ a foaf:Person ;
-    rdfs:label "Vincent Crowder "Food and Wine Nut"" .
+:vincent_crowder_food_and_wine_nut a foaf:Person ;
+    rdfs:label "Vincent Crowder Food and Wine Nut" .
 
-:vincent_crowder__food_and_wine_nut_ schema:rating :Rating_a1233pvjqkhml1_the_food_of_love .
+:vincent_crowder_food_and_wine_nut schema:rating :Rating_a1233pvjqkhml1_the_food_of_love .
 
 :Rating_aj8c1vvl1zfai_the_food_of_love a schema:Rating ;
     :aboutBook :Book_the_food_of_love ;
     :Value "4.0"^^xsd:float .
 
-:vanitha_srinivasan__vanitha_ a foaf:Person ;
-    rdfs:label "Vanitha Srinivasan "Vanitha"" .
+:vanitha_srinivasan_vanitha a foaf:Person ;
+    rdfs:label "Vanitha Srinivasan Vanitha" .
 
-:vanitha_srinivasan__vanitha_ schema:rating :Rating_aj8c1vvl1zfai_the_food_of_love .
+:vanitha_srinivasan_vanitha schema:rating :Rating_aj8c1vvl1zfai_the_food_of_love .
 
 :Rating_a1gecgisiuzqhm_the_food_of_love a schema:Rating ;
     :aboutBook :Book_the_food_of_love ;
@@ -4740,19 +4740,19 @@
     :aboutBook :Book_the_food_of_love ;
     :Value "4.0"^^xsd:float .
 
-:scoop25__scoop25_ a foaf:Person ;
-    rdfs:label "scoop25 "scoop25"" .
+:scoop25_scoop25 a foaf:Person ;
+    rdfs:label "scoop25 scoop25" .
 
-:scoop25__scoop25_ schema:rating :Rating_a3odjfs6quii71_the_food_of_love .
+:scoop25_scoop25 schema:rating :Rating_a3odjfs6quii71_the_food_of_love .
 
 :Rating_a3nn8kuhnyi2ko_the_food_of_love a schema:Rating ;
     :aboutBook :Book_the_food_of_love ;
     :Value "5.0"^^xsd:float .
 
-:d__goodwin__debrina_ a foaf:Person ;
-    rdfs:label "D. Goodwin "Debrina"" .
+:d__goodwin_debrina a foaf:Person ;
+    rdfs:label "D. Goodwin Debrina" .
 
-:d__goodwin__debrina_ schema:rating :Rating_a3nn8kuhnyi2ko_the_food_of_love .
+:d__goodwin_debrina schema:rating :Rating_a3nn8kuhnyi2ko_the_food_of_love .
 
 :Rating_a2xy7uo3htbflf_the_food_of_love a schema:Rating ;
     :aboutBook :Book_the_food_of_love ;
@@ -4785,10 +4785,10 @@
     :aboutBook :Book_the_food_of_love ;
     :Value "4.0"^^xsd:float .
 
-:read_listen__ski_bum_ a foaf:Person ;
-    rdfs:label "READ&LISTEN "SKI BUM"" .
+:read_listen_ski_bum a foaf:Person ;
+    rdfs:label "READ&LISTEN SKI BUM" .
 
-:read_listen__ski_bum_ schema:rating :Rating_a3nrf0ox8b1tzc_the_food_of_love .
+:read_listen_ski_bum schema:rating :Rating_a3nrf0ox8b1tzc_the_food_of_love .
 
 :Rating_a5j8pl6350rgl_the_food_of_love a schema:Rating ;
     :aboutBook :Book_the_food_of_love ;
@@ -4803,10 +4803,10 @@
     :aboutBook :Book_the_food_of_love ;
     :Value "4.0"^^xsd:float .
 
-:amy_v__haas__healthybirth_net_ a foaf:Person ;
-    rdfs:label "Amy V. Haas "Healthybirth.net"" .
+:amy_v__haas_healthybirth_net a foaf:Person ;
+    rdfs:label "Amy V. Haas Healthybirth.net" .
 
-:amy_v__haas__healthybirth_net_ schema:rating :Rating_a73pu69359q99_the_food_of_love .
+:amy_v__haas_healthybirth_net schema:rating :Rating_a73pu69359q99_the_food_of_love .
 
 :Rating_a2umkgvncl6z3j_the_food_of_love a schema:Rating ;
     :aboutBook :Book_the_food_of_love ;
@@ -4821,19 +4821,19 @@
     :aboutBook :Book_the_food_of_love ;
     :Value "5.0"^^xsd:float .
 
-:anthony_levi__lover_of_life_ a foaf:Person ;
-    rdfs:label "Anthony Levi "Lover of Life"" .
+:anthony_levi_lover_of_life a foaf:Person ;
+    rdfs:label "Anthony Levi Lover of Life" .
 
-:anthony_levi__lover_of_life_ schema:rating :Rating_a10n2tc4vtwf84_the_food_of_love .
+:anthony_levi_lover_of_life schema:rating :Rating_a10n2tc4vtwf84_the_food_of_love .
 
 :Rating_akpqsbu4bznzy_the_food_of_love a schema:Rating ;
     :aboutBook :Book_the_food_of_love ;
     :Value "4.0"^^xsd:float .
 
-:californiamds__californiamds_ a foaf:Person ;
-    rdfs:label "CaliforniaMDS "CaliforniaMDS"" .
+:californiamds_californiamds a foaf:Person ;
+    rdfs:label "CaliforniaMDS CaliforniaMDS" .
 
-:californiamds__californiamds_ schema:rating :Rating_akpqsbu4bznzy_the_food_of_love .
+:californiamds_californiamds schema:rating :Rating_akpqsbu4bznzy_the_food_of_love .
 
 :Rating_ap6fb0r4n9j2q_the_food_of_love a schema:Rating ;
     :aboutBook :Book_the_food_of_love ;
@@ -4848,19 +4848,19 @@
     :aboutBook :Book_the_food_of_love ;
     :Value "5.0"^^xsd:float .
 
-:stephen_richmond__librarian_teacher_reader_an___ a foaf:Person ;
-    rdfs:label "Stephen Richmond "Librarian/Teacher/Reader an..." .
+:stephen_richmond_librarian_teacher_reader_an___ a foaf:Person ;
+    rdfs:label "Stephen Richmond Librarian/Teacher/Reader an..." .
 
-:stephen_richmond__librarian_teacher_reader_an___ schema:rating :Rating_a1hs3bubnzjjd6_the_food_of_love .
+:stephen_richmond_librarian_teacher_reader_an___ schema:rating :Rating_a1hs3bubnzjjd6_the_food_of_love .
 
 :Rating_a10y3ozwenaq6w_the_food_of_love a schema:Rating ;
     :aboutBook :Book_the_food_of_love ;
     :Value "3.0"^^xsd:float .
 
-:m__griffin__viviankosiba_ a foaf:Person ;
-    rdfs:label "M. Griffin "viviankosiba"" .
+:m__griffin_viviankosiba a foaf:Person ;
+    rdfs:label "M. Griffin viviankosiba" .
 
-:m__griffin__viviankosiba_ schema:rating :Rating_a10y3ozwenaq6w_the_food_of_love .
+:m__griffin_viviankosiba schema:rating :Rating_a10y3ozwenaq6w_the_food_of_love .
 
 :Rating_axtomgdkckbb6_the_food_of_love a schema:Rating ;
     :aboutBook :Book_the_food_of_love ;
@@ -4902,28 +4902,28 @@
     :aboutBook :Book_the_food_of_love ;
     :Value "1.0"^^xsd:float .
 
-:c__m__dempsey__avid_reader_ a foaf:Person ;
-    rdfs:label "C. M. Dempsey "avid reader"" .
+:c__m__dempsey_avid_reader a foaf:Person ;
+    rdfs:label "C. M. Dempsey avid reader" .
 
-:c__m__dempsey__avid_reader_ schema:rating :Rating_a38f4t2gkje1bp_the_food_of_love .
+:c__m__dempsey_avid_reader schema:rating :Rating_a38f4t2gkje1bp_the_food_of_love .
 
 :Rating_a3nljzi5neot0k_the_food_of_love a schema:Rating ;
     :aboutBook :Book_the_food_of_love ;
     :Value "5.0"^^xsd:float .
 
-:linda_pagliuco__katknit_ a foaf:Person ;
-    rdfs:label "Linda Pagliuco "katknit"" .
+:linda_pagliuco_katknit a foaf:Person ;
+    rdfs:label "Linda Pagliuco katknit" .
 
-:linda_pagliuco__katknit_ schema:rating :Rating_a3nljzi5neot0k_the_food_of_love .
+:linda_pagliuco_katknit schema:rating :Rating_a3nljzi5neot0k_the_food_of_love .
 
 :Rating_a31z0j46klqclx_the_food_of_love a schema:Rating ;
     :aboutBook :Book_the_food_of_love ;
     :Value "5.0"^^xsd:float .
 
-:l__redding__sassymama_ a foaf:Person ;
-    rdfs:label "L. Redding "sassymama"" .
+:l__redding_sassymama a foaf:Person ;
+    rdfs:label "L. Redding sassymama" .
 
-:l__redding__sassymama_ schema:rating :Rating_a31z0j46klqclx_the_food_of_love .
+:l__redding_sassymama schema:rating :Rating_a31z0j46klqclx_the_food_of_love .
 
 :Rating_a3h39hu75ku1y6_the_food_of_love a schema:Rating ;
     :aboutBook :Book_the_food_of_love ;
@@ -4956,10 +4956,10 @@
     :aboutBook :Book_the_food_of_love ;
     :Value "5.0"^^xsd:float .
 
-:diane_kinman__author__franca_s_story_and_cond___ a foaf:Person ;
-    rdfs:label "Diane Kinman "Author, Franca's Story and Cond..." .
+:diane_kinman_author__franca_s_story_and_cond___ a foaf:Person ;
+    rdfs:label "Diane Kinman Author, Franca's Story and Cond..." .
 
-:diane_kinman__author__franca_s_story_and_cond___ schema:rating :Rating_a6d7wifbjyaaz_the_food_of_love .
+:diane_kinman_author__franca_s_story_and_cond___ schema:rating :Rating_a6d7wifbjyaaz_the_food_of_love .
 
 :Rating_a2qhr394n2tfm_the_food_of_love a schema:Rating ;
     :aboutBook :Book_the_food_of_love ;
@@ -4974,10 +4974,10 @@
     :aboutBook :Book_the_food_of_love ;
     :Value "2.0"^^xsd:float .
 
-:alan_a__elsner__alan_elsner__author_ a foaf:Person ;
-    rdfs:label "Alan A. Elsner "Alan Elsner, author"" .
+:alan_a__elsner_alan_elsner__author a foaf:Person ;
+    rdfs:label "Alan A. Elsner Alan Elsner, author" .
 
-:alan_a__elsner__alan_elsner__author_ schema:rating :Rating_asxw7uqxgmnjl_the_food_of_love .
+:alan_a__elsner_alan_elsner__author schema:rating :Rating_asxw7uqxgmnjl_the_food_of_love .
 
 :Rating_a13ts2w5bmsgdq_the_food_of_love a schema:Rating ;
     :aboutBook :Book_the_food_of_love ;
@@ -5074,10 +5074,10 @@
     :aboutBook :Book_how_to_discipline_kids_without_losing_their_love_and_respect ;
     :Value "5.0"^^xsd:float .
 
-:kristina_m__schuff__kristista_ a foaf:Person ;
-    rdfs:label "Kristina M. Schuff "kristista"" .
+:kristina_m__schuff_kristista a foaf:Person ;
+    rdfs:label "Kristina M. Schuff kristista" .
 
-:kristina_m__schuff__kristista_ schema:rating :Rating_a2lrs4kex5wacl_how_to_discipline_kids_without_losing_their_love_and_respect .
+:kristina_m__schuff_kristista schema:rating :Rating_a2lrs4kex5wacl_how_to_discipline_kids_without_losing_their_love_and_respect .
 
 :Rating_a3ndzcq9d9t2xm_how_to_discipline_kids_without_losing_their_love_and_respect a schema:Rating ;
     :aboutBook :Book_how_to_discipline_kids_without_losing_their_love_and_respect ;
@@ -5101,10 +5101,10 @@
     :aboutBook :Book_how_to_discipline_kids_without_losing_their_love_and_respect ;
     :Value "5.0"^^xsd:float .
 
-:s__marlow__cscoley_ a foaf:Person ;
-    rdfs:label "S. Marlow "cscoley"" .
+:s__marlow_cscoley a foaf:Person ;
+    rdfs:label "S. Marlow cscoley" .
 
-:s__marlow__cscoley_ schema:rating :Rating_a4zneb8tyh8n4_how_to_discipline_kids_without_losing_their_love_and_respect .
+:s__marlow_cscoley schema:rating :Rating_a4zneb8tyh8n4_how_to_discipline_kids_without_losing_their_love_and_respect .
 
 :Rating_a2549hsek2v09b_how_to_discipline_kids_without_losing_their_love_and_respect a schema:Rating ;
     :aboutBook :Book_how_to_discipline_kids_without_losing_their_love_and_respect ;
@@ -5155,10 +5155,10 @@
     :aboutBook :Book_how_to_discipline_kids_without_losing_their_love_and_respect ;
     :Value "5.0"^^xsd:float .
 
-:just_mom__mom_ a foaf:Person ;
-    rdfs:label "Just Mom "mom"" .
+:just_mom_mom a foaf:Person ;
+    rdfs:label "Just Mom mom" .
 
-:just_mom__mom_ schema:rating :Rating_a10by7mmv5kf39_how_to_discipline_kids_without_losing_their_love_and_respect .
+:just_mom_mom schema:rating :Rating_a10by7mmv5kf39_how_to_discipline_kids_without_losing_their_love_and_respect .
 
 :Rating_aovv60jw9cvmk_how_to_discipline_kids_without_losing_their_love_and_respect a schema:Rating ;
     :aboutBook :Book_how_to_discipline_kids_without_losing_their_love_and_respect ;
@@ -5218,10 +5218,10 @@
     :aboutBook :Book_how_to_discipline_kids_without_losing_their_love_and_respect ;
     :Value "5.0"^^xsd:float .
 
-:lynne_a__martin__rainbowlynne_ a foaf:Person ;
-    rdfs:label "Lynne A. Martin "rainbowlynne"" .
+:lynne_a__martin_rainbowlynne a foaf:Person ;
+    rdfs:label "Lynne A. Martin rainbowlynne" .
 
-:lynne_a__martin__rainbowlynne_ schema:rating :Rating_a1zohxo4fife3k_how_to_discipline_kids_without_losing_their_love_and_respect .
+:lynne_a__martin_rainbowlynne schema:rating :Rating_a1zohxo4fife3k_how_to_discipline_kids_without_losing_their_love_and_respect .
 
 :__performing_arts__ a :Genre ;
     rdfs:label "['Performing Arts']" .
@@ -5268,10 +5268,10 @@
     :aboutBook :Book_behind_the_moon ;
     :Value "4.0"^^xsd:float .
 
-:mr__timothy_s__jones__mrsweettooth_ a foaf:Person ;
-    rdfs:label "Mr. Timothy S. Jones "mrsweettooth"" .
+:mr__timothy_s__jones_mrsweettooth a foaf:Person ;
+    rdfs:label "Mr. Timothy S. Jones mrsweettooth" .
 
-:mr__timothy_s__jones__mrsweettooth_ schema:rating :Rating_a2bdfya488zfd5_behind_the_moon .
+:mr__timothy_s__jones_mrsweettooth schema:rating :Rating_a2bdfya488zfd5_behind_the_moon .
 
 :Book_bruce_lee__the_incomparable_fighter a schema:Book ;
     rdfs:label "Bruce Lee: The Incomparable Fighter" ;
@@ -5312,10 +5312,10 @@
     :aboutBook :Book_jimmy_jam_germ_and_the_happy_handshake__the_adventures_of_thumbs_up_johnnie_ ;
     :Value "5.0"^^xsd:float .
 
-:b__avery__bonzaicut_ a foaf:Person ;
-    rdfs:label "B. Avery "bonzaicut"" .
+:b__avery_bonzaicut a foaf:Person ;
+    rdfs:label "B. Avery bonzaicut" .
 
-:b__avery__bonzaicut_ schema:rating :Rating_a1qrn22wnbrsh3_jimmy_jam_germ_and_the_happy_handshake__the_adventures_of_thumbs_up_johnnie_ .
+:b__avery_bonzaicut schema:rating :Rating_a1qrn22wnbrsh3_jimmy_jam_germ_and_the_happy_handshake__the_adventures_of_thumbs_up_johnnie_ .
 
 :__woburn__mass____ a :Genre ;
     rdfs:label "['Woburn (Mass.)']" .
@@ -5328,19 +5328,19 @@
     :aboutBook :Book_woburn__forgotten_tales___untold_stories ;
     :Value "5.0"^^xsd:float .
 
-:larry_levine__larry_ a foaf:Person ;
-    rdfs:label "Larry Levine "Larry"" .
+:larry_levine_larry a foaf:Person ;
+    rdfs:label "Larry Levine Larry" .
 
-:larry_levine__larry_ schema:rating :Rating_a3hosnlvgsv1id_woburn__forgotten_tales___untold_stories .
+:larry_levine_larry schema:rating :Rating_a3hosnlvgsv1id_woburn__forgotten_tales___untold_stories .
 
 :Rating_an08z44dle467_woburn__forgotten_tales___untold_stories a schema:Rating ;
     :aboutBook :Book_woburn__forgotten_tales___untold_stories ;
     :Value "4.0"^^xsd:float .
 
-:rich_mac__jane_ a foaf:Person ;
-    rdfs:label "Rich Mac "Jane"" .
+:rich_mac_jane a foaf:Person ;
+    rdfs:label "Rich Mac Jane" .
 
-:rich_mac__jane_ schema:rating :Rating_an08z44dle467_woburn__forgotten_tales___untold_stories .
+:rich_mac_jane schema:rating :Rating_an08z44dle467_woburn__forgotten_tales___untold_stories .
 
 :Book_god_was_in_this_place___i__i_did_not_know__finding_self__spirituality__and_ultimate_meaning a schema:Book ;
     rdfs:label "God was in this place & I, i did not know: Finding self, spirituality, and ultimate meaning" ;
@@ -5350,19 +5350,19 @@
     :aboutBook :Book_god_was_in_this_place___i__i_did_not_know__finding_self__spirituality__and_ultimate_meaning ;
     :Value "5.0"^^xsd:float .
 
-:frkurt_messick__frkurt_messick_ a foaf:Person ;
-    rdfs:label "FrKurt Messick "FrKurt Messick"" .
+:frkurt_messick_frkurt_messick a foaf:Person ;
+    rdfs:label "FrKurt Messick FrKurt Messick" .
 
-:frkurt_messick__frkurt_messick_ schema:rating :Rating_a2ve83mzf98ity_god_was_in_this_place___i__i_did_not_know__finding_self__spirituality__and_ultimate_meaning .
+:frkurt_messick_frkurt_messick schema:rating :Rating_a2ve83mzf98ity_god_was_in_this_place___i__i_did_not_know__finding_self__spirituality__and_ultimate_meaning .
 
 :Rating_a3pjfoip93jgpe_god_was_in_this_place___i__i_did_not_know__finding_self__spirituality__and_ultimate_meaning a schema:Rating ;
     :aboutBook :Book_god_was_in_this_place___i__i_did_not_know__finding_self__spirituality__and_ultimate_meaning ;
     :Value "5.0"^^xsd:float .
 
-:steven_marks__prog_harpo_ a foaf:Person ;
-    rdfs:label "Steven Marks "Prog Harpo"" .
+:steven_marks_prog_harpo a foaf:Person ;
+    rdfs:label "Steven Marks Prog Harpo" .
 
-:steven_marks__prog_harpo_ schema:rating :Rating_a3pjfoip93jgpe_god_was_in_this_place___i__i_did_not_know__finding_self__spirituality__and_ultimate_meaning .
+:steven_marks_prog_harpo schema:rating :Rating_a3pjfoip93jgpe_god_was_in_this_place___i__i_did_not_know__finding_self__spirituality__and_ultimate_meaning .
 
 :Rating_a2mhuso8c0xo23_god_was_in_this_place___i__i_did_not_know__finding_self__spirituality__and_ultimate_meaning a schema:Rating ;
     :aboutBook :Book_god_was_in_this_place___i__i_did_not_know__finding_self__spirituality__and_ultimate_meaning ;
@@ -5386,10 +5386,10 @@
     :aboutBook :Book_god_was_in_this_place___i__i_did_not_know__finding_self__spirituality__and_ultimate_meaning ;
     :Value "5.0"^^xsd:float .
 
-:v__markowski__ginny_markowski_ a foaf:Person ;
-    rdfs:label "V. Markowski "Ginny Markowski"" .
+:v__markowski_ginny_markowski a foaf:Person ;
+    rdfs:label "V. Markowski Ginny Markowski" .
 
-:v__markowski__ginny_markowski_ schema:rating :Rating_a25ryzve10c0qi_god_was_in_this_place___i__i_did_not_know__finding_self__spirituality__and_ultimate_meaning .
+:v__markowski_ginny_markowski schema:rating :Rating_a25ryzve10c0qi_god_was_in_this_place___i__i_did_not_know__finding_self__spirituality__and_ultimate_meaning .
 
 :Rating_a5ovbrakz35zz_god_was_in_this_place___i__i_did_not_know__finding_self__spirituality__and_ultimate_meaning a schema:Rating ;
     :aboutBook :Book_god_was_in_this_place___i__i_did_not_know__finding_self__spirituality__and_ultimate_meaning ;
@@ -5404,10 +5404,10 @@
     :aboutBook :Book_god_was_in_this_place___i__i_did_not_know__finding_self__spirituality__and_ultimate_meaning ;
     :Value "5.0"^^xsd:float .
 
-:beatriz_g__perdomo__cuban_coffee__ a foaf:Person ;
-    rdfs:label "Beatriz G. Perdomo "Cuban Coffee."" .
+:beatriz_g__perdomo_cuban_coffee_ a foaf:Person ;
+    rdfs:label "Beatriz G. Perdomo Cuban Coffee." .
 
-:beatriz_g__perdomo__cuban_coffee__ schema:rating :Rating_aldfwtr007a4a_god_was_in_this_place___i__i_did_not_know__finding_self__spirituality__and_ultimate_meaning .
+:beatriz_g__perdomo_cuban_coffee_ schema:rating :Rating_aldfwtr007a4a_god_was_in_this_place___i__i_did_not_know__finding_self__spirituality__and_ultimate_meaning .
 
 :Rating_a11dctgtps7m0c_god_was_in_this_place___i__i_did_not_know__finding_self__spirituality__and_ultimate_meaning a schema:Rating ;
     :aboutBook :Book_god_was_in_this_place___i__i_did_not_know__finding_self__spirituality__and_ultimate_meaning ;
@@ -5422,10 +5422,10 @@
     :aboutBook :Book_god_was_in_this_place___i__i_did_not_know__finding_self__spirituality__and_ultimate_meaning ;
     :Value "5.0"^^xsd:float .
 
-:laura_weakley__spiritual1rav_ a foaf:Person ;
-    rdfs:label "Laura Weakley "spiritual1rav"" .
+:laura_weakley_spiritual1rav a foaf:Person ;
+    rdfs:label "Laura Weakley spiritual1rav" .
 
-:laura_weakley__spiritual1rav_ schema:rating :Rating_a287q2zujhbjva_god_was_in_this_place___i__i_did_not_know__finding_self__spirituality__and_ultimate_meaning .
+:laura_weakley_spiritual1rav schema:rating :Rating_a287q2zujhbjva_god_was_in_this_place___i__i_did_not_know__finding_self__spirituality__and_ultimate_meaning .
 
 :Rating_a367ukst3qtltj_god_was_in_this_place___i__i_did_not_know__finding_self__spirituality__and_ultimate_meaning a schema:Rating ;
     :aboutBook :Book_god_was_in_this_place___i__i_did_not_know__finding_self__spirituality__and_ultimate_meaning ;
@@ -5440,10 +5440,10 @@
     :aboutBook :Book_god_was_in_this_place___i__i_did_not_know__finding_self__spirituality__and_ultimate_meaning ;
     :Value "4.0"^^xsd:float .
 
-:lily__stargirl104_ a foaf:Person ;
-    rdfs:label "Lily "stargirl104"" .
+:lily_stargirl104 a foaf:Person ;
+    rdfs:label "Lily stargirl104" .
 
-:lily__stargirl104_ schema:rating :Rating_aemqrckd0euin_god_was_in_this_place___i__i_did_not_know__finding_self__spirituality__and_ultimate_meaning .
+:lily_stargirl104 schema:rating :Rating_aemqrckd0euin_god_was_in_this_place___i__i_did_not_know__finding_self__spirituality__and_ultimate_meaning .
 
 :Book_cascade_point_and_other_stories a schema:Book ;
     rdfs:label "Cascade Point and Other Stories" ;
@@ -5462,17 +5462,17 @@
     :aboutBook :Book_cascade_point_and_other_stories ;
     :Value "4.0"^^xsd:float .
 
-:david_e__siegel___des_ a foaf:Person ;
-    rdfs:label "David E. Siegel "-DES"" .
+:david_e__siegel__des a foaf:Person ;
+    rdfs:label "David E. Siegel -DES" .
 
-:david_e__siegel___des_ schema:rating :Rating_a2in6kumhpslms_cascade_point_and_other_stories .
+:david_e__siegel__des schema:rating :Rating_a2in6kumhpslms_cascade_point_and_other_stories .
 
-:__children_s_libraries__ a :Genre ;
-    rdfs:label "["Children's libraries"]" .
+:_children_s_libraries_ a :Genre ;
+    rdfs:label "[Children's libraries]" .
 
 :Book_prep_for_praxis__praxis_ii_exam_2003__arco_master_the_praxis_ii_exam_ a schema:Book ;
     rdfs:label "Prep for PRAXIS: PRAXIS II Exam 2003 (Arco Master the Praxis II Exam)" ;
-    :hasGenre :__children_s_libraries__ .
+    :hasGenre :_children_s_libraries_ .
 
 :Rating_a32xfnulzdenvx_prep_for_praxis__praxis_ii_exam_2003__arco_master_the_praxis_ii_exam_ a schema:Rating ;
     :aboutBook :Book_prep_for_praxis__praxis_ii_exam_2003__arco_master_the_praxis_ii_exam_ ;
@@ -5512,19 +5512,19 @@
     :aboutBook :Book_bye_bye__mom_and_dad ;
     :Value "5.0"^^xsd:float .
 
-:m__farris__happy2bme_ a foaf:Person ;
-    rdfs:label "M. Farris "happy2bme"" .
+:m__farris_happy2bme a foaf:Person ;
+    rdfs:label "M. Farris happy2bme" .
 
-:m__farris__happy2bme_ schema:rating :Rating_a1lcn7llvb47kn_bye_bye__mom_and_dad .
+:m__farris_happy2bme schema:rating :Rating_a1lcn7llvb47kn_bye_bye__mom_and_dad .
 
 :Rating_a1zgiq8h2jzldm_bye_bye__mom_and_dad a schema:Rating ;
     :aboutBook :Book_bye_bye__mom_and_dad ;
     :Value "5.0"^^xsd:float .
 
-:h__lubell__book_lover_ a foaf:Person ;
-    rdfs:label "H. Lubell "book lover"" .
+:h__lubell_book_lover a foaf:Person ;
+    rdfs:label "H. Lubell book lover" .
 
-:h__lubell__book_lover_ schema:rating :Rating_a1zgiq8h2jzldm_bye_bye__mom_and_dad .
+:h__lubell_book_lover schema:rating :Rating_a1zgiq8h2jzldm_bye_bye__mom_and_dad .
 
 :Rating_ae4tm8u33hryt_bye_bye__mom_and_dad a schema:Rating ;
     :aboutBook :Book_bye_bye__mom_and_dad ;
@@ -5546,10 +5546,10 @@
     :aboutBook :Book_universal_secrets_of_telecosmic_power ;
     :Value "5.0"^^xsd:float .
 
-:shiobvan_christian__above7z7z7z_ a foaf:Person ;
-    rdfs:label "Shiobvan Christian "Above7z7z7z"" .
+:shiobvan_christian_above7z7z7z a foaf:Person ;
+    rdfs:label "Shiobvan Christian Above7z7z7z" .
 
-:shiobvan_christian__above7z7z7z_ schema:rating :Rating_a1srj49tigst9o_universal_secrets_of_telecosmic_power .
+:shiobvan_christian_above7z7z7z schema:rating :Rating_a1srj49tigst9o_universal_secrets_of_telecosmic_power .
 
 :__travel__ a :Genre ;
     rdfs:label "['Travel']" .
@@ -5593,10 +5593,10 @@
     :aboutBook :Book_the_bar_code_implementation_guide__using_bar_codes_in_distribution ;
     :Value "5.0"^^xsd:float .
 
-:patrick_cloutier__clermont_cloutier__consulti___ a foaf:Person ;
-    rdfs:label "Patrick Cloutier "Clermont-Cloutier, Consulti..." .
+:patrick_cloutier_clermont_cloutier__consulti___ a foaf:Person ;
+    rdfs:label "Patrick Cloutier Clermont-Cloutier, Consulti..." .
 
-:patrick_cloutier__clermont_cloutier__consulti___ schema:rating :Rating_avhwi6oncrm98_the_bar_code_implementation_guide__using_bar_codes_in_distribution .
+:patrick_cloutier_clermont_cloutier__consulti___ schema:rating :Rating_avhwi6oncrm98_the_bar_code_implementation_guide__using_bar_codes_in_distribution .
 
 :__bible__ a :Genre ;
     rdfs:label "['Bible']" .
@@ -5609,10 +5609,10 @@
     :aboutBook :Book_principles_of_biblical_interpretation__sacred_hermeneutics_ ;
     :Value "4.0"^^xsd:float .
 
-:john_a__van_devender__gadfly_ a foaf:Person ;
-    rdfs:label "John A. Van Devender "Gadfly"" .
+:john_a__van_devender_gadfly a foaf:Person ;
+    rdfs:label "John A. Van Devender Gadfly" .
 
-:john_a__van_devender__gadfly_ schema:rating :Rating_au7mw8yqqyhxx_principles_of_biblical_interpretation__sacred_hermeneutics_ .
+:john_a__van_devender_gadfly schema:rating :Rating_au7mw8yqqyhxx_principles_of_biblical_interpretation__sacred_hermeneutics_ .
 
 :Rating_a1a8fbtia3qupd_principles_of_biblical_interpretation__sacred_hermeneutics_ a schema:Rating ;
     :aboutBook :Book_principles_of_biblical_interpretation__sacred_hermeneutics_ ;
@@ -5658,19 +5658,19 @@
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
     :Value "3.0"^^xsd:float .
 
-:marie_anne_a___mary_ a foaf:Person ;
-    rdfs:label "Marie Anne A. "Mary"" .
+:marie_anne_a__mary a foaf:Person ;
+    rdfs:label "Marie Anne A. Mary" .
 
-:marie_anne_a___mary_ schema:rating :Rating_a1jdt2vpczvqw9_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
+:marie_anne_a__mary schema:rating :Rating_a1jdt2vpczvqw9_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
 
 :Rating_atdfbnyc317kq_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ a schema:Rating ;
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
     :Value "5.0"^^xsd:float .
 
-:country_granny__country_granny_ a foaf:Person ;
-    rdfs:label "country granny "country granny"" .
+:country_granny_country_granny a foaf:Person ;
+    rdfs:label "country granny country granny" .
 
-:country_granny__country_granny_ schema:rating :Rating_atdfbnyc317kq_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
+:country_granny_country_granny schema:rating :Rating_atdfbnyc317kq_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
 
 :Rating_a2hfl26oqj2t9x_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ a schema:Rating ;
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
@@ -5685,19 +5685,19 @@
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
     :Value "5.0"^^xsd:float .
 
-:d__k__branom__book_lover_ a foaf:Person ;
-    rdfs:label "D. K. Branom "book lover"" .
+:d__k__branom_book_lover a foaf:Person ;
+    rdfs:label "D. K. Branom book lover" .
 
-:d__k__branom__book_lover_ schema:rating :Rating_a3c8nf3f0rlizb_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
+:d__k__branom_book_lover schema:rating :Rating_a3c8nf3f0rlizb_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
 
 :Rating_a2ylbdy64igtbj_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ a schema:Rating ;
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
     :Value "4.0"^^xsd:float .
 
-:ruth_thompson__weaver_of_tales_ a foaf:Person ;
-    rdfs:label "Ruth Thompson "Weaver of Tales"" .
+:ruth_thompson_weaver_of_tales a foaf:Person ;
+    rdfs:label "Ruth Thompson Weaver of Tales" .
 
-:ruth_thompson__weaver_of_tales_ schema:rating :Rating_a2ylbdy64igtbj_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
+:ruth_thompson_weaver_of_tales schema:rating :Rating_a2ylbdy64igtbj_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
 
 :Rating_a2xdj1yd2urdua_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ a schema:Rating ;
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
@@ -5712,19 +5712,19 @@
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
     :Value "4.0"^^xsd:float .
 
-:bonnie_brody__book_lover_and_knitter_ a foaf:Person ;
-    rdfs:label "Bonnie Brody "Book Lover and Knitter"" .
+:bonnie_brody_book_lover_and_knitter a foaf:Person ;
+    rdfs:label "Bonnie Brody Book Lover and Knitter" .
 
-:bonnie_brody__book_lover_and_knitter_ schema:rating :Rating_a39650p2czuuc9_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
+:bonnie_brody_book_lover_and_knitter schema:rating :Rating_a39650p2czuuc9_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
 
 :Rating_amcj805gov20a_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ a schema:Rating ;
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
     :Value "5.0"^^xsd:float .
 
-:book_worm__book_worm_ a foaf:Person ;
-    rdfs:label "Book Worm "Book Worm"" .
+:book_worm_book_worm a foaf:Person ;
+    rdfs:label "Book Worm Book Worm" .
 
-:book_worm__book_worm_ schema:rating :Rating_amcj805gov20a_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
+:book_worm_book_worm schema:rating :Rating_amcj805gov20a_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
 
 :Rating_unknown_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ a schema:Rating ;
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
@@ -5778,10 +5778,10 @@
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
     :Value "3.0"^^xsd:float .
 
-:_miclunney_ a foaf:Person ;
-    rdfs:label ""miclunney"" .
+:miclunney a foaf:Person ;
+    rdfs:label "miclunney" .
 
-:_miclunney_ schema:rating :Rating_a1q0ee7objz49y_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
+:miclunney schema:rating :Rating_a1q0ee7objz49y_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
 
 :Rating_afvqzq8pw0l_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ a schema:Rating ;
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
@@ -5796,10 +5796,10 @@
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
     :Value "4.0"^^xsd:float .
 
-:linda_phipps_chirrup__linda_p_c_ a foaf:Person ;
-    rdfs:label "Linda Phipps-chirrup "Linda P-C"" .
+:linda_phipps_chirrup_linda_p_c a foaf:Person ;
+    rdfs:label "Linda Phipps-chirrup Linda P-C" .
 
-:linda_phipps_chirrup__linda_p_c_ schema:rating :Rating_awcba7kp6tfhq_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
+:linda_phipps_chirrup_linda_p_c schema:rating :Rating_awcba7kp6tfhq_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
 
 :Rating_a2oi5rqc4fnkke_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ a schema:Rating ;
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
@@ -5838,28 +5838,28 @@
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
     :Value "1.0"^^xsd:float .
 
-:david_s__michaels__flavius_crispus_ a foaf:Person ;
-    rdfs:label "David S. Michaels "Flavius Crispus"" .
+:david_s__michaels_flavius_crispus a foaf:Person ;
+    rdfs:label "David S. Michaels Flavius Crispus" .
 
-:david_s__michaels__flavius_crispus_ schema:rating :Rating_a2y34qtg3xdbia_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
+:david_s__michaels_flavius_crispus schema:rating :Rating_a2y34qtg3xdbia_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
 
 :Rating_a2e9q3t876tq6c_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ a schema:Rating ;
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
     :Value "4.0"^^xsd:float .
 
-:susie_morris__book_junkie_ a foaf:Person ;
-    rdfs:label "Susie Morris "Book Junkie"" .
+:susie_morris_book_junkie a foaf:Person ;
+    rdfs:label "Susie Morris Book Junkie" .
 
-:susie_morris__book_junkie_ schema:rating :Rating_a2e9q3t876tq6c_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
+:susie_morris_book_junkie schema:rating :Rating_a2e9q3t876tq6c_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
 
 :Rating_a1isbzd6xb0d8a_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ a schema:Rating ;
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
     :Value "4.0"^^xsd:float .
 
-:jennifer_dorrell__jend954_ a foaf:Person ;
-    rdfs:label "Jennifer Dorrell "jend954"" .
+:jennifer_dorrell_jend954 a foaf:Person ;
+    rdfs:label "Jennifer Dorrell jend954" .
 
-:jennifer_dorrell__jend954_ schema:rating :Rating_a1isbzd6xb0d8a_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
+:jennifer_dorrell_jend954 schema:rating :Rating_a1isbzd6xb0d8a_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
 
 :Rating_acta52zxeng8q_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ a schema:Rating ;
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
@@ -5925,10 +5925,10 @@
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
     :Value "5.0"^^xsd:float .
 
-:amazon_customer_77777__ac77777_ a foaf:Person ;
-    rdfs:label "Amazon customer 77777 "AC77777"" .
+:amazon_customer_77777_ac77777 a foaf:Person ;
+    rdfs:label "Amazon customer 77777 AC77777" .
 
-:amazon_customer_77777__ac77777_ schema:rating :Rating_a2enx0jzhy58ds_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
+:amazon_customer_77777_ac77777 schema:rating :Rating_a2enx0jzhy58ds_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
 
 :Rating_aycsa5mrqqjq7_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ a schema:Rating ;
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
@@ -5943,19 +5943,19 @@
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
     :Value "4.0"^^xsd:float .
 
-:ann_grogan__focused_ a foaf:Person ;
-    rdfs:label "Ann Grogan "Focused"" .
+:ann_grogan_focused a foaf:Person ;
+    rdfs:label "Ann Grogan Focused" .
 
-:ann_grogan__focused_ schema:rating :Rating_a17uu8gm4nsmej_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
+:ann_grogan_focused schema:rating :Rating_a17uu8gm4nsmej_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
 
 :Rating_a3dii698xlnk94_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ a schema:Rating ;
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
     :Value "3.0"^^xsd:float .
 
-:liz_w___villagebookreview_ a foaf:Person ;
-    rdfs:label "Liz W. "villagebookreview"" .
+:liz_w__villagebookreview a foaf:Person ;
+    rdfs:label "Liz W. villagebookreview" .
 
-:liz_w___villagebookreview_ schema:rating :Rating_a3dii698xlnk94_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
+:liz_w__villagebookreview schema:rating :Rating_a3dii698xlnk94_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
 
 :Rating_a2b8qld9daajlp_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ a schema:Rating ;
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
@@ -5988,19 +5988,19 @@
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
     :Value "4.0"^^xsd:float .
 
-:snalen__snalen_ a foaf:Person ;
-    rdfs:label "snalen "snalen"" .
+:snalen_snalen a foaf:Person ;
+    rdfs:label "snalen snalen" .
 
-:snalen__snalen_ schema:rating :Rating_a3fz06xrkw5jc5_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
+:snalen_snalen schema:rating :Rating_a3fz06xrkw5jc5_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
 
 :Rating_abwf7yvzau1qp_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ a schema:Rating ;
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
     :Value "4.0"^^xsd:float .
 
-:clifford__akitonmyers_ a foaf:Person ;
-    rdfs:label "clifford "akitonmyers"" .
+:clifford_akitonmyers a foaf:Person ;
+    rdfs:label "clifford akitonmyers" .
 
-:clifford__akitonmyers_ schema:rating :Rating_abwf7yvzau1qp_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
+:clifford_akitonmyers schema:rating :Rating_abwf7yvzau1qp_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
 
 :Rating_a1ioje0w1nxose_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ a schema:Rating ;
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
@@ -6033,19 +6033,19 @@
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
     :Value "2.0"^^xsd:float .
 
-:anthony_w__dopke__tom_bombadil_ a foaf:Person ;
-    rdfs:label "Anthony W. Dopke "Tom Bombadil"" .
+:anthony_w__dopke_tom_bombadil a foaf:Person ;
+    rdfs:label "Anthony W. Dopke Tom Bombadil" .
 
-:anthony_w__dopke__tom_bombadil_ schema:rating :Rating_a83l1o6xrp5r7_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
+:anthony_w__dopke_tom_bombadil schema:rating :Rating_a83l1o6xrp5r7_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
 
 :Rating_a19oq7lwe2yjl3_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ a schema:Rating ;
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
     :Value "3.0"^^xsd:float .
 
-:f_faulkner__f_f__ a foaf:Person ;
-    rdfs:label "F.Faulkner "F.F."" .
+:f_faulkner_f_f_ a foaf:Person ;
+    rdfs:label "F.Faulkner F.F." .
 
-:f_faulkner__f_f__ schema:rating :Rating_a19oq7lwe2yjl3_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
+:f_faulkner_f_f_ schema:rating :Rating_a19oq7lwe2yjl3_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
 
 :Rating_a18ik6yi6t3rk2_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ a schema:Rating ;
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
@@ -6060,10 +6060,10 @@
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
     :Value "5.0"^^xsd:float .
 
-:s__schwartz__romonko_ a foaf:Person ;
-    rdfs:label "S. Schwartz "romonko"" .
+:s__schwartz_romonko a foaf:Person ;
+    rdfs:label "S. Schwartz romonko" .
 
-:s__schwartz__romonko_ schema:rating :Rating_a1n1yemti9dj86_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
+:s__schwartz_romonko schema:rating :Rating_a1n1yemti9dj86_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
 
 :Rating_unknown_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ a schema:Rating ;
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
@@ -6138,10 +6138,10 @@
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
     :Value "2.0"^^xsd:float .
 
-:roundawg__jrountree_ a foaf:Person ;
-    rdfs:label "Roundawg "jrountree"" .
+:roundawg_jrountree a foaf:Person ;
+    rdfs:label "Roundawg jrountree" .
 
-:roundawg__jrountree_ schema:rating :Rating_a1x17r51ghph4y_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
+:roundawg_jrountree schema:rating :Rating_a1x17r51ghph4y_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
 
 :Rating_unknown_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ a schema:Rating ;
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
@@ -6174,10 +6174,10 @@
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
     :Value "4.0"^^xsd:float .
 
-:joymarie__lover_of_the_written_word_ a foaf:Person ;
-    rdfs:label "Joymarie "Lover of the Written Word"" .
+:joymarie_lover_of_the_written_word a foaf:Person ;
+    rdfs:label "Joymarie Lover of the Written Word" .
 
-:joymarie__lover_of_the_written_word_ schema:rating :Rating_a1237rotm7659_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
+:joymarie_lover_of_the_written_word schema:rating :Rating_a1237rotm7659_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
 
 :Rating_a3jt1tfjjkptwx_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ a schema:Rating ;
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
@@ -6276,10 +6276,10 @@
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
     :Value "4.0"^^xsd:float .
 
-:abigial_jackson__abi_ a foaf:Person ;
-    rdfs:label "Abigial Jackson "Abi"" .
+:abigial_jackson_abi a foaf:Person ;
+    rdfs:label "Abigial Jackson Abi" .
 
-:abigial_jackson__abi_ schema:rating :Rating_a32apf6br0n8po_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
+:abigial_jackson_abi schema:rating :Rating_a32apf6br0n8po_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
 
 :Rating_unknown_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ a schema:Rating ;
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
@@ -6318,10 +6318,10 @@
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
     :Value "3.0"^^xsd:float .
 
-:holly_l__healy__hbombs_ a foaf:Person ;
-    rdfs:label "Holly L. Healy "hbombs"" .
+:holly_l__healy_hbombs a foaf:Person ;
+    rdfs:label "Holly L. Healy hbombs" .
 
-:holly_l__healy__hbombs_ schema:rating :Rating_a1fgi08a0v87fb_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
+:holly_l__healy_hbombs schema:rating :Rating_a1fgi08a0v87fb_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
 
 :Rating_ax1zyzklxw91t_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ a schema:Rating ;
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
@@ -6336,19 +6336,19 @@
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
     :Value "5.0"^^xsd:float .
 
-:dutch__bookfan_ a foaf:Person ;
-    rdfs:label "Dutch "BookFan"" .
+:dutch_bookfan a foaf:Person ;
+    rdfs:label "Dutch BookFan" .
 
-:dutch__bookfan_ schema:rating :Rating_a2608hwshehtjp_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
+:dutch_bookfan schema:rating :Rating_a2608hwshehtjp_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
 
 :Rating_a32k5hayvg9auj_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ a schema:Rating ;
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
     :Value "4.0"^^xsd:float .
 
-:susan_calvin__so_many_books__so_little_time__ a foaf:Person ;
-    rdfs:label "Susan Calvin "So many books, so little time!"" .
+:susan_calvin_so_many_books__so_little_time_ a foaf:Person ;
+    rdfs:label "Susan Calvin So many books, so little time!" .
 
-:susan_calvin__so_many_books__so_little_time__ schema:rating :Rating_a32k5hayvg9auj_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
+:susan_calvin_so_many_books__so_little_time_ schema:rating :Rating_a32k5hayvg9auj_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
 
 :Rating_a2g5r6hn5nbaks_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ a schema:Rating ;
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
@@ -6462,10 +6462,10 @@
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
     :Value "5.0"^^xsd:float .
 
-:m__keeler__retiredgeek_ a foaf:Person ;
-    rdfs:label "M. Keeler "RetiredGeek"" .
+:m__keeler_retiredgeek a foaf:Person ;
+    rdfs:label "M. Keeler RetiredGeek" .
 
-:m__keeler__retiredgeek_ schema:rating :Rating_a10tjrenz71jy0_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
+:m__keeler_retiredgeek schema:rating :Rating_a10tjrenz71jy0_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
 
 :Rating_a3h7x5juf5ndi9_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ a schema:Rating ;
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
@@ -6552,10 +6552,10 @@
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
     :Value "2.0"^^xsd:float .
 
-:rachelwalker__rachelw_ a foaf:Person ;
-    rdfs:label "RachelWalker "RachelW"" .
+:rachelwalker_rachelw a foaf:Person ;
+    rdfs:label "RachelWalker RachelW" .
 
-:rachelwalker__rachelw_ schema:rating :Rating_a1f38ys15pwmrq_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
+:rachelwalker_rachelw schema:rating :Rating_a1f38ys15pwmrq_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
 
 :Rating_a3a1a6ksqv2yvs_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ a schema:Rating ;
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
@@ -6570,10 +6570,10 @@
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
     :Value "3.0"^^xsd:float .
 
-:mark_eremite__this_is_a_display_model_only_ a foaf:Person ;
-    rdfs:label "Mark Eremite "This Is A Display Model Only"" .
+:mark_eremite_this_is_a_display_model_only a foaf:Person ;
+    rdfs:label "Mark Eremite This Is A Display Model Only" .
 
-:mark_eremite__this_is_a_display_model_only_ schema:rating :Rating_a139zf7cjvvtju_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
+:mark_eremite_this_is_a_display_model_only schema:rating :Rating_a139zf7cjvvtju_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
 
 :Rating_a19xu098yl9rb6_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ a schema:Rating ;
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
@@ -6588,10 +6588,10 @@
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
     :Value "2.0"^^xsd:float .
 
-:david_g__mita____paul_grant__follower_of_basho__ a foaf:Person ;
-    rdfs:label "David G. Mita "& Paul Grant (follower of Basho)"" .
+:david_g__mita___paul_grant__follower_of_basho_ a foaf:Person ;
+    rdfs:label "David G. Mita & Paul Grant (follower of Basho)" .
 
-:david_g__mita____paul_grant__follower_of_basho__ schema:rating :Rating_a39w4zrufst2dv_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
+:david_g__mita___paul_grant__follower_of_basho_ schema:rating :Rating_a39w4zrufst2dv_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
 
 :Rating_a2f2y9vvxxujcm_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ a schema:Rating ;
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
@@ -6636,28 +6636,28 @@
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
     :Value "5.0"^^xsd:float .
 
-:highlanderthal__lone_wolf_ a foaf:Person ;
-    rdfs:label "Highlanderthal "LONE WOLF"" .
+:highlanderthal_lone_wolf a foaf:Person ;
+    rdfs:label "Highlanderthal LONE WOLF" .
 
-:highlanderthal__lone_wolf_ schema:rating :Rating_a38gidcod32t7f_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
+:highlanderthal_lone_wolf schema:rating :Rating_a38gidcod32t7f_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
 
 :Rating_a1qdzohso5j9k2_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ a schema:Rating ;
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
     :Value "5.0"^^xsd:float .
 
-:stephanie_k__rohde__endtheclutter_ a foaf:Person ;
-    rdfs:label "Stephanie K. Rohde "endtheclutter"" .
+:stephanie_k__rohde_endtheclutter a foaf:Person ;
+    rdfs:label "Stephanie K. Rohde endtheclutter" .
 
-:stephanie_k__rohde__endtheclutter_ schema:rating :Rating_a1qdzohso5j9k2_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
+:stephanie_k__rohde_endtheclutter schema:rating :Rating_a1qdzohso5j9k2_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
 
 :Rating_a2i5406xt0h9vd_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ a schema:Rating ;
     :aboutBook :Book_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ ;
     :Value "4.0"^^xsd:float .
 
-:boris_zubry__boris_zubry_ a foaf:Person ;
-    rdfs:label "Boris Zubry "Boris Zubry"" .
+:boris_zubry_boris_zubry a foaf:Person ;
+    rdfs:label "Boris Zubry Boris Zubry" .
 
-:boris_zubry__boris_zubry_ schema:rating :Rating_a2i5406xt0h9vd_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
+:boris_zubry_boris_zubry schema:rating :Rating_a2i5406xt0h9vd_cruel_and_unusual__g_k_hall_large_print_book_series__cloth__ .
 
 :__great_britain__ a :Genre ;
     rdfs:label "['Great Britain']" .
@@ -6670,10 +6670,10 @@
     :aboutBook :Book_gaston_de_blondeville__the_modern_novelists_ ;
     :Value "5.0"^^xsd:float .
 
-:tyler_r__tichelaar__tyler_r__tichelaar__ph_d____ a foaf:Person ;
-    rdfs:label "Tyler R. Tichelaar "Tyler R. Tichelaar, Ph.D...." .
+:tyler_r__tichelaar_tyler_r__tichelaar__ph_d____ a foaf:Person ;
+    rdfs:label "Tyler R. Tichelaar Tyler R. Tichelaar, Ph.D...." .
 
-:tyler_r__tichelaar__tyler_r__tichelaar__ph_d____ schema:rating :Rating_avrvacfkj5qmm_gaston_de_blondeville__the_modern_novelists_ .
+:tyler_r__tichelaar_tyler_r__tichelaar__ph_d____ schema:rating :Rating_avrvacfkj5qmm_gaston_de_blondeville__the_modern_novelists_ .
 
 :Rating_a2jyuaiauyxcqn_gaston_de_blondeville__the_modern_novelists_ a schema:Rating ;
     :aboutBook :Book_gaston_de_blondeville__the_modern_novelists_ ;
@@ -6776,55 +6776,55 @@
     :aboutBook :Book_the_rabbi_s_cat ;
     :Value "5.0"^^xsd:float .
 
-:r__a__frauenglas__brooklyn_bum_ a foaf:Person ;
-    rdfs:label "R. A. Frauenglas "Brooklyn Bum"" .
+:r__a__frauenglas_brooklyn_bum a foaf:Person ;
+    rdfs:label "R. A. Frauenglas Brooklyn Bum" .
 
-:r__a__frauenglas__brooklyn_bum_ schema:rating :Rating_agkw1q9iuwimt_the_rabbi_s_cat .
+:r__a__frauenglas_brooklyn_bum schema:rating :Rating_agkw1q9iuwimt_the_rabbi_s_cat .
 
 :Rating_a3nlcx4gewuflq_the_rabbi_s_cat a schema:Rating ;
     :aboutBook :Book_the_rabbi_s_cat ;
     :Value "5.0"^^xsd:float .
 
-:paul_drexler__director__art_dreco_institute_ a foaf:Person ;
-    rdfs:label "Paul Drexler "Director, Art Dreco Institute"" .
+:paul_drexler_director__art_dreco_institute a foaf:Person ;
+    rdfs:label "Paul Drexler Director, Art Dreco Institute" .
 
-:paul_drexler__director__art_dreco_institute_ schema:rating :Rating_a3nlcx4gewuflq_the_rabbi_s_cat .
+:paul_drexler_director__art_dreco_institute schema:rating :Rating_a3nlcx4gewuflq_the_rabbi_s_cat .
 
 :Rating_a38p1lvvpbeeb4_the_rabbi_s_cat a schema:Rating ;
     :aboutBook :Book_the_rabbi_s_cat ;
     :Value "5.0"^^xsd:float .
 
-:rr__mustelaerminea_ a foaf:Person ;
-    rdfs:label "RR "mustelaerminea"" .
+:rr_mustelaerminea a foaf:Person ;
+    rdfs:label "RR mustelaerminea" .
 
-:rr__mustelaerminea_ schema:rating :Rating_a38p1lvvpbeeb4_the_rabbi_s_cat .
+:rr_mustelaerminea schema:rating :Rating_a38p1lvvpbeeb4_the_rabbi_s_cat .
 
 :Rating_aotrwweiyufgn_the_rabbi_s_cat a schema:Rating ;
     :aboutBook :Book_the_rabbi_s_cat ;
     :Value "5.0"^^xsd:float .
 
-:b__wolinsky__ben_s_reviews_ a foaf:Person ;
-    rdfs:label "B. Wolinsky "Ben's Reviews"" .
+:b__wolinsky_ben_s_reviews a foaf:Person ;
+    rdfs:label "B. Wolinsky Ben's Reviews" .
 
-:b__wolinsky__ben_s_reviews_ schema:rating :Rating_aotrwweiyufgn_the_rabbi_s_cat .
+:b__wolinsky_ben_s_reviews schema:rating :Rating_aotrwweiyufgn_the_rabbi_s_cat .
 
 :Rating_autbhg6070sl4_the_rabbi_s_cat a schema:Rating ;
     :aboutBook :Book_the_rabbi_s_cat ;
     :Value "4.0"^^xsd:float .
 
-:wiredweird__wiredweird_ a foaf:Person ;
-    rdfs:label "wiredweird "wiredweird"" .
+:wiredweird_wiredweird a foaf:Person ;
+    rdfs:label "wiredweird wiredweird" .
 
-:wiredweird__wiredweird_ schema:rating :Rating_autbhg6070sl4_the_rabbi_s_cat .
+:wiredweird_wiredweird schema:rating :Rating_autbhg6070sl4_the_rabbi_s_cat .
 
 :Rating_a80duyozpq1a5_the_rabbi_s_cat a schema:Rating ;
     :aboutBook :Book_the_rabbi_s_cat ;
     :Value "5.0"^^xsd:float .
 
-:anne_thierfelder__catperson_in_pa_ a foaf:Person ;
-    rdfs:label "Anne Thierfelder "CatPerson in PA"" .
+:anne_thierfelder_catperson_in_pa a foaf:Person ;
+    rdfs:label "Anne Thierfelder CatPerson in PA" .
 
-:anne_thierfelder__catperson_in_pa_ schema:rating :Rating_a80duyozpq1a5_the_rabbi_s_cat .
+:anne_thierfelder_catperson_in_pa schema:rating :Rating_a80duyozpq1a5_the_rabbi_s_cat .
 
 :Rating_a310nxc0kh9n3t_the_rabbi_s_cat a schema:Rating ;
     :aboutBook :Book_the_rabbi_s_cat ;
@@ -6839,10 +6839,10 @@
     :aboutBook :Book_the_rabbi_s_cat ;
     :Value "5.0"^^xsd:float .
 
-:kineret_willowgreene__modest_reader_ a foaf:Person ;
-    rdfs:label "Kineret WillowGreene "modest reader"" .
+:kineret_willowgreene_modest_reader a foaf:Person ;
+    rdfs:label "Kineret WillowGreene modest reader" .
 
-:kineret_willowgreene__modest_reader_ schema:rating :Rating_a2lrxpityjjinn_the_rabbi_s_cat .
+:kineret_willowgreene_modest_reader schema:rating :Rating_a2lrxpityjjinn_the_rabbi_s_cat .
 
 :Rating_a25e0h37n21uez_the_rabbi_s_cat a schema:Rating ;
     :aboutBook :Book_the_rabbi_s_cat ;
@@ -6857,19 +6857,19 @@
     :aboutBook :Book_the_rabbi_s_cat ;
     :Value "5.0"^^xsd:float .
 
-:lucille_a__parnes__bridgenut_ a foaf:Person ;
-    rdfs:label "Lucille A. Parnes "BridgeNut"" .
+:lucille_a__parnes_bridgenut a foaf:Person ;
+    rdfs:label "Lucille A. Parnes BridgeNut" .
 
-:lucille_a__parnes__bridgenut_ schema:rating :Rating_a1hgggm9wsgek1_the_rabbi_s_cat .
+:lucille_a__parnes_bridgenut schema:rating :Rating_a1hgggm9wsgek1_the_rabbi_s_cat .
 
 :Rating_a2iqo9qddabn7a_the_rabbi_s_cat a schema:Rating ;
     :aboutBook :Book_the_rabbi_s_cat ;
     :Value "5.0"^^xsd:float .
 
-:jorma_l__kaukonen__jorma_ a foaf:Person ;
-    rdfs:label "Jorma L. Kaukonen "Jorma"" .
+:jorma_l__kaukonen_jorma a foaf:Person ;
+    rdfs:label "Jorma L. Kaukonen Jorma" .
 
-:jorma_l__kaukonen__jorma_ schema:rating :Rating_a2iqo9qddabn7a_the_rabbi_s_cat .
+:jorma_l__kaukonen_jorma schema:rating :Rating_a2iqo9qddabn7a_the_rabbi_s_cat .
 
 :Rating_a3eugs6rtnb8gh_the_rabbi_s_cat a schema:Rating ;
     :aboutBook :Book_the_rabbi_s_cat ;
@@ -6947,19 +6947,19 @@
     :aboutBook :Book_the_rabbi_s_cat ;
     :Value "5.0"^^xsd:float .
 
-:tamardc__tamardc_ a foaf:Person ;
-    rdfs:label "TamarDC "tamardc"" .
+:tamardc_tamardc a foaf:Person ;
+    rdfs:label "TamarDC tamardc" .
 
-:tamardc__tamardc_ schema:rating :Rating_a1npxcvj73enr7_the_rabbi_s_cat .
+:tamardc_tamardc schema:rating :Rating_a1npxcvj73enr7_the_rabbi_s_cat .
 
 :Rating_a1iqqe72zx1dtu_the_rabbi_s_cat a schema:Rating ;
     :aboutBook :Book_the_rabbi_s_cat ;
     :Value "5.0"^^xsd:float .
 
-:harcourt__i_m_not_really_a_cat__i_just_play_o___ a foaf:Person ;
-    rdfs:label "Harcourt "I'm not really a cat, I just play o..." .
+:harcourt_i_m_not_really_a_cat__i_just_play_o___ a foaf:Person ;
+    rdfs:label "Harcourt I'm not really a cat, I just play o..." .
 
-:harcourt__i_m_not_really_a_cat__i_just_play_o___ schema:rating :Rating_a1iqqe72zx1dtu_the_rabbi_s_cat .
+:harcourt_i_m_not_really_a_cat__i_just_play_o___ schema:rating :Rating_a1iqqe72zx1dtu_the_rabbi_s_cat .
 
 :Rating_a1ipe0xi32w2gx_the_rabbi_s_cat a schema:Rating ;
     :aboutBook :Book_the_rabbi_s_cat ;
@@ -7001,10 +7001,10 @@
     :aboutBook :Book_the_rabbi_s_cat ;
     :Value "4.0"^^xsd:float .
 
-:l__s__jaszczak__servant_of_the_secret_fire_ a foaf:Person ;
-    rdfs:label "L. S. Jaszczak "servant of the secret fire"" .
+:l__s__jaszczak_servant_of_the_secret_fire a foaf:Person ;
+    rdfs:label "L. S. Jaszczak servant of the secret fire" .
 
-:l__s__jaszczak__servant_of_the_secret_fire_ schema:rating :Rating_a22cn6t98wy8zz_the_rabbi_s_cat .
+:l__s__jaszczak_servant_of_the_secret_fire schema:rating :Rating_a22cn6t98wy8zz_the_rabbi_s_cat .
 
 :Rating_a2faju7hdrw5h1_the_rabbi_s_cat a schema:Rating ;
     :aboutBook :Book_the_rabbi_s_cat ;
@@ -7019,10 +7019,10 @@
     :aboutBook :Book_the_rabbi_s_cat ;
     :Value "5.0"^^xsd:float .
 
-:meerkat__captain_meerkat_ a foaf:Person ;
-    rdfs:label "meerkat "Captain Meerkat"" .
+:meerkat_captain_meerkat a foaf:Person ;
+    rdfs:label "meerkat Captain Meerkat" .
 
-:meerkat__captain_meerkat_ schema:rating :Rating_a11i4oxei9n18y_the_rabbi_s_cat .
+:meerkat_captain_meerkat schema:rating :Rating_a11i4oxei9n18y_the_rabbi_s_cat .
 
 :Rating_a140xh16ikr4b0_the_rabbi_s_cat a schema:Rating ;
     :aboutBook :Book_the_rabbi_s_cat ;
@@ -7037,28 +7037,28 @@
     :aboutBook :Book_the_rabbi_s_cat ;
     :Value "5.0"^^xsd:float .
 
-:aliza_hausman__sleepless_in_the_city_of_angels_ a foaf:Person ;
-    rdfs:label "Aliza Hausman "Sleepless in the City of Angels"" .
+:aliza_hausman_sleepless_in_the_city_of_angels a foaf:Person ;
+    rdfs:label "Aliza Hausman Sleepless in the City of Angels" .
 
-:aliza_hausman__sleepless_in_the_city_of_angels_ schema:rating :Rating_a37ire9gz0cz7i_the_rabbi_s_cat .
+:aliza_hausman_sleepless_in_the_city_of_angels schema:rating :Rating_a37ire9gz0cz7i_the_rabbi_s_cat .
 
 :Rating_a2i4xrawahaxk6_the_rabbi_s_cat a schema:Rating ;
     :aboutBook :Book_the_rabbi_s_cat ;
     :Value "4.0"^^xsd:float .
 
-:steve_sleeve__book_club_buddy_ a foaf:Person ;
-    rdfs:label "Steve Sleeve "Book Club Buddy"" .
+:steve_sleeve_book_club_buddy a foaf:Person ;
+    rdfs:label "Steve Sleeve Book Club Buddy" .
 
-:steve_sleeve__book_club_buddy_ schema:rating :Rating_a2i4xrawahaxk6_the_rabbi_s_cat .
+:steve_sleeve_book_club_buddy schema:rating :Rating_a2i4xrawahaxk6_the_rabbi_s_cat .
 
 :Rating_a1ouyt2mxtcr7q_the_rabbi_s_cat a schema:Rating ;
     :aboutBook :Book_the_rabbi_s_cat ;
     :Value "5.0"^^xsd:float .
 
-:suzanne_c___suzanne_c__ a foaf:Person ;
-    rdfs:label "Suzanne C. "Suzanne C."" .
+:suzanne_c__suzanne_c_ a foaf:Person ;
+    rdfs:label "Suzanne C. Suzanne C." .
 
-:suzanne_c___suzanne_c__ schema:rating :Rating_a1ouyt2mxtcr7q_the_rabbi_s_cat .
+:suzanne_c__suzanne_c_ schema:rating :Rating_a1ouyt2mxtcr7q_the_rabbi_s_cat .
 
 :Rating_a17px0lbnrqsxd_the_rabbi_s_cat a schema:Rating ;
     :aboutBook :Book_the_rabbi_s_cat ;
@@ -7100,10 +7100,10 @@
     :aboutBook :Book_the_rabbi_s_cat ;
     :Value "3.0"^^xsd:float .
 
-:ellamay_brasher__sidewardword_ a foaf:Person ;
-    rdfs:label "Ellamay Brasher "sidewardword"" .
+:ellamay_brasher_sidewardword a foaf:Person ;
+    rdfs:label "Ellamay Brasher sidewardword" .
 
-:ellamay_brasher__sidewardword_ schema:rating :Rating_a1ls550mptfuy3_the_rabbi_s_cat .
+:ellamay_brasher_sidewardword schema:rating :Rating_a1ls550mptfuy3_the_rabbi_s_cat .
 
 :Rating_a2w9nrdlqs4m09_the_rabbi_s_cat a schema:Rating ;
     :aboutBook :Book_the_rabbi_s_cat ;
@@ -7131,19 +7131,19 @@
     :aboutBook :Book_jfk__the_last_dissenting_witness ;
     :Value "4.0"^^xsd:float .
 
-:bookdealers2__i_love_books__ a foaf:Person ;
-    rdfs:label "bookdealers2 "I love books!"" .
+:bookdealers2_i_love_books_ a foaf:Person ;
+    rdfs:label "bookdealers2 I love books!" .
 
-:bookdealers2__i_love_books__ schema:rating :Rating_a2g4m1u3jerfq6_jfk__the_last_dissenting_witness .
+:bookdealers2_i_love_books_ schema:rating :Rating_a2g4m1u3jerfq6_jfk__the_last_dissenting_witness .
 
 :Rating_a1fjvzv7poqo9a_jfk__the_last_dissenting_witness a schema:Rating ;
     :aboutBook :Book_jfk__the_last_dissenting_witness ;
     :Value "4.0"^^xsd:float .
 
-:c__j__brown__cjb_ a foaf:Person ;
-    rdfs:label "C. J. Brown "CJB"" .
+:c__j__brown_cjb a foaf:Person ;
+    rdfs:label "C. J. Brown CJB" .
 
-:c__j__brown__cjb_ schema:rating :Rating_a1fjvzv7poqo9a_jfk__the_last_dissenting_witness .
+:c__j__brown_cjb schema:rating :Rating_a1fjvzv7poqo9a_jfk__the_last_dissenting_witness .
 
 :Rating_unknown_jfk__the_last_dissenting_witness a schema:Rating ;
     :aboutBook :Book_jfk__the_last_dissenting_witness ;
@@ -7188,19 +7188,19 @@
     :aboutBook :Book_jfk__the_last_dissenting_witness ;
     :Value "5.0"^^xsd:float .
 
-:amy_zinner__shammrox18_ a foaf:Person ;
-    rdfs:label "Amy Zinner "shammrox18"" .
+:amy_zinner_shammrox18 a foaf:Person ;
+    rdfs:label "Amy Zinner shammrox18" .
 
-:amy_zinner__shammrox18_ schema:rating :Rating_aaxz1wam67jeq_jfk__the_last_dissenting_witness .
+:amy_zinner_shammrox18 schema:rating :Rating_aaxz1wam67jeq_jfk__the_last_dissenting_witness .
 
 :Rating_alwfikmmuxv3j_jfk__the_last_dissenting_witness a schema:Rating ;
     :aboutBook :Book_jfk__the_last_dissenting_witness ;
     :Value "5.0"^^xsd:float .
 
-:curt_jester__curtjester_ a foaf:Person ;
-    rdfs:label "Curt Jester "curtjester"" .
+:curt_jester_curtjester a foaf:Person ;
+    rdfs:label "Curt Jester curtjester" .
 
-:curt_jester__curtjester_ schema:rating :Rating_alwfikmmuxv3j_jfk__the_last_dissenting_witness .
+:curt_jester_curtjester schema:rating :Rating_alwfikmmuxv3j_jfk__the_last_dissenting_witness .
 
 :Rating_unknown_jfk__the_last_dissenting_witness a schema:Rating ;
     :aboutBook :Book_jfk__the_last_dissenting_witness ;
@@ -7288,10 +7288,10 @@
     :aboutBook :Book_force__reciprocal_force_and_compression_cause_gravity ;
     :Value "3.0"^^xsd:float .
 
-:steelangel__ethan_d__ a foaf:Person ;
-    rdfs:label "Steelangel "Ethan D."" .
+:steelangel_ethan_d_ a foaf:Person ;
+    rdfs:label "Steelangel Ethan D." .
 
-:steelangel__ethan_d__ schema:rating :Rating_aes2ojf0wjjbq_force__reciprocal_force_and_compression_cause_gravity .
+:steelangel_ethan_d_ schema:rating :Rating_aes2ojf0wjjbq_force__reciprocal_force_and_compression_cause_gravity .
 
 :Book_from_potter_s_field a schema:Book ;
     rdfs:label "From Potter's Field" ;
@@ -7418,7 +7418,7 @@
     :aboutBook :Book_from_potter_s_field ;
     :Value "4.0"^^xsd:float .
 
-:s__schwartz__romonko_ schema:rating :Rating_a1n1yemti9dj86_from_potter_s_field .
+:s__schwartz_romonko schema:rating :Rating_a1n1yemti9dj86_from_potter_s_field .
 
 :Rating_a1shfce9nuej3h_from_potter_s_field a schema:Rating ;
     :aboutBook :Book_from_potter_s_field ;
@@ -7433,19 +7433,19 @@
     :aboutBook :Book_from_potter_s_field ;
     :Value "5.0"^^xsd:float .
 
-:m__ervin__an_esl_teacher_ a foaf:Person ;
-    rdfs:label "M. Ervin "an ESL teacher"" .
+:m__ervin_an_esl_teacher a foaf:Person ;
+    rdfs:label "M. Ervin an ESL teacher" .
 
-:m__ervin__an_esl_teacher_ schema:rating :Rating_a1kl7gcwlqt3mv_from_potter_s_field .
+:m__ervin_an_esl_teacher schema:rating :Rating_a1kl7gcwlqt3mv_from_potter_s_field .
 
 :Rating_a1phh1tnx5xysi_from_potter_s_field a schema:Rating ;
     :aboutBook :Book_from_potter_s_field ;
     :Value "5.0"^^xsd:float .
 
-:robert_von_gerds__robgerds_ a foaf:Person ;
-    rdfs:label "Robert Von Gerds "robgerds"" .
+:robert_von_gerds_robgerds a foaf:Person ;
+    rdfs:label "Robert Von Gerds robgerds" .
 
-:robert_von_gerds__robgerds_ schema:rating :Rating_a1phh1tnx5xysi_from_potter_s_field .
+:robert_von_gerds_robgerds schema:rating :Rating_a1phh1tnx5xysi_from_potter_s_field .
 
 :Rating_a2t6k2qw82eb9e_from_potter_s_field a schema:Rating ;
     :aboutBook :Book_from_potter_s_field ;
@@ -7475,10 +7475,10 @@
     :aboutBook :Book_from_potter_s_field ;
     :Value "2.0"^^xsd:float .
 
-:_newskara_ a foaf:Person ;
-    rdfs:label ""newskara"" .
+:newskara a foaf:Person ;
+    rdfs:label "newskara" .
 
-:_newskara_ schema:rating :Rating_a31pzv8x0rlmda_from_potter_s_field .
+:newskara schema:rating :Rating_a31pzv8x0rlmda_from_potter_s_field .
 
 :Rating_a2o24y49nln0mr_from_potter_s_field a schema:Rating ;
     :aboutBook :Book_from_potter_s_field ;
@@ -7517,10 +7517,10 @@
     :aboutBook :Book_from_potter_s_field ;
     :Value "4.0"^^xsd:float .
 
-:mac_blair__mac_blair_ a foaf:Person ;
-    rdfs:label "Mac Blair "Mac Blair"" .
+:mac_blair_mac_blair a foaf:Person ;
+    rdfs:label "Mac Blair Mac Blair" .
 
-:mac_blair__mac_blair_ schema:rating :Rating_a1n01yobwf8wdp_from_potter_s_field .
+:mac_blair_mac_blair schema:rating :Rating_a1n01yobwf8wdp_from_potter_s_field .
 
 :Rating_unknown_from_potter_s_field a schema:Rating ;
     :aboutBook :Book_from_potter_s_field ;
@@ -7541,7 +7541,7 @@
     :aboutBook :Book_from_potter_s_field ;
     :Value "5.0"^^xsd:float .
 
-:joymarie__lover_of_the_written_word_ schema:rating :Rating_a1237rotm7659_from_potter_s_field .
+:joymarie_lover_of_the_written_word schema:rating :Rating_a1237rotm7659_from_potter_s_field .
 
 :Rating_a2faqqgrysoxlm_from_potter_s_field a schema:Rating ;
     :aboutBook :Book_from_potter_s_field ;
@@ -7634,7 +7634,7 @@
     :aboutBook :Book_from_potter_s_field ;
     :Value "5.0"^^xsd:float .
 
-:m__keeler__retiredgeek_ schema:rating :Rating_a10tjrenz71jy0_from_potter_s_field .
+:m__keeler_retiredgeek schema:rating :Rating_a10tjrenz71jy0_from_potter_s_field .
 
 :Rating_a3mv3j163awo3f_from_potter_s_field a schema:Rating ;
     :aboutBook :Book_from_potter_s_field ;
@@ -7673,10 +7673,10 @@
     :aboutBook :Book_from_potter_s_field ;
     :Value "5.0"^^xsd:float .
 
-:d__gilmore____34_the_coffee_connisseur__34__ a foaf:Person ;
-    rdfs:label "D. Gilmore "&#34;the coffee connisseur&#34;"" .
+:d__gilmore___34_the_coffee_connisseur__34_ a foaf:Person ;
+    rdfs:label "D. Gilmore &#34;the coffee connisseur&#34;" .
 
-:d__gilmore____34_the_coffee_connisseur__34__ schema:rating :Rating_atuebtebqogkn_from_potter_s_field .
+:d__gilmore___34_the_coffee_connisseur__34_ schema:rating :Rating_atuebtebqogkn_from_potter_s_field .
 
 :Rating_aily1v4a1gih3_from_potter_s_field a schema:Rating ;
     :aboutBook :Book_from_potter_s_field ;
@@ -7721,7 +7721,7 @@
     :aboutBook :Book_from_potter_s_field ;
     :Value "5.0"^^xsd:float .
 
-:rachelwalker__rachelw_ schema:rating :Rating_a1f38ys15pwmrq_from_potter_s_field .
+:rachelwalker_rachelw schema:rating :Rating_a1f38ys15pwmrq_from_potter_s_field .
 
 :Rating_a4kdyv44l0i0_from_potter_s_field a schema:Rating ;
     :aboutBook :Book_from_potter_s_field ;
@@ -7745,10 +7745,10 @@
     :aboutBook :Book_from_potter_s_field ;
     :Value "5.0"^^xsd:float .
 
-:l__scott__comic_fan_now_ a foaf:Person ;
-    rdfs:label "L. Scott "Comic Fan Now"" .
+:l__scott_comic_fan_now a foaf:Person ;
+    rdfs:label "L. Scott Comic Fan Now" .
 
-:l__scott__comic_fan_now_ schema:rating :Rating_a2hy8wq09fm7at_from_potter_s_field .
+:l__scott_comic_fan_now schema:rating :Rating_a2hy8wq09fm7at_from_potter_s_field .
 
 :Rating_a2zvd08bl5lzjp_from_potter_s_field a schema:Rating ;
     :aboutBook :Book_from_potter_s_field ;
@@ -7772,19 +7772,19 @@
     :aboutBook :Book_from_potter_s_field ;
     :Value "5.0"^^xsd:float .
 
-:ramona_honan__reviews_by_melva_ a foaf:Person ;
-    rdfs:label "Ramona Honan "reviews-by-melva"" .
+:ramona_honan_reviews_by_melva a foaf:Person ;
+    rdfs:label "Ramona Honan reviews-by-melva" .
 
-:ramona_honan__reviews_by_melva_ schema:rating :Rating_a21uy1cdsqy6b_from_potter_s_field .
+:ramona_honan_reviews_by_melva schema:rating :Rating_a21uy1cdsqy6b_from_potter_s_field .
 
 :Rating_ae8r954aikgbx_from_potter_s_field a schema:Rating ;
     :aboutBook :Book_from_potter_s_field ;
     :Value "5.0"^^xsd:float .
 
-:eileenl__angel112_ a foaf:Person ;
-    rdfs:label "EileenL "angel112"" .
+:eileenl_angel112 a foaf:Person ;
+    rdfs:label "EileenL angel112" .
 
-:eileenl__angel112_ schema:rating :Rating_ae8r954aikgbx_from_potter_s_field .
+:eileenl_angel112 schema:rating :Rating_ae8r954aikgbx_from_potter_s_field .
 
 :Rating_unknown_from_potter_s_field a schema:Rating ;
     :aboutBook :Book_from_potter_s_field ;
@@ -7796,10 +7796,10 @@
     :aboutBook :Book_from_potter_s_field ;
     :Value "4.0"^^xsd:float .
 
-:_katatbelfast_ a foaf:Person ;
-    rdfs:label ""katatbelfast"" .
+:katatbelfast a foaf:Person ;
+    rdfs:label "katatbelfast" .
 
-:_katatbelfast_ schema:rating :Rating_a9qmnc62p0d91_from_potter_s_field .
+:katatbelfast schema:rating :Rating_a9qmnc62p0d91_from_potter_s_field .
 
 :Rating_unknown_from_potter_s_field a schema:Rating ;
     :aboutBook :Book_from_potter_s_field ;
@@ -7976,16 +7976,16 @@
     :aboutBook :Book_from_potter_s_field ;
     :Value "5.0"^^xsd:float .
 
-:chriscaglegirl83__chriscaglegirl83_ a foaf:Person ;
-    rdfs:label "chriscaglegirl83 "chriscaglegirl83"" .
+:chriscaglegirl83_chriscaglegirl83 a foaf:Person ;
+    rdfs:label "chriscaglegirl83 chriscaglegirl83" .
 
-:chriscaglegirl83__chriscaglegirl83_ schema:rating :Rating_a1c2q4c767iady_from_potter_s_field .
+:chriscaglegirl83_chriscaglegirl83 schema:rating :Rating_a1c2q4c767iady_from_potter_s_field .
 
 :Rating_a3ay3ev2mfrfgg_from_potter_s_field a schema:Rating ;
     :aboutBook :Book_from_potter_s_field ;
     :Value "1.0"^^xsd:float .
 
-:chadwick_h__saxelid__bookworm_ schema:rating :Rating_a3ay3ev2mfrfgg_from_potter_s_field .
+:chadwick_h__saxelid_bookworm schema:rating :Rating_a3ay3ev2mfrfgg_from_potter_s_field .
 
 :Rating_unknown_from_potter_s_field a schema:Rating ;
     :aboutBook :Book_from_potter_s_field ;
@@ -8024,7 +8024,7 @@
     :aboutBook :Book_from_potter_s_field ;
     :Value "5.0"^^xsd:float .
 
-:susan_calvin__so_many_books__so_little_time__ schema:rating :Rating_a32k5hayvg9auj_from_potter_s_field .
+:susan_calvin_so_many_books__so_little_time_ schema:rating :Rating_a32k5hayvg9auj_from_potter_s_field .
 
 :Rating_a11m98r135hmsy_from_potter_s_field a schema:Rating ;
     :aboutBook :Book_from_potter_s_field ;
@@ -8039,7 +8039,7 @@
     :aboutBook :Book_from_potter_s_field ;
     :Value "5.0"^^xsd:float .
 
-:susie_morris__book_junkie_ schema:rating :Rating_a2e9q3t876tq6c_from_potter_s_field .
+:susie_morris_book_junkie schema:rating :Rating_a2e9q3t876tq6c_from_potter_s_field .
 
 :Rating_a32tv3qmuolfsm_from_potter_s_field a schema:Rating ;
     :aboutBook :Book_from_potter_s_field ;
@@ -8102,10 +8102,10 @@
     :aboutBook :Book_from_potter_s_field ;
     :Value "2.0"^^xsd:float .
 
-:_lmthetechwriter_ a foaf:Person ;
-    rdfs:label ""lmthetechwriter"" .
+:lmthetechwriter a foaf:Person ;
+    rdfs:label "lmthetechwriter" .
 
-:_lmthetechwriter_ schema:rating :Rating_ap7v34ylxevkl_from_potter_s_field .
+:lmthetechwriter schema:rating :Rating_ap7v34ylxevkl_from_potter_s_field .
 
 :Rating_unknown_from_potter_s_field a schema:Rating ;
     :aboutBook :Book_from_potter_s_field ;
@@ -8222,19 +8222,19 @@
     :aboutBook :Book_from_potter_s_field ;
     :Value "1.0"^^xsd:float .
 
-:evan__ewc2_ a foaf:Person ;
-    rdfs:label "Evan "ewc2"" .
+:evan_ewc2 a foaf:Person ;
+    rdfs:label "Evan ewc2" .
 
-:evan__ewc2_ schema:rating :Rating_a8dqhk2wgleok_from_potter_s_field .
+:evan_ewc2 schema:rating :Rating_a8dqhk2wgleok_from_potter_s_field .
 
 :Rating_a1rjyw4937oce8_from_potter_s_field a schema:Rating ;
     :aboutBook :Book_from_potter_s_field ;
     :Value "1.0"^^xsd:float .
 
-:jts__tkmfan_ a foaf:Person ;
-    rdfs:label "JTS "tkmfan"" .
+:jts_tkmfan a foaf:Person ;
+    rdfs:label "JTS tkmfan" .
 
-:jts__tkmfan_ schema:rating :Rating_a1rjyw4937oce8_from_potter_s_field .
+:jts_tkmfan schema:rating :Rating_a1rjyw4937oce8_from_potter_s_field .
 
 :Rating_a17hrdeir64elw_from_potter_s_field a schema:Rating ;
     :aboutBook :Book_from_potter_s_field ;
@@ -8249,10 +8249,10 @@
     :aboutBook :Book_from_potter_s_field ;
     :Value "3.0"^^xsd:float .
 
-:_mredd2_ a foaf:Person ;
-    rdfs:label ""mredd2"" .
+:mredd2 a foaf:Person ;
+    rdfs:label "mredd2" .
 
-:_mredd2_ schema:rating :Rating_a21j9uw5t2q779_from_potter_s_field .
+:mredd2 schema:rating :Rating_a21j9uw5t2q779_from_potter_s_field .
 
 :Rating_adj7nzhsd14ff_from_potter_s_field a schema:Rating ;
     :aboutBook :Book_from_potter_s_field ;
@@ -8297,16 +8297,16 @@
     :aboutBook :Book_from_potter_s_field ;
     :Value "3.0"^^xsd:float .
 
-:marie_anne_a___mary_ schema:rating :Rating_a1jdt2vpczvqw9_from_potter_s_field .
+:marie_anne_a__mary schema:rating :Rating_a1jdt2vpczvqw9_from_potter_s_field .
 
 :Rating_a3u437alqkgrey_from_potter_s_field a schema:Rating ;
     :aboutBook :Book_from_potter_s_field ;
     :Value "5.0"^^xsd:float .
 
-:william_g__straub__bill_ a foaf:Person ;
-    rdfs:label "William G. Straub "Bill"" .
+:william_g__straub_bill a foaf:Person ;
+    rdfs:label "William G. Straub Bill" .
 
-:william_g__straub__bill_ schema:rating :Rating_a3u437alqkgrey_from_potter_s_field .
+:william_g__straub_bill schema:rating :Rating_a3u437alqkgrey_from_potter_s_field .
 
 :Rating_a1hp5hzr5frqka_from_potter_s_field a schema:Rating ;
     :aboutBook :Book_from_potter_s_field ;
@@ -8321,7 +8321,7 @@
     :aboutBook :Book_from_potter_s_field ;
     :Value "4.0"^^xsd:float .
 
-:ruth_thompson__weaver_of_tales_ schema:rating :Rating_a2ylbdy64igtbj_from_potter_s_field .
+:ruth_thompson_weaver_of_tales schema:rating :Rating_a2ylbdy64igtbj_from_potter_s_field .
 
 :Rating_a2sk15s99kqoh4_from_potter_s_field a schema:Rating ;
     :aboutBook :Book_from_potter_s_field ;
@@ -8336,40 +8336,40 @@
     :aboutBook :Book_from_potter_s_field ;
     :Value "5.0"^^xsd:float .
 
-:chibear__barb_ a foaf:Person ;
-    rdfs:label "ChiBear "Barb"" .
+:chibear_barb a foaf:Person ;
+    rdfs:label "ChiBear Barb" .
 
-:chibear__barb_ schema:rating :Rating_a2bhe24j6u71kc_from_potter_s_field .
+:chibear_barb schema:rating :Rating_a2bhe24j6u71kc_from_potter_s_field .
 
 :Rating_a39650p2czuuc9_from_potter_s_field a schema:Rating ;
     :aboutBook :Book_from_potter_s_field ;
     :Value "3.0"^^xsd:float .
 
-:bonnie_brody__book_lover_and_knitter_ schema:rating :Rating_a39650p2czuuc9_from_potter_s_field .
+:bonnie_brody_book_lover_and_knitter schema:rating :Rating_a39650p2czuuc9_from_potter_s_field .
 
 :Rating_amcj805gov20a_from_potter_s_field a schema:Rating ;
     :aboutBook :Book_from_potter_s_field ;
     :Value "5.0"^^xsd:float .
 
-:book_worm__book_worm_ schema:rating :Rating_amcj805gov20a_from_potter_s_field .
+:book_worm_book_worm schema:rating :Rating_amcj805gov20a_from_potter_s_field .
 
 :Rating_a34qgzbqig3u0e_from_potter_s_field a schema:Rating ;
     :aboutBook :Book_from_potter_s_field ;
     :Value "4.0"^^xsd:float .
 
-:barbara_l__lemaster__bibliophile_ a foaf:Person ;
-    rdfs:label "Barbara L. Lemaster "Bibliophile"" .
+:barbara_l__lemaster_bibliophile a foaf:Person ;
+    rdfs:label "Barbara L. Lemaster Bibliophile" .
 
-:barbara_l__lemaster__bibliophile_ schema:rating :Rating_a34qgzbqig3u0e_from_potter_s_field .
+:barbara_l__lemaster_bibliophile schema:rating :Rating_a34qgzbqig3u0e_from_potter_s_field .
 
 :Rating_a1juluvb0ylzi2_from_potter_s_field a schema:Rating ;
     :aboutBook :Book_from_potter_s_field ;
     :Value "5.0"^^xsd:float .
 
-:v__newsham__vickylynn19_ a foaf:Person ;
-    rdfs:label "V. NEWSHAM "VickyLynn19"" .
+:v__newsham_vickylynn19 a foaf:Person ;
+    rdfs:label "V. NEWSHAM VickyLynn19" .
 
-:v__newsham__vickylynn19_ schema:rating :Rating_a1juluvb0ylzi2_from_potter_s_field .
+:v__newsham_vickylynn19 schema:rating :Rating_a1juluvb0ylzi2_from_potter_s_field .
 
 :Rating_a1w3dwrdbigugd_from_potter_s_field a schema:Rating ;
     :aboutBook :Book_from_potter_s_field ;
@@ -8384,19 +8384,19 @@
     :aboutBook :Book_from_potter_s_field ;
     :Value "5.0"^^xsd:float .
 
-:kat__book_devourer_ a foaf:Person ;
-    rdfs:label "Kat "Book Devourer"" .
+:kat_book_devourer a foaf:Person ;
+    rdfs:label "Kat Book Devourer" .
 
-:kat__book_devourer_ schema:rating :Rating_amfd56wapan1k_from_potter_s_field .
+:kat_book_devourer schema:rating :Rating_amfd56wapan1k_from_potter_s_field .
 
 :Rating_a3dqq5l75kqtpp_from_potter_s_field a schema:Rating ;
     :aboutBook :Book_from_potter_s_field ;
     :Value "3.0"^^xsd:float .
 
-:gulshan_batra___b__ a foaf:Person ;
-    rdfs:label "Gulshan Batra "(B)"" .
+:gulshan_batra__b_ a foaf:Person ;
+    rdfs:label "Gulshan Batra (B)" .
 
-:gulshan_batra___b__ schema:rating :Rating_a3dqq5l75kqtpp_from_potter_s_field .
+:gulshan_batra__b_ schema:rating :Rating_a3dqq5l75kqtpp_from_potter_s_field .
 
 :Rating_atulsppau8x15_from_potter_s_field a schema:Rating ;
     :aboutBook :Book_from_potter_s_field ;
@@ -8432,10 +8432,10 @@
     :aboutBook :Book_from_potter_s_field ;
     :Value "3.0"^^xsd:float .
 
-:tarheel_golfer__thgolfer_ a foaf:Person ;
-    rdfs:label "Tarheel Golfer "thgolfer"" .
+:tarheel_golfer_thgolfer a foaf:Person ;
+    rdfs:label "Tarheel Golfer thgolfer" .
 
-:tarheel_golfer__thgolfer_ schema:rating :Rating_aj5i9x89ufebu_from_potter_s_field .
+:tarheel_golfer_thgolfer schema:rating :Rating_aj5i9x89ufebu_from_potter_s_field .
 
 :Rating_a14ebtrozf3ac7_from_potter_s_field a schema:Rating ;
     :aboutBook :Book_from_potter_s_field ;
@@ -8460,10 +8460,10 @@
     :aboutBook :Book_love_rekindled__a_novel ;
     :Value "4.0"^^xsd:float .
 
-:ak__bro_ a foaf:Person ;
-    rdfs:label "AK "Bro"" .
+:ak_bro a foaf:Person ;
+    rdfs:label "AK Bro" .
 
-:ak__bro_ schema:rating :Rating_a3h8nj5pjnlfd5_love_rekindled__a_novel .
+:ak_bro schema:rating :Rating_a3h8nj5pjnlfd5_love_rekindled__a_novel .
 
 :Rating_a39rl99kxlw9nu_love_rekindled__a_novel a schema:Rating ;
     :aboutBook :Book_love_rekindled__a_novel ;
@@ -8500,10 +8500,10 @@
     :aboutBook :Book_close_to_home_revisited ;
     :Value "3.0"^^xsd:float .
 
-:j__g__lewis__the_lantern_ a foaf:Person ;
-    rdfs:label "J. G. Lewis "the lantern"" .
+:j__g__lewis_the_lantern a foaf:Person ;
+    rdfs:label "J. G. Lewis the lantern" .
 
-:j__g__lewis__the_lantern_ schema:rating :Rating_a3ljkgt8pue3ia_close_to_home_revisited .
+:j__g__lewis_the_lantern schema:rating :Rating_a3ljkgt8pue3ia_close_to_home_revisited .
 
 :Rating_a3qxdjqihngkmh_close_to_home_revisited a schema:Rating ;
     :aboutBook :Book_close_to_home_revisited ;
@@ -8538,19 +8538,19 @@
     :aboutBook :Book_study_guide_for_use_with_financial_accounting ;
     :Value "5.0"^^xsd:float .
 
-:saxmaster3__saxmaster3_ a foaf:Person ;
-    rdfs:label "saxmaster3 "saxmaster3"" .
+:saxmaster3_saxmaster3 a foaf:Person ;
+    rdfs:label "saxmaster3 saxmaster3" .
 
-:saxmaster3__saxmaster3_ schema:rating :Rating_arxi16ng25520_study_guide_for_use_with_financial_accounting .
+:saxmaster3_saxmaster3 schema:rating :Rating_arxi16ng25520_study_guide_for_use_with_financial_accounting .
 
 :Rating_a3layctgso1iqr_study_guide_for_use_with_financial_accounting a schema:Rating ;
     :aboutBook :Book_study_guide_for_use_with_financial_accounting ;
     :Value "5.0"^^xsd:float .
 
-:purrrfectcat__purrfectcat_ a foaf:Person ;
-    rdfs:label "Purrrfectcat "purrfectcat"" .
+:purrrfectcat_purrfectcat a foaf:Person ;
+    rdfs:label "Purrrfectcat purrfectcat" .
 
-:purrrfectcat__purrfectcat_ schema:rating :Rating_a3layctgso1iqr_study_guide_for_use_with_financial_accounting .
+:purrrfectcat_purrfectcat schema:rating :Rating_a3layctgso1iqr_study_guide_for_use_with_financial_accounting .
 
 :Rating_unknown_study_guide_for_use_with_financial_accounting a schema:Rating ;
     :aboutBook :Book_study_guide_for_use_with_financial_accounting ;
@@ -8641,10 +8641,10 @@
     :aboutBook :Book_lost_cities_of_africa_and_arabia__the_lost_city_series_ ;
     :Value "4.0"^^xsd:float .
 
-:elmsaafir__ryokojin_ a foaf:Person ;
-    rdfs:label "Elmsaafir "Ryokojin"" .
+:elmsaafir_ryokojin a foaf:Person ;
+    rdfs:label "Elmsaafir Ryokojin" .
 
-:elmsaafir__ryokojin_ schema:rating :Rating_a3menws2a1vkcq_lost_cities_of_africa_and_arabia__the_lost_city_series_ .
+:elmsaafir_ryokojin schema:rating :Rating_a3menws2a1vkcq_lost_cities_of_africa_and_arabia__the_lost_city_series_ .
 
 :Rating_a1wxcmb52bon8n_lost_cities_of_africa_and_arabia__the_lost_city_series_ a schema:Rating ;
     :aboutBook :Book_lost_cities_of_africa_and_arabia__the_lost_city_series_ ;
@@ -8686,10 +8686,10 @@
     :aboutBook :Book_lost_cities_of_africa_and_arabia__the_lost_city_series_ ;
     :Value "2.0"^^xsd:float .
 
-:_oscar_freak_ a foaf:Person ;
-    rdfs:label ""oscar_freak"" .
+:oscar_freak a foaf:Person ;
+    rdfs:label "oscar_freak" .
 
-:_oscar_freak_ schema:rating :Rating_a7om80f804a1u_lost_cities_of_africa_and_arabia__the_lost_city_series_ .
+:oscar_freak schema:rating :Rating_a7om80f804a1u_lost_cities_of_africa_and_arabia__the_lost_city_series_ .
 
 :Rating_unknown_lost_cities_of_africa_and_arabia__the_lost_city_series_ a schema:Rating ;
     :aboutBook :Book_lost_cities_of_africa_and_arabia__the_lost_city_series_ ;

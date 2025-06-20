@@ -34,18 +34,25 @@ Using Protégé, you can:
 
 ## SPARQL Queries & GraphDB
 
-To run SPARQL queries on the ontology, the project uses **[GraphDB](https://www.ontotext.com/products/graphdb/)**.
+To run SPARQL queries on the ontology, the project uses **[GraphDB](https://www.ontotext.com/products/graphdb/)**. Version that was used in project is: GraphDB 11.0.
 
 ### Running queries in GraphDB
 
 1. Install GraphDB or run the desktop version.
-2a. Upload repository setup from GraphDBRepository/RecommOnto-config.ttl  
-  - In this repository, the queries with output should be visible and exploring output data is available
-If anything goes wrong with uploading ready repository:
-2b. Create a new repository and upload the following files:
- - `recommandations.ttl`
- - All `.ttl` data files from the `DataUploader/` directory
+2. Create a new repository and upload the following files:
+ - RecommOnto/recommandations.ttl (it is compressed to recommandations.zip file) 
+ - All `.ttl` data files from the `DataUploader/` directory (amazon_books.ttl is also in .zip file)
+   ![image](https://github.com/user-attachments/assets/952ef434-6fc3-47fa-a545-9c8555d9331a)
+   ![image](https://github.com/user-attachments/assets/4847b0ce-ba79-412c-bdd9-b54f81d91b41)
 
+
+3. After succesfully uploading '.ttl' files, it is possible to explore queries result in SPARQL tab.
+   - Sample queries are kept in repository in folder RecommOnto/SarqlQueries
+4. After running the Queries, it will be possible to explore the results
+   ![image](https://github.com/user-attachments/assets/25d76e94-d2a7-4fb9-8298-076a7cc07cd2)
+5. Results can be download in several formats:
+   
+   ![image](https://github.com/user-attachments/assets/8524dc4f-125f-492c-92cd-fd3bd5117346)
 
 
 ### Query results

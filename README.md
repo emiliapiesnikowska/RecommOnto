@@ -5,7 +5,7 @@
 ## Getting Started
 
 ### 1. Open the ontology in Protégé
-
+Version of Protégé that was used in project was Protégé 5.6.5.0
 1. Clone this repository or download it as a ZIP.
 2. Launch **[Protégé](https://protege.stanford.edu/)**.
 3. Open the ontology file
@@ -16,7 +16,9 @@ RecommOnto/recommandations.ttl (it is compressed to recommandations.zip file)
 
 If the individuals or data instances are not visible, import them manually in Protégé:
 
-- Go to `File > Import...`
+- Go to `Active ontology` tab, then `Ontology imports` and choose plus icon near to 'Direct imports'
+  ![image](https://github.com/user-attachments/assets/f2d0f0cf-48a8-4c5a-84f1-8e9decd596f5)
+
 - Select format `RDF/XML` or `Turtle`, and import the following files:
 
 DataUploader/output_LDOS-comoda.ttl
@@ -25,12 +27,25 @@ DataUploader/pitchfork_album_reviews.ttl
 
 - After importing, it’s recommended to **reopen the ontology**, by rebooting protege tool to ensure all data is correctly displayed.
 
+In case of issues with missing import:
+![image](https://github.com/user-attachments/assets/7da4a568-1da7-471e-af13-01ed4132a30d)
+
+User should choose option 'Yes' and add missing .ttl file that name matches filename from /DataUploader folder.
+
 ### 3. Explore the ontology
 
 Using Protégé, you can:
 
 - Browse **classes**, **individuals**, and **object/data properties**
 - Analyze class hierarchies and semantic relationships
+
+To explore individual entities go to `Entities` tab -> `Individuals`
+![image](https://github.com/user-attachments/assets/67dfff2f-af8e-4f76-b90a-bc0b0beb3fc1)
+
+To explore hierarchy of ontology go to  `Entities` tab -> `Classes`
+Set View settings to "Show only the active ontology" to explore RecommontoHierarchy and hide classes from imported ontologies that were not yet used.
+![image](https://github.com/user-attachments/assets/bc5e3dc1-81b9-4357-bffb-238ebb3ef450)
+
 
 ## SPARQL Queries & GraphDB
 

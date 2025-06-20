@@ -1,0 +1,13 @@
+# books_and_movies_with_horror_genre 
+PREFIX : <http://www.semanticweb.org/emili/ontologies/2025/3/recommendations/>
+PREFIX schema: <http://schema.org/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT ?mediaItem ?title ?type
+WHERE {
+  ?mediaItem a ?type ;
+             rdfs:label ?title ;
+             :hasGenre ?genre .
+  ?genre rdfs:label ?genreLabel .
+  FILTER(CONTAINS(LCASE(STR(?genreLabel)), "horror"))
+  FILTER(?type IN (schema:Book, schema:Movie))
+}

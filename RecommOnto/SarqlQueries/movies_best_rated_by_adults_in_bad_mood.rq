@@ -1,0 +1,24 @@
+# movies_best_rated_by_adults_in_bad_mood
+
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX : <http://www.semanticweb.org/emili/ontologies/2025/3/recommendations/>
+PREFIX schema: <http://schema.org/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?movie ?title (AVG(xsd:float(?ratingValue)) AS ?avgRating)
+WHERE {
+  ?rating a schema:Rating ;
+          schema:item ?movie ;
+          schema:ratingValue ?ratingValue ;
+          :hasContext ?context .
+  
+  ?context :hasDemographicContext ?demo .
+  ?demo :hasAgeGroup :Adult .
+
+  ?context :hasUsersStateContext ?state .
+  ?state :hasUsersMood :Negative .
+
+  ?movie rdfs:label ?title .
+}
+GROUP BY ?movie ?title
+ORDER BY DESC(?avgRating)

@@ -1,0 +1,12 @@
+# books_with_their_genre
+PREFIX : <http://www.semanticweb.org/emili/ontologies/2025/3/recommendations/>
+PREFIX schema: <http://schema.org/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?book ?title ?genreLabel
+WHERE {
+  ?book a schema:Book ;
+        rdfs:label ?title ;
+        :hasGenre ?genre .
+  ?genre rdfs:label ?genreLabel .
+}

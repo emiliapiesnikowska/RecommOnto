@@ -1,0 +1,23 @@
+# movies_watched_at_home_during_holidays
+
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX : <http://www.semanticweb.org/emili/ontologies/2025/3/recommendations/>
+PREFIX schema: <http://schema.org/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?movie ?title
+WHERE {
+  ?rating a schema:Rating ;
+          schema:item ?movie ;
+          :hasContext ?context .
+  ?context :hasLocationContext ?locContext .
+  ?locContext :hasLocation ?location .
+  ?location :hasLocation :Home .
+  
+  ?context :hasTimeContext ?timeContext .
+  ?timeContext :hasTime ?time .
+  ?time :hasDayOfWeek :Holiday .
+
+  ?movie a schema:Movie ;
+         rdfs:label ?title .
+}

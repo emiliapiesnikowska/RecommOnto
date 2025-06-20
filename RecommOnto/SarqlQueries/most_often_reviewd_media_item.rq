@@ -1,0 +1,21 @@
+# movies_that_were_watched_with_companion_most_often
+
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX : <http://www.semanticweb.org/emili/ontologies/2025/3/recommendations/>
+PREFIX schema: <http://schema.org/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?movie ?title (COUNT(?rating) AS ?count)
+WHERE {
+  ?rating a schema:Rating ;
+          schema:item ?movie ;
+          :hasContext ?context .
+  ?context :hasSocialContext ?socialContext .
+  ?socialContext :hasCompanion ?companion .
+  FILTER(?companion != :Unknown)
+  ?movie a schema:Movie ;
+         rdfs:label ?title .
+}
+GROUP BY ?movie ?title
+ORDER BY DESC(?count)
+LIMIT 5
